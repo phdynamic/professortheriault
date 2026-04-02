@@ -581,6 +581,10 @@ a:hover {
 }
 
 /* === Download Links === */
+.download-row {
+  margin: 0.5rem 0;
+}
+
 .download-link {
   display: inline-flex;
   align-items: center;
@@ -592,7 +596,6 @@ a:hover {
   font-weight: 500;
   text-decoration: none;
   transition: border-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
-  margin: 0.5rem 0;
 }
 
 .download-link::before {
@@ -604,6 +607,16 @@ a:hover {
   transform: translateY(-2px);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
   text-decoration: none;
+}
+
+.download-link__badge {
+  margin-left: auto;
+  padding-left: 1rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #666;
+  letter-spacing: 0.05em;
 }
 
 /* === Responsive === */
