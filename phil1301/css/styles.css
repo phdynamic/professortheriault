@@ -448,6 +448,161 @@ a:hover {
   text-decoration: underline;
 }
 
+/* === Tabs === */
+.tabs {
+  margin: 1.5rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.tabs__bar {
+  display: flex;
+  background-color: #f0f4f8;
+  border-bottom: 2px solid #e0e0e0;
+  overflow-x: auto;
+}
+
+.tabs__tab {
+  padding: 0.75rem 1.25rem;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #666;
+  white-space: nowrap;
+  transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+  margin-bottom: -2px;
+}
+
+.tabs__tab:hover {
+  color: #0ea5e9;
+  background-color: #e2e8f0;
+}
+
+.tabs__tab--active {
+  color: #1a2332;
+  font-weight: 700;
+  border-bottom-color: #0ea5e9;
+  background-color: #fff;
+}
+
+.tabs__panel {
+  padding: 1.5rem;
+  min-height: 100px;
+}
+
+.tabs__panel[hidden] {
+  display: none;
+}
+
+/* === Callout Boxes === */
+.callout {
+  display: flex;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+  border-left: 4px solid #e0e0e0;
+  border-radius: 0 8px 8px 0;
+  background-color: #f5f7fa;
+}
+
+.callout__icon {
+  font-size: 1.3rem;
+  flex-shrink: 0;
+  line-height: 1.6;
+}
+
+.callout__content {
+  flex: 1;
+}
+
+.callout__content p:last-child {
+  margin-bottom: 0;
+}
+
+.callout--concept {
+  border-left-color: #0ea5e9;
+  background-color: #f0f9ff;
+}
+
+.callout--note {
+  border-left-color: #2d6a4f;
+  background-color: #ecfdf5;
+}
+
+.callout--connection {
+  border-left-color: #d97706;
+  background-color: #fffbeb;
+}
+
+/* === Argument Blocks === */
+.argument-block {
+  background-color: #f8f9fa;
+  border-left: 4px solid #6b7280;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 0 8px 8px 0;
+  font-family: 'Georgia', serif;
+  line-height: 1.8;
+}
+
+/* === Hero Image === */
+.page-hero-image {
+  width: 100%;
+  max-height: 350px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+}
+
+/* === Video Embeds === */
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+}
+
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* === Download Links === */
+.download-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  color: #1a2332;
+  font-weight: 500;
+  text-decoration: none;
+  transition: border-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  margin: 0.5rem 0;
+}
+
+.download-link::before {
+  content: "\1F4C4";
+}
+
+.download-link:hover {
+  border-color: #0ea5e9;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  text-decoration: none;
+}
+
 /* === Responsive === */
 @media (max-width: 899px) {
   .top-nav__hamburger {
