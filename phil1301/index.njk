@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+title: "Introduction to Philosophy"
+description: "PHIL 1301: Introduction to Philosophy — Course home page"
+---
+
+<div class="course-hero">
+  <h1>Introduction to Philosophy</h1>
+  <p class="subtitle">PHIL 1301 — Explore the ideas that shaped human thought</p>
+</div>
+
+<div class="module-grid">
+  {% for mod in course.modules %}
+  <a href="/phil1301/{{ mod.slug }}/" class="module-card">
+    <span class="module-card__icon">{{ mod.icon | safe }}</span>
+    <span class="module-card__title">{{ mod.title }}</span>
+    <span class="module-card__desc">{{ mod.description }}</span>
+  </a>
+  {% endfor %}
+</div>
