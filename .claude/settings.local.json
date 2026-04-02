@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/norma/.claude/plugins/cache/claude-plugins-official/superpowers/**)",
+      "Bash(bash \"C:\\\\Users\\\\norma\\\\.claude\\\\plugins\\\\cache\\\\claude-plugins-official\\\\superpowers\\\\5.0.6\\\\skills\\\\brainstorming\\\\scripts\\\\start-server.sh\" --project-dir \"C:\\\\Users\\\\norma\\\\OneDrive\\\\Documents\\\\MEGA\\\\Teaching Files\\\\HCC\\\\LMS Courses\\\\001 - New PHIL 1301\\\\website\")",
+      "Bash(where node:*)",
+      "Bash(git -C \"/c/Users/norma/OneDrive/Documents/MEGA/Teaching Files/HCC/LMS Courses/001 - New PHIL 1301/website\" status)",
+      "Bash(git -C \"/c/Users/norma/OneDrive/Documents/MEGA/Teaching Files/HCC/LMS Courses/001 - New PHIL 1301/website\" add index.html)",
+      "Bash(git -C \"/c/Users/norma/OneDrive/Documents/MEGA/Teaching Files/HCC/LMS Courses/001 - New PHIL 1301/website\" commit -m \"feat: add homepage with hero section and course cards\")",
+      "Bash(where npx:*)",
+      "Bash(where python:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc course_settings/module_meta.xml)",
+      "Bash(npm --version)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/nodejs\")",
+      "Bash(npm install:*)",
+      "Bash(npx @11ty/eleventy)",
+      "Bash(npx @11ty/eleventy --serve --port=8080)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8080/phil1301/)",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc wiki_content/unit-1-overview.html)",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc wiki_content/socrates-life-and-context.html)",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc wiki_content/the-euthyphro.html)",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc wiki_content/getting-started.html)",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc wiki_content/cogito-ergo-sum.html)",
+      "Bash(unzip -l sand-box-number-1-phil-1301-export.imscc \"wiki_content/*\")",
+      "Bash(grep -oP '\\\\$IMS-CC-FILEBASE\\\\$[^\"\"\"\"]*')",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc \"$f\")",
+      "Bash(done)",
+      "Bash(grep -o '\\\\$IMS-CC-FILEBASE\\\\$[^\"\"\"\"]*')",
+      "Bash(unzip -p sand-box-number-1-phil-1301-export.imscc wiki_content/bad-faith.html)",
+      "Bash(node -e \"require\\(''adm-zip''\\); require\\(''cheerio''\\); require\\(''xml2js''\\); console.log\\(''OK''\\)\")",
+      "Bash(node -e \":*)",
+      "Bash(node scripts/convert-imscc.js)",
+      "Bash(npx @11ty/eleventy --serve --port=8081)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/unit-1-socrates/)"
+    ]
+  }
+}

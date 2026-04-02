@@ -10,15 +10,11 @@
       "pages": [
         {
           "slug": "index",
-          "title": "Introduction to Philosophy"
+          "title": "Getting Started"
         },
         {
           "slug": "meet-your-instructor-2",
           "title": "Meet Your Instructor"
-        },
-        {
-          "slug": "getting-started",
-          "title": "Getting Started"
         },
         {
           "slug": "how-to-use-this-site",
