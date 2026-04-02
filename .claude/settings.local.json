@@ -34,7 +34,8 @@
       "Bash(node -e \":*)",
       "Bash(node scripts/convert-imscc.js)",
       "Bash(npx @11ty/eleventy --serve --port=8081)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/unit-1-socrates/)"
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/unit-1-socrates/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/start-here/)"
     ]
   }
 }
