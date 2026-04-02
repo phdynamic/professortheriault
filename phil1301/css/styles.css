@@ -448,57 +448,88 @@ a:hover {
   text-decoration: underline;
 }
 
-/* === Tabs === */
-.tabs {
+/* === Accordions === */
+.accordion {
   margin: 1.5rem 0;
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   overflow: hidden;
 }
 
-.tabs__bar {
+.accordion__item {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.accordion__item:last-child {
+  border-bottom: none;
+}
+
+.accordion__header {
   display: flex;
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.9rem 1.25rem;
   background-color: #f0f4f8;
-  border-bottom: 2px solid #e0e0e0;
-}
-
-.tabs__tab {
-  padding: 0.75rem 1.25rem;
-  background: none;
   border: none;
-  border-bottom: 3px solid transparent;
   cursor: pointer;
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: #666;
-  transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
-  margin-bottom: -2px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #1a2332;
+  text-align: left;
+  transition: background-color 0.2s ease;
 }
 
-.tabs__tab:hover {
-  color: #0ea5e9;
+.accordion__header:hover {
   background-color: #e2e8f0;
 }
 
-.tabs__tab--active {
-  color: #1a2332;
-  font-weight: 700;
-  border-bottom-color: #0ea5e9;
+.accordion__chevron {
+  margin-left: auto;
+  font-size: 0.75rem;
+  transition: transform 0.3s ease;
+  color: #666;
+}
+
+.accordion__item--open .accordion__chevron {
+  transform: rotate(180deg);
+}
+
+.accordion__item--open .accordion__header {
   background-color: #fff;
+  border-bottom: 2px solid #0ea5e9;
 }
 
-.tabs__panel {
+.accordion__number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  border-radius: 50%;
+  background-color: #0ea5e9;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.accordion__content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+}
+
+.accordion__body {
   padding: 1.5rem;
-  min-height: 100px;
 }
 
-.tabs__panel[hidden] {
-  display: none;
+.accordion__body h3:first-child {
+  margin-top: 0;
 }
 
-.tabs__panel h3:not(:first-child),
-.tabs__panel h4 {
+.accordion__body h3:not(:first-child),
+.accordion__body h4 {
   margin-top: 1.5rem;
 }
 
