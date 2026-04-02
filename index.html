@@ -75,10 +75,16 @@
       position: relative;
     }
 
-    .card-link:hover {
+    .card-link:hover,
+    .card-link:focus-visible {
       transform: translateY(-6px);
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
       border-color: #0ea5e9;
+    }
+
+    .card-link:focus-visible {
+      outline: 3px solid #0ea5e9;
+      outline-offset: 2px;
     }
 
     .card-body {
@@ -107,7 +113,7 @@
 
     .badge {
       display: inline-block;
-      background-color: #0ea5e9;
+      background-color: #0369a1;
       color: #fff;
       font-size: 0.75rem;
       font-weight: 600;
@@ -180,32 +186,32 @@
   <main class="cards-section">
     <div class="card-grid">
 
-      <a href="#" class="card-link">
+      <div class="card-link" aria-label="Introduction to Philosophy — Coming Soon">
         <span class="badge">Coming Soon</span>
         <div class="card-body">
           <span class="card-icon" role="img" aria-label="Philosophy">&#128220;</span>
           <h2>Introduction to Philosophy</h2>
           <p>Examine the fundamental questions of existence, knowledge, and reason that have shaped human thought for millennia.</p>
         </div>
-      </a>
+      </div>
 
-      <a href="#" class="card-link">
+      <div class="card-link" aria-label="Introduction to Ethics — Coming Soon">
         <span class="badge">Coming Soon</span>
         <div class="card-body">
           <span class="card-icon" role="img" aria-label="Ethics">&#9878;&#65039;</span>
           <h2>Introduction to Ethics</h2>
           <p>Explore moral frameworks and ethical reasoning to better understand how we decide what is right and wrong.</p>
         </div>
-      </a>
+      </div>
 
-      <a href="#" class="card-link">
+      <div class="card-link" aria-label="Introduction to Humanities — Coming Soon">
         <span class="badge">Coming Soon</span>
         <div class="card-body">
           <span class="card-icon" role="img" aria-label="Humanities">&#127963;&#65039;</span>
           <h2>Introduction to Humanities</h2>
           <p>Discover how art, literature, history, and culture shape our understanding of the human experience.</p>
         </div>
-      </a>
+      </div>
 
       <a href="https://philosophygames.online" target="_blank" rel="noopener noreferrer" class="card-link">
         <span class="badge">Explore</span>
@@ -216,14 +222,14 @@
         </div>
       </a>
 
-      <a href="#" class="card-link">
+      <div class="card-link" aria-label="GIMP 3.0 Courses — In Development">
         <span class="badge">In Development</span>
         <div class="card-body">
           <span class="card-icon" role="img" aria-label="GIMP Courses">&#127912;</span>
           <h2>GIMP 3.0 Courses</h2>
           <p>Learn professional image editing and graphic design with GIMP 3.0 through hands-on, project-based lessons.</p>
         </div>
-      </a>
+      </div>
 
     </div>
   </main>
