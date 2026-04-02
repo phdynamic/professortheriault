@@ -1,81 +1,90 @@
 (function () {
   document.querySelectorAll(".quiz").forEach(function (quiz) {
     var questions = quiz.querySelectorAll(".quiz__question");
-    var submitBtn = quiz.querySelector(".quiz__submit");
-    var resultsDiv = quiz.querySelector(".quiz__results");
+    var totalQuestions = questions.length;
+    var scoreTracker = quiz.querySelector(".quiz__score-tracker");
 
-    submitBtn.addEventListener("click", function () {
-      var total = questions.length;
-      var correct = 0;
+    // Initialize score tracking
+    var answered = 0;
+    var correct = 0;
 
-      questions.forEach(function (q) {
-        var selected = q.querySelector('input[type="radio"]:checked');
-        var choices = q.querySelectorAll(".quiz__choice");
-        var correctValue = q.getAttribute("data-correct");
+    function updateScore() {
+      if (scoreTracker) {
+        scoreTracker.textContent = correct + " / " + totalQuestions + " correct";
+        scoreTracker.style.display = answered > 0 ? "block" : "none";
+      }
+    }
 
-        // Clear previous feedback
-        choices.forEach(function (c) {
-          c.classList.remove("quiz__choice--correct", "quiz__choice--incorrect");
-        });
-        q.classList.remove("quiz__question--answered");
+    questions.forEach(function (q, qIndex) {
+      var choices = q.querySelectorAll(".quiz__choice");
+      var correctValue = q.getAttribute("data-correct");
+      var clearBtn = q.querySelector(".quiz__clear");
+      var isAnswered = false;
 
-        if (selected) {
+      choices.forEach(function (choice) {
+        var input = choice.querySelector("input");
+        var label = choice.querySelector("label");
+
+        function handleSelect() {
+          if (isAnswered) return;
+          isAnswered = true;
+          answered++;
+
+          // Disable all radio buttons in this question
+          q.querySelectorAll('input[type="radio"]').forEach(function (r) {
+            r.disabled = true;
+          });
           q.classList.add("quiz__question--answered");
-          var selectedChoice = selected.closest(".quiz__choice");
 
-          if (selected.value === correctValue) {
+          if (input.value === correctValue) {
             correct++;
-            selectedChoice.classList.add("quiz__choice--correct");
+            choice.classList.add("quiz__choice--correct");
           } else {
-            selectedChoice.classList.add("quiz__choice--incorrect");
-            // Highlight the correct answer
+            choice.classList.add("quiz__choice--incorrect");
+            // Show the correct answer
             choices.forEach(function (c) {
-              var input = c.querySelector("input");
-              if (input && input.value === correctValue) {
+              var cInput = c.querySelector("input");
+              if (cInput && cInput.value === correctValue) {
                 c.classList.add("quiz__choice--correct");
               }
             });
           }
-        } else {
-          // Not answered — highlight correct
-          q.classList.add("quiz__question--answered");
-          choices.forEach(function (c) {
-            var input = c.querySelector("input");
-            if (input && input.value === correctValue) {
-              c.classList.add("quiz__choice--correct");
-            }
-          });
+
+          input.checked = true;
+          if (clearBtn) clearBtn.style.display = "inline-block";
+          updateScore();
         }
+
+        input.addEventListener("change", handleSelect);
+        label.addEventListener("click", function (e) {
+          if (isAnswered) e.preventDefault();
+        });
       });
 
-      var percentage = Math.round((correct / total) * 100);
-      resultsDiv.innerHTML =
-        '<div class="quiz__score">' +
-        '<h3>Your Score: ' + correct + ' / ' + total + ' (' + percentage + '%)</h3>' +
-        (percentage === 100 ? '<p>Perfect score! Excellent work.</p>' :
-         percentage >= 80 ? '<p>Great job! Review the questions you missed.</p>' :
-         percentage >= 60 ? '<p>Good effort. Consider reviewing the material and trying again.</p>' :
-         '<p>You may want to revisit the readings before retrying.</p>') +
-        '<button class="quiz__retry" type="button">Try Again</button>' +
-        '</div>';
+      // Clear button for this question
+      if (clearBtn) {
+        clearBtn.addEventListener("click", function () {
+          if (!isAnswered) return;
 
-      resultsDiv.style.display = "block";
-      resultsDiv.scrollIntoView({ behavior: "smooth", block: "center" });
+          // Undo score
+          var wasCorrect = q.querySelector(".quiz__choice--correct input:checked");
+          if (wasCorrect) correct--;
+          answered--;
 
-      // Retry button
-      resultsDiv.querySelector(".quiz__retry").addEventListener("click", function () {
-        questions.forEach(function (q) {
+          // Reset visual state
+          isAnswered = false;
           q.classList.remove("quiz__question--answered");
-          q.querySelectorAll(".quiz__choice").forEach(function (c) {
+          choices.forEach(function (c) {
             c.classList.remove("quiz__choice--correct", "quiz__choice--incorrect");
           });
           q.querySelectorAll('input[type="radio"]').forEach(function (r) {
+            r.disabled = false;
             r.checked = false;
           });
+          clearBtn.style.display = "none";
+          updateScore();
         });
-        resultsDiv.style.display = "none";
-        quiz.scrollIntoView({ behavior: "smooth" });
-      });
+      }
     });
   });
 })();

@@ -6,11 +6,12 @@ breadcrumbTitle: "Quiz"
 position: 7
 tags: unit6
 ---
+
 <div class="callout callout--concept"><span class="callout__icon" aria-hidden="true">💡</span><div class="callout__content">
 <p><strong>Self-study quiz.</strong> This quiz is for your own review — answers are not recorded. You'll get instant feedback and can retake it as many times as you like.</p>
 </div></div>
 
-<div class="quiz">
+<div class="quiz"><div class="quiz__score-tracker" style="display:none;"></div>
   <div class="quiz__question" data-correct="q1b">
     <div class="quiz__question-text"><span class="quiz__number">1</span> <div><p>Sartre's lecture "Existentialism Is a Humanism" opens with the claim that "existence precedes essence." What does he mean by this?</p></div></div>
     <ul class="quiz__choices">
@@ -30,7 +31,7 @@ tags: unit6
         <input type="radio" name="q1" value="q1d" id="q1d">
         <label for="q1d">Our existence in the world is more certain than our understanding of who we are.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q2b">
     <div class="quiz__question-text"><span class="quiz__number">2</span> <div><p>Sartre uses the example of a paper-knife (a letter opener) to illustrate "essence precedes existence." What point is he making?</p></div></div>
@@ -51,7 +52,7 @@ tags: unit6
         <input type="radio" name="q2" value="q2d" id="q2d">
         <label for="q2d">God created humans the way an artisan creates tools — with a definite purpose in mind.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q3b">
     <div class="quiz__question-text"><span class="quiz__number">3</span> <div><p>When Sartre says humans are "condemned to be free," what does he mean?</p></div></div>
@@ -72,7 +73,7 @@ tags: unit6
         <input type="radio" name="q3" value="q3d" id="q3d">
         <label for="q3d">God condemned humans to freedom as a consequence of the Fall.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q4c">
     <div class="quiz__question-text"><span class="quiz__number">4</span> <div><p>Sartre describes a waiter who plays at being a waiter — mimicking the role with exaggerated precision. What does this example illustrate?</p></div></div>
@@ -93,7 +94,7 @@ tags: unit6
         <input type="radio" name="q4" value="q4d" id="q4d">
         <label for="q4d">The alienation of labor under capitalism, as Marx described it.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q5c">
     <div class="quiz__question-text"><span class="quiz__number">5</span> <div><p>According to Sartre, what is "bad faith" (<em>mauvaise foi</em>)?</p></div></div>
@@ -114,7 +115,7 @@ tags: unit6
         <input type="radio" name="q5" value="q5d" id="q5d">
         <label for="q5d">Acting against one's own moral principles under social pressure.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q6b">
     <div class="quiz__question-text"><span class="quiz__number">6</span> <div><p>Sartre responds to critics who call existentialism "quietist" — meaning it leads to passive acceptance. What is his response?</p></div></div>
@@ -135,7 +136,7 @@ tags: unit6
         <input type="radio" name="q6" value="q6d" id="q6d">
         <label for="q6d">He argues that political quietism is itself an authentic choice and therefore acceptable.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q7b">
     <div class="quiz__question-text"><span class="quiz__number">7</span> <div><p>Sartre argues that in choosing for ourselves, we also choose for all humanity. What does he mean by this?</p></div></div>
@@ -156,7 +157,7 @@ tags: unit6
         <input type="radio" name="q7" value="q7d" id="q7d">
         <label for="q7d">We are morally required to consult others before making major decisions.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q8b">
     <div class="quiz__question-text"><span class="quiz__number">8</span> <div><p>What does Sartre mean when he says that "anguish" is the characteristic feeling of authentic existence?</p></div></div>
@@ -177,7 +178,7 @@ tags: unit6
         <input type="radio" name="q8" value="q8d" id="q8d">
         <label for="q8d">The anguish of freedom can be overcome through political commitment and solidarity.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q9c">
     <div class="quiz__question-text"><span class="quiz__number">9</span> <div><p>Sartre uses the example of a student torn between staying to care for his mother and leaving to join the French Resistance. What does this case demonstrate about his ethics?</p></div></div>
@@ -198,7 +199,7 @@ tags: unit6
         <input type="radio" name="q9" value="q9d" id="q9d">
         <label for="q9d">Resistance to fascism is always the right choice because it serves humanity.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q10c">
     <div class="quiz__question-text"><span class="quiz__number">10</span> <div><p>Sartre says that existentialism is a form of humanism. How does he define the humanism he has in mind?</p></div></div>
@@ -219,7 +220,7 @@ tags: unit6
         <input type="radio" name="q10" value="q10d" id="q10d">
         <label for="q10d">Humanism is the belief that humans can perfect themselves through education and rational self-improvement.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q11a">
     <div class="quiz__question-text"><span class="quiz__number">11</span> <div><p>One major objection to Sartre's existentialism is that radical freedom ignores the constraints placed on individuals by their social circumstances — race, class, poverty. What is the force of this objection?</p></div></div>
@@ -240,7 +241,7 @@ tags: unit6
         <input type="radio" name="q11" value="q11d" id="q11d">
         <label for="q11d">The objection is based on a misreading — Sartre explicitly acknowledges economic limits on freedom.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q12c">
     <div class="quiz__question-text"><span class="quiz__number">12</span> <div><p>Sartre claims that human beings are "nothing but" what they make of themselves (<em>l'homme n'est rien d'autre que ce qu'il se fait</em>). What does this deny?</p></div></div>
@@ -261,7 +262,7 @@ tags: unit6
         <input type="radio" name="q12" value="q12d" id="q12d">
         <label for="q12d">That humans can have consistent values over the course of a lifetime.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q13b">
     <div class="quiz__question-text"><span class="quiz__number">13</span> <div><p>Sartre's concept of "facticity" refers to the given facts of one's situation — one's body, history, social position. How does facticity relate to freedom in his view?</p></div></div>
@@ -282,7 +283,7 @@ tags: unit6
         <input type="radio" name="q13" value="q13d" id="q13d">
         <label for="q13d">Facticity replaces freedom: once one's situation is fully understood, the correct choice becomes apparent.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q14a">
     <div class="quiz__question-text"><span class="quiz__number">14</span> <div><p>How does Sartre's existentialism differ from Hegel's view of freedom as developed in this course?</p></div></div>
@@ -303,7 +304,7 @@ tags: unit6
         <input type="radio" name="q14" value="q14d" id="q14d">
         <label for="q14d">Sartre agrees with Hegel's account of freedom but applies it to individual psychology rather than history.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q15b">
     <div class="quiz__question-text"><span class="quiz__number">15</span> <div><p>Sartre argues that we cannot escape responsibility by appealing to passion — claiming we were "swept away" and couldn't help ourselves. Why not?</p></div></div>
@@ -324,8 +325,8 @@ tags: unit6
         <input type="radio" name="q15" value="q15d" id="q15d">
         <label for="q15d">Legal systems punish passion-driven acts as harshly as premeditated ones, and Sartre follows legal precedent.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
-  <button class="quiz__submit" type="button">Check Answers</button>
-  <div class="quiz__results"></div>
+  
+  
 </div>

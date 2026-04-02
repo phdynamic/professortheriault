@@ -6,11 +6,12 @@ breadcrumbTitle: "Quiz"
 position: 7
 tags: unit1
 ---
+
 <div class="callout callout--concept"><span class="callout__icon" aria-hidden="true">💡</span><div class="callout__content">
 <p><strong>Self-study quiz.</strong> This quiz is for your own review — answers are not recorded. You'll get instant feedback and can retake it as many times as you like.</p>
 </div></div>
 
-<div class="quiz">
+<div class="quiz"><div class="quiz__score-tracker" style="display:none;"></div>
   <div class="quiz__question" data-correct="q1b">
     <div class="quiz__question-text"><span class="quiz__number">1</span> <div><p>In the <em>Euthyphro</em>, Socrates asks Euthyphro a question that has become one of the most important in the philosophy of religion. Which of the following best states that question?</p></div></div>
     <ul class="quiz__choices">
@@ -30,7 +31,7 @@ tags: unit1
         <input type="radio" name="q1" value="q1d" id="q1d">
         <label for="q1d">Is piety a matter of action, or a matter of intention?</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q2b">
     <div class="quiz__question-text"><span class="quiz__number">2</span> <div><p>According to Socrates' critique, what is the main problem with the view that something is pious <em>because</em> the gods love it?</p></div></div>
@@ -51,7 +52,7 @@ tags: unit1
         <input type="radio" name="q2" value="q2d" id="q2d">
         <label for="q2d">It makes the gods responsible for human evil, which is theologically unacceptable.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q3b">
     <div class="quiz__question-text"><span class="quiz__number">3</span> <div><p>Euthyphro's first answer to "What is piety?" is that piety is what he is doing right now — prosecuting his father for wrongdoing. Why does Socrates reject this answer?</p></div></div>
@@ -72,7 +73,7 @@ tags: unit1
         <input type="radio" name="q3" value="q3d" id="q3d">
         <label for="q3d">Because piety and justice are different virtues and should not be confused.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q4b">
     <div class="quiz__question-text"><span class="quiz__number">4</span> <div><p>Which of the following best describes how the Socratic elenchus works?</p></div></div>
@@ -93,7 +94,7 @@ tags: unit1
         <input type="radio" name="q4" value="q4d" id="q4d">
         <label for="q4d">Socrates offers a definition, invites criticism, and then revises his definition in response.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q5b">
     <div class="quiz__question-text"><span class="quiz__number">5</span> <div><p>The goal of Socratic dialectic is to win an argument by persuading an audience that your position is correct and your opponent's is wrong.</p></div></div>
@@ -106,7 +107,7 @@ tags: unit1
         <input type="radio" name="q5" value="q5b" id="q5b">
         <label for="q5b">False</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q6c">
     <div class="quiz__question-text"><span class="quiz__number">6</span> <div><p>The <em>Euthyphro</em> ends without a definition of piety, and Euthyphro walks away. Which of the following best describes what the dialogue has nevertheless achieved?</p></div></div>
@@ -127,7 +128,7 @@ tags: unit1
         <input type="radio" name="q6" value="q6d" id="q6d">
         <label for="q6d">It has established that Euthyphro's action in prosecuting his father is impious.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q7b">
     <div class="quiz__question-text"><span class="quiz__number">7</span> <div><p>When Socrates concludes that he is the wisest person in Athens, what does he mean?</p></div></div>
@@ -148,7 +149,7 @@ tags: unit1
         <input type="radio" name="q7" value="q7d" id="q7d">
         <label for="q7d">The Oracle's pronouncement must be correct because divine testimony is infallible.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q8b">
     <div class="quiz__question-text"><span class="quiz__number">8</span> <div><p>When Socrates investigates the Oracle's claim by questioning politicians, poets, and craftsmen, what pattern does he consistently find?</p></div></div>
@@ -169,7 +170,7 @@ tags: unit1
         <input type="radio" name="q8" value="q8d" id="q8d">
         <label for="q8d">Each group refuses to engage with Socrates, confirming that wisdom is not communicable.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q9b">
     <div class="quiz__question-text"><span class="quiz__number">9</span> <div><p>When Socrates says "the unexamined life is not worth living," what is he most fundamentally claiming?</p></div></div>
@@ -190,7 +191,7 @@ tags: unit1
         <input type="radio" name="q9" value="q9d" id="q9d">
         <label for="q9d">The soul is immortal, and those who fail to examine their lives will be punished in the afterlife.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q10b">
     <div class="quiz__question-text"><span class="quiz__number">10</span> <div><p>In the <em>Apology</em>, Socrates indicates he would accept a verdict of acquittal on the condition that he stop philosophizing in public.</p></div></div>
@@ -203,7 +204,7 @@ tags: unit1
         <input type="radio" name="q10" value="q10b" id="q10b">
         <label for="q10b">False</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q11b">
     <div class="quiz__question-text"><span class="quiz__number">11</span> <div><p>Crito argues that Socrates should escape because people will assume his friends were too cowardly or cheap to arrange it, damaging their reputations. How does Socrates respond to this argument?</p></div></div>
@@ -224,7 +225,7 @@ tags: unit1
         <input type="radio" name="q11" value="q11d" id="q11d">
         <label for="q11d">He agrees this is a serious concern and asks Crito to propose a solution.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q12b">
     <div class="quiz__question-text"><span class="quiz__number">12</span> <div><p>In the <em>Crito</em>, the Laws of Athens argue that Socrates has tacitly agreed to obey the law. On what basis do they make this claim?</p></div></div>
@@ -245,7 +246,7 @@ tags: unit1
         <input type="radio" name="q12" value="q12d" id="q12d">
         <label for="q12d">Socrates agreed to obey the laws when he accepted payment for his philosophical services.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q13b">
     <div class="quiz__question-text"><span class="quiz__number">13</span> <div><p>In the <em>Apology</em>, Socrates says he would disobey a court order to stop philosophizing. In the <em>Crito</em>, he submits to execution rather than escape. Which of the following best captures the apparent tension between these two positions?</p></div></div>
@@ -266,7 +267,7 @@ tags: unit1
         <input type="radio" name="q13" value="q13d" id="q13d">
         <label for="q13d">Socrates submits to execution because he has no philosophical objection to death, not because he thinks the law has authority over him.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q14b">
     <div class="quiz__question-text"><span class="quiz__number">14</span> <div><p>A <em>reductio ad absurdum</em> argument works by:</p></div></div>
@@ -287,7 +288,7 @@ tags: unit1
         <input type="radio" name="q14" value="q14d" id="q14d">
         <label for="q14d">Presenting only two extreme options and eliminating the one that leads to worse consequences.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
   <div class="quiz__question" data-correct="q15a">
     <div class="quiz__question-text"><span class="quiz__number">15</span> <div><p>In the <em>Crito</em>, Socrates accepts that Crito's arguments are logically valid but rejects them anyway. Which of the following statements are true of a <strong>valid</strong> argument? (Select all that apply.)</p></div></div>
@@ -308,8 +309,8 @@ tags: unit1
         <input type="radio" name="q15" value="q15d" id="q15d">
         <label for="q15d">The conclusion is true.</label>
       </li>
-    </ul>
+    </ul><button class="quiz__clear" type="button" style="display:none;">Clear</button>
   </div>
-  <button class="quiz__submit" type="button">Check Answers</button>
-  <div class="quiz__results"></div>
+  
+  
 </div>
