@@ -403,9 +403,6 @@ a:hover {
 
 .module-grid--single {
   grid-template-columns: 1fr;
-  max-width: 400px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .module-grid--units {
