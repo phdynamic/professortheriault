@@ -311,6 +311,23 @@ a:hover {
   margin-left: auto;
 }
 
+.page-nav__link--filled {
+  background-color: #0369a1;
+  border-color: #0369a1;
+  color: #fff;
+}
+
+.page-nav__link--filled .page-nav__label,
+.page-nav__link--filled .page-nav__title {
+  color: #fff;
+}
+
+.page-nav__link--filled:hover {
+  background-color: #0ea5e9;
+  border-color: #0ea5e9;
+  color: #fff;
+}
+
 /* === Unit Overview === */
 .unit-overview__toc {
   list-style: none;
