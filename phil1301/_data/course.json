@@ -59,6 +59,14 @@
         {
           "slug": "the-crito",
           "title": "The Crito"
+        },
+        {
+          "slug": "reflection-prompt",
+          "title": "Reflection Prompt"
+        },
+        {
+          "slug": "quiz",
+          "title": "Quiz"
         }
       ]
     },
@@ -91,6 +99,14 @@
         {
           "slug": "cogito-ergo-sum",
           "title": "Cogito Ergo Sum"
+        },
+        {
+          "slug": "reflection-prompt",
+          "title": "Reflection Prompt"
+        },
+        {
+          "slug": "quiz",
+          "title": "Quiz"
         }
       ]
     },
@@ -115,6 +131,14 @@
         {
           "slug": "causation-induction-and-the-limits-of-reason",
           "title": "Causation, Induction, and the Limits of Reason"
+        },
+        {
+          "slug": "reflection-prompt",
+          "title": "Reflection Prompt"
+        },
+        {
+          "slug": "quiz",
+          "title": "Quiz"
         }
       ]
     },
@@ -143,6 +167,14 @@
         {
           "slug": "freedom-progress-and-the-limits-of-hegels-vision",
           "title": "Freedom, Progress, and the Limits of Hegel's Vision"
+        },
+        {
+          "slug": "reflection-prompt",
+          "title": "Reflection Prompt"
+        },
+        {
+          "slug": "quiz",
+          "title": "Quiz"
         }
       ]
     },
@@ -171,6 +203,14 @@
         {
           "slug": "ideology-alienation-and-what-marx-got-right-and-wrong",
           "title": "Ideology, Alienation, and What Marx Got Right (and Wrong)"
+        },
+        {
+          "slug": "reflection-prompt",
+          "title": "Reflection Prompt"
+        },
+        {
+          "slug": "quiz",
+          "title": "Quiz"
         }
       ]
     },
@@ -199,18 +239,26 @@
         {
           "slug": "ethics-responsibility-and-humanism",
           "title": "Ethics, Responsibility, and Humanism"
+        },
+        {
+          "slug": "reflection-prompt",
+          "title": "Reflection Prompt"
+        },
+        {
+          "slug": "quiz",
+          "title": "Quiz"
         }
       ]
     },
     {
       "slug": "final-exam",
-      "title": "Final Exam",
-      "icon": "&#128221;",
-      "description": "Comprehensive final exam covering all course units.",
+      "title": "Final Paper",
+      "icon": "&#128196;",
+      "description": "Final paper assignment covering one philosopher from the course.",
       "pages": [
         {
           "slug": "index",
-          "title": "Final Exam"
+          "title": "Final Paper"
         }
       ]
     }
