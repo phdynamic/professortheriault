@@ -59,7 +59,9 @@
       "Bash(node scripts/extract-feedback.js)",
       "Bash(for u:*)",
       "Read(//c/Users/norma/OneDrive/Documents/MEGA/**)",
-      "Bash(node scripts/rebuild-quizzes.js)"
+      "Bash(node scripts/rebuild-quizzes.js)",
+      "Bash(node scripts/generate-missing-feedback.js)",
+      "Bash(zip -r ../professortheriault-deploy.zip .)"
     ]
   }
 }
