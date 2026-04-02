@@ -39,7 +39,8 @@
       "Bash(mv phil1301/unit-1-socrates/index.njk phil1301/start-here/introducing-philosophy.njk)",
       "Bash(mv phil1301/unit-1-socrates/logic-reference.njk phil1301/start-here/logic-reference.njk)",
       "Bash(node -e \"require\\(''cheerio''\\); console.log\\(''cheerio ok''\\)\")",
-      "Bash(node scripts/fix-double-titles.js)"
+      "Bash(node scripts/fix-double-titles.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/unit-1-socrates/the-crito/)"
     ]
   }
 }
