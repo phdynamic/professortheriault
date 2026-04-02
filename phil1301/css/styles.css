@@ -379,7 +379,7 @@ a:hover {
 /* === Course Landing Page === */
 .course-hero {
   text-align: center;
-  padding: 2rem 0 2.5rem;
+  padding: 2rem 0 0.5rem;
 }
 
 .course-hero h1 {
