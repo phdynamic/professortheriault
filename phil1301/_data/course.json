@@ -8,7 +8,26 @@
       "icon": "&#128218;",
       "description": "Course orientation, instructor introduction, and getting started.",
       "pages": [
-        { "slug": "index", "title": "Start Here: Overview" }
+        {
+          "slug": "index",
+          "title": "Introduction to Philosophy"
+        },
+        {
+          "slug": "meet-your-instructor-2",
+          "title": "Meet Your Instructor"
+        },
+        {
+          "slug": "getting-started",
+          "title": "Getting Started"
+        },
+        {
+          "slug": "how-to-use-this-site",
+          "title": "How to Use This Site"
+        },
+        {
+          "slug": "assessments",
+          "title": "Assessments"
+        }
       ]
     },
     {
@@ -17,8 +36,34 @@
       "icon": "&#127963;&#65039;",
       "description": "Explore the life and philosophy of Socrates and Plato through the Euthyphro, Apology, and Crito.",
       "pages": [
-        { "slug": "index", "title": "Unit 1: Overview" },
-        { "slug": "socrates-life", "title": "Socrates' Life and Context" }
+        {
+          "slug": "index",
+          "title": "Introducing Philosophy"
+        },
+        {
+          "slug": "logic-reference",
+          "title": "Logic Reference"
+        },
+        {
+          "slug": "unit-1-overview",
+          "title": "Unit 1: Overview"
+        },
+        {
+          "slug": "socrates-life-and-context",
+          "title": "Socrates' Life and Context"
+        },
+        {
+          "slug": "the-euthyphro",
+          "title": "The Euthyphro"
+        },
+        {
+          "slug": "the-apology",
+          "title": "The Apology"
+        },
+        {
+          "slug": "the-crito",
+          "title": "The Crito"
+        }
       ]
     },
     {
@@ -27,7 +72,50 @@
       "icon": "&#129504;",
       "description": "Examine Descartes' method of doubt and the foundations of modern philosophy.",
       "pages": [
-        { "slug": "index", "title": "Unit 2: Overview" }
+        {
+          "slug": "index",
+          "title": "Unit 2: Overview"
+        },
+        {
+          "slug": "descartes-life-and-context",
+          "title": "Descartes' Life and Context"
+        },
+        {
+          "slug": "meditation-i-the-method-of-doubt",
+          "title": "Meditation I - The Method of Doubt"
+        },
+        {
+          "slug": "meditation-ii-the-cogito",
+          "title": "Meditation II - The Cogito"
+        },
+        {
+          "slug": "meditation-iii-v-god-and-the-guarantee-of-reason",
+          "title": "Meditation III-V - God and the Guarantee of Reason"
+        },
+        {
+          "slug": "cogito-ergo-sum",
+          "title": "Cogito Ergo Sum"
+        },
+        {
+          "slug": "paper-preparation-exercise-instructions",
+          "title": "Paper Preparation Exercise Instructions"
+        },
+        {
+          "slug": "paper-number-1",
+          "title": "Paper #1"
+        },
+        {
+          "slug": "paper-number-2",
+          "title": "Paper #2"
+        },
+        {
+          "slug": "paper-number-3",
+          "title": "Paper #3"
+        },
+        {
+          "slug": "term-paper-topics",
+          "title": "Term Paper Topics"
+        }
       ]
     },
     {
@@ -36,7 +124,22 @@
       "icon": "&#128269;",
       "description": "Investigate Hume's empiricism, skepticism about causation, and the limits of reason.",
       "pages": [
-        { "slug": "index", "title": "Unit 3: Overview" }
+        {
+          "slug": "index",
+          "title": "Unit 3: Overview"
+        },
+        {
+          "slug": "humes-life-and-context",
+          "title": "Hume's Life and Context"
+        },
+        {
+          "slug": "impressions-ideas-and-association",
+          "title": "Impressions, Ideas, and Association"
+        },
+        {
+          "slug": "causation-induction-and-the-limits-of-reason",
+          "title": "Causation, Induction, and the Limits of Reason"
+        }
       ]
     },
     {
@@ -45,7 +148,26 @@
       "icon": "&#9883;&#65039;",
       "description": "Understand Hegel's dialectic, philosophy of history, and vision of freedom.",
       "pages": [
-        { "slug": "index", "title": "Unit 4: Overview" }
+        {
+          "slug": "index",
+          "title": "Unit 4: Overview"
+        },
+        {
+          "slug": "hegels-life-and-context",
+          "title": "Hegel's Life and Context"
+        },
+        {
+          "slug": "the-dialectic",
+          "title": "The Dialectic"
+        },
+        {
+          "slug": "reason-spirit-and-history",
+          "title": "Reason, Spirit, and History"
+        },
+        {
+          "slug": "freedom-progress-and-the-limits-of-hegels-vision",
+          "title": "Freedom, Progress, and the Limits of Hegel's Vision"
+        }
       ]
     },
     {
@@ -54,7 +176,26 @@
       "icon": "&#9878;&#65039;",
       "description": "Analyze Marx's historical materialism, class struggle, and critique of capitalism.",
       "pages": [
-        { "slug": "index", "title": "Unit 5: Overview" }
+        {
+          "slug": "index",
+          "title": "Unit 5: Overview"
+        },
+        {
+          "slug": "marxs-life-and-context",
+          "title": "Marx's Life and Context"
+        },
+        {
+          "slug": "class-struggle-and-historical-materialism",
+          "title": "Class Struggle and Historical Materialism"
+        },
+        {
+          "slug": "the-manifesto-argument-and-program",
+          "title": "The Manifesto: Argument and Program"
+        },
+        {
+          "slug": "ideology-alienation-and-what-marx-got-right-and-wrong",
+          "title": "Ideology, Alienation, and What Marx Got Right (and Wrong)"
+        }
       ]
     },
     {
@@ -63,7 +204,26 @@
       "icon": "&#128172;",
       "description": "Explore Sartre's existentialism, radical freedom, and ethics of responsibility.",
       "pages": [
-        { "slug": "index", "title": "Unit 6: Overview" }
+        {
+          "slug": "index",
+          "title": "Unit 6: Overview"
+        },
+        {
+          "slug": "sartres-life-and-context",
+          "title": "Sartre's Life and Context"
+        },
+        {
+          "slug": "existence-precedes-essence",
+          "title": "Existence Precedes Essence"
+        },
+        {
+          "slug": "radical-freedom-and-bad-faith",
+          "title": "Radical Freedom and Bad Faith"
+        },
+        {
+          "slug": "ethics-responsibility-and-humanism",
+          "title": "Ethics, Responsibility, and Humanism"
+        }
       ]
     },
     {
@@ -72,7 +232,10 @@
       "icon": "&#128221;",
       "description": "Comprehensive final exam covering all course units.",
       "pages": [
-        { "slug": "index", "title": "Final Exam" }
+        {
+          "slug": "index",
+          "title": "Final Exam"
+        }
       ]
     }
   ]
