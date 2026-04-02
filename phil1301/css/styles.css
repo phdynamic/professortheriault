@@ -573,6 +573,56 @@ a:hover {
   background-color: #fffbeb;
 }
 
+/* === Tables === */
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #e0e0e0;
+  font-size: 0.95rem;
+}
+
+.content thead {
+  background-color: #1a2332;
+  color: #f0f4f8;
+}
+
+.content th {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.content td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e0e0e0;
+  vertical-align: top;
+  line-height: 1.6;
+}
+
+.content tr:last-child td {
+  border-bottom: none;
+}
+
+.content tbody tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.content tbody tr:hover {
+  background-color: #f0f4f8;
+}
+
+.content td:first-child {
+  font-weight: 600;
+  color: #1a2332;
+  white-space: nowrap;
+}
+
 /* === Argument Blocks === */
 .argument-block {
   background-color: #f8f9fa;
