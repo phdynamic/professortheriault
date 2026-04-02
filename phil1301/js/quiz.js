@@ -36,9 +36,13 @@
           });
           q.classList.add("quiz__question--answered");
 
+          var correctFb   = q.querySelector(".quiz__feedback--correct");
+          var incorrectFb = q.querySelector(".quiz__feedback--incorrect");
+
           if (input.value === correctValue) {
             correct++;
             choice.classList.add("quiz__choice--correct");
+            if (correctFb) correctFb.style.display = "block";
           } else {
             choice.classList.add("quiz__choice--incorrect");
             // Show the correct answer
@@ -48,6 +52,7 @@
                 c.classList.add("quiz__choice--correct");
               }
             });
+            if (incorrectFb) incorrectFb.style.display = "block";
           }
 
           input.checked = true;
@@ -81,6 +86,8 @@
             r.disabled = false;
             r.checked = false;
           });
+          var feedbacks = q.querySelectorAll(".quiz__feedback");
+          feedbacks.forEach(function(fb) { fb.style.display = "none"; });
           clearBtn.style.display = "none";
           updateScore();
         });

@@ -1,0 +1,2126 @@
+{
+  "quizzes": [
+    {
+      "unit": 1,
+      "title": "Quiz #1: Socrates and Plato",
+      "questions": [
+        {
+          "text": "<div><p>In the <em>Euthyphro</em>, Socrates asks Euthyphro a question that has become one of the most important in the philosophy of religion. Which of the following best states that question?</p></div>",
+          "choices": [
+            {
+              "text": "Is piety the same as justice, or are they different virtues?",
+              "correct": false
+            },
+            {
+              "text": "Is something pious because the gods love it, or do the gods love it because it is pious?",
+              "correct": true
+            },
+            {
+              "text": "Can the gods disagree about what is pious, or must they all agree?",
+              "correct": false
+            },
+            {
+              "text": "Is piety a matter of action, or a matter of intention?",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This question — known as the Euthyphro dilemma — forces a choice between two unsatisfactory positions and exposes the central problem with Divine Command Theory.",
+          "incorrectFeedback": "Not quite. Socrates' key question asks about the direction of explanation between piety and divine love — which one depends on the other? Review the Euthyphro lecture page, Section 3."
+        },
+        {
+          "text": "<div><p>According to Socrates' critique, what is the main problem with the view that something is pious <em>because</em> the gods love it?</p></div>",
+          "choices": [
+            {
+              "text": "It makes piety dependent on which gods you worship, which is culturally relative.",
+              "correct": false
+            },
+            {
+              "text": "It makes piety entirely arbitrary — anything at all could be pious if the gods happened to love it.",
+              "correct": true
+            },
+            {
+              "text": "It makes piety impossible to know, since we cannot directly observe what the gods love.",
+              "correct": false
+            },
+            {
+              "text": "It makes the gods responsible for human evil, which is theologically unacceptable.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. If piety just is whatever the gods love, then piety has no independent standard — torturing innocents would be pious if the gods loved it. Socrates and Euthyphro both find this unacceptable.",
+          "incorrectFeedback": "Socrates' central objection is that grounding piety in divine love makes piety arbitrary — there is no independent standard of rightness. Review the Euthyphro lecture page, Section 3."
+        },
+        {
+          "text": "<div><p>Euthyphro's first answer to \"What is piety?\" is that piety is what he is doing right now — prosecuting his father for wrongdoing. Why does Socrates reject this answer?</p></div>",
+          "choices": [
+            {
+              "text": "Because prosecuting one's own father is impious, not pious.",
+              "correct": false
+            },
+            {
+              "text": "Because it gives only one example of a pious act rather than explaining what makes any act pious.",
+              "correct": true
+            },
+            {
+              "text": "Because Euthyphro's father may not actually be guilty of wrongdoing.",
+              "correct": false
+            },
+            {
+              "text": "Because piety and justice are different virtues and should not be confused.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Socrates wants a definition — something the same in all and only pious things — not an example. Pointing to one instance of piety does not tell us what makes any act pious. This is also a case of begging the question: Euthyphro assumes the very concept he is supposed to define.",
+          "incorrectFeedback": "Socrates is not disputing whether Euthyphro's action is pious. He wants to know what piety itself is — a general account, not a specific example. Review Section 3 of the Euthyphro lecture page."
+        },
+        {
+          "text": "<div><p>Which of the following best describes how the Socratic elenchus works?</p></div>",
+          "choices": [
+            {
+              "text": "Socrates presents a lecture on the correct view, then invites objections from his interlocutor.",
+              "correct": false
+            },
+            {
+              "text": "Socrates gets his interlocutor to agree to a series of premises, then shows those premises lead to a contradiction or an absurd conclusion.",
+              "correct": true
+            },
+            {
+              "text": "Socrates appeals to the authority of previous philosophers to show that his interlocutor is wrong.",
+              "correct": false
+            },
+            {
+              "text": "Socrates offers a definition, invites criticism, and then revises his definition in response.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. The elenchus works by drawing out the interlocutor's own commitments and showing they are internally inconsistent. Socrates does not argue from authority or deliver lectures — he argues from agreed premises.",
+          "incorrectFeedback": "The elenchus is a method of refutation through questioning, not lecturing or appealing to authority. Review Section 2 of the Euthyphro lecture page."
+        },
+        {
+          "text": "<div><p>The goal of Socratic dialectic is to win an argument by persuading an audience that your position is correct and your opponent's is wrong.</p></div>",
+          "choices": [
+            {
+              "text": "True",
+              "correct": false
+            },
+            {
+              "text": "False",
+              "correct": true
+            }
+          ],
+          "correctFeedback": "Correct — this is false. That description fits debate. The goal of dialectic is inquiry: to learn something new about the issue under discussion. Unlike debate, in dialectic your sharpest critic is your best friend.",
+          "incorrectFeedback": "That description fits debate, not dialectic. Dialectic is aimed at inquiry and discovery, not victory. Review Section 2 of the Euthyphro lecture page and the Logic Reference."
+        },
+        {
+          "text": "<div><p>The <em>Euthyphro</em> ends without a definition of piety, and Euthyphro walks away. Which of the following best describes what the dialogue has nevertheless achieved?</p></div>",
+          "choices": [
+            {
+              "text": "It has proven that piety does not exist and that religious belief is irrational.",
+              "correct": false
+            },
+            {
+              "text": "It has shown that the question of piety has no correct answer, confirming Socrates' skepticism.",
+              "correct": false
+            },
+            {
+              "text": "It has eliminated inadequate definitions of piety and clarified what a satisfactory definition would need to look like.",
+              "correct": true
+            },
+            {
+              "text": "It has established that Euthyphro's action in prosecuting his father is impious.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Socrates does not claim inquiry is hopeless — he believes there are correct answers. What the elenchus achieves is the elimination of bad answers and progress toward understanding what a good answer would require.",
+          "incorrectFeedback": "Socrates is not a skeptic about whether piety exists or has a correct definition. The dialogue makes real progress by ruling out inadequate answers. Review Section 4 of the Euthyphro lecture page."
+        },
+        {
+          "text": "<div><p>When Socrates concludes that he is the wisest person in Athens, what does he mean?</p></div>",
+          "choices": [
+            {
+              "text": "He possesses special philosophical knowledge that others have not yet acquired.",
+              "correct": false
+            },
+            {
+              "text": "He is wiser than others because he alone recognizes that he does not know what he does not know.",
+              "correct": true
+            },
+            {
+              "text": "He has studied more widely than any other Athenian and can therefore speak with authority.",
+              "correct": false
+            },
+            {
+              "text": "The Oracle's pronouncement must be correct because divine testimony is infallible.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Socratic ignorance is not a claim to superior knowledge — it is an epistemic stance: the refusal to claim certainty you do not have, and the recognition that others' confidence in their knowledge is often unwarranted.",
+          "incorrectFeedback": "Socrates explicitly denies possessing special knowledge. His advantage is that he alone knows he does not know — while others believe they know things they do not. Review Section 2 of the Apology lecture page."
+        },
+        {
+          "text": "<div><p>When Socrates investigates the Oracle's claim by questioning politicians, poets, and craftsmen, what pattern does he consistently find?</p></div>",
+          "choices": [
+            {
+              "text": "Each group possesses genuine wisdom in their own domain, but lacks wisdom about virtue and the good life.",
+              "correct": false
+            },
+            {
+              "text": "Each group has a reputation for wisdom that far exceeds their actual understanding — they believe they know things they do not know.",
+              "correct": true
+            },
+            {
+              "text": "Each group is genuinely wiser than Socrates in their specific field, disproving the Oracle.",
+              "correct": false
+            },
+            {
+              "text": "Each group refuses to engage with Socrates, confirming that wisdom is not communicable.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. In each case Socrates finds vain ignorance: people whose reputation for wisdom is not matched by genuine understanding. The craftsmen come closest — they do possess real skill — but they make the further mistake of thinking their craft gives them wisdom about everything else.",
+          "incorrectFeedback": "Socrates consistently finds that the reputation for wisdom exceeds actual knowledge. Review Section 2 of the Apology lecture page."
+        },
+        {
+          "text": "<div><p>When Socrates says \"the unexamined life is not worth living,\" what is he most fundamentally claiming?</p></div>",
+          "choices": [
+            {
+              "text": "Only professional philosophers live genuinely worthwhile lives.",
+              "correct": false
+            },
+            {
+              "text": "A life in which one never reflects on or questions one's own beliefs and values falls short of what fully human existence requires.",
+              "correct": true
+            },
+            {
+              "text": "People who do not study philosophy are morally inferior to those who do.",
+              "correct": false
+            },
+            {
+              "text": "The soul is immortal, and those who fail to examine their lives will be punished in the afterlife.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Socrates is not claiming only philosophers live well. He is making a claim about rational agency: the capacity to reflect on and question one's beliefs is constitutive of what it means to be a fully human person.",
+          "incorrectFeedback": "Socrates' claim is about rational agency, not professional philosophy or moral hierarchy. Review Section 4 of the Apology lecture page."
+        },
+        {
+          "text": "<div><p>In the <em>Apology</em>, Socrates indicates he would accept a verdict of acquittal on the condition that he stop philosophizing in public.</p></div>",
+          "choices": [
+            {
+              "text": "True",
+              "correct": false
+            },
+            {
+              "text": "False",
+              "correct": true
+            }
+          ],
+          "correctFeedback": "Correct — this is false. Socrates explicitly states he would disobey such a condition. He would rather face death than abandon his philosophical mission, because ceasing to examine would be worse than death itself.",
+          "incorrectFeedback": "False. Socrates says he would refuse this condition even if acquittal depended on it. His commitment to philosophy is unconditional. Review Section 4 of the Apology lecture page."
+        },
+        {
+          "text": "<div><p>Crito argues that Socrates should escape because people will assume his friends were too cowardly or cheap to arrange it, damaging their reputations. How does Socrates respond to this argument?</p></div>",
+          "choices": [
+            {
+              "text": "He agrees the reputational damage is significant but argues other considerations outweigh it.",
+              "correct": false
+            },
+            {
+              "text": "He argues that the opinion of the many is irrelevant — only the judgment of those who genuinely understand justice matters.",
+              "correct": true
+            },
+            {
+              "text": "He suggests his friends can explain the situation publicly to protect their reputations.",
+              "correct": false
+            },
+            {
+              "text": "He agrees this is a serious concern and asks Crito to propose a solution.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Socrates dismisses arguments from reputation consistently — what the many think is irrelevant when it comes to questions of justice. Only the judgment of those who understand justice deserves weight.",
+          "incorrectFeedback": "Socrates does not take reputational arguments seriously as moral reasons. He argues that popular opinion is irrelevant to questions of justice. Review Section 2 of the Crito lecture page."
+        },
+        {
+          "text": "<div><p>In the <em>Crito</em>, the Laws of Athens argue that Socrates has tacitly agreed to obey the law. On what basis do they make this claim?</p></div>",
+          "choices": [
+            {
+              "text": "Socrates signed a formal oath of citizenship when he came of age.",
+              "correct": false
+            },
+            {
+              "text": "By remaining in Athens his entire life and benefiting from its laws, Socrates implicitly endorsed and agreed to abide by them.",
+              "correct": true
+            },
+            {
+              "text": "Socrates publicly praised the Athenian legal system in his philosophy lectures.",
+              "correct": false
+            },
+            {
+              "text": "Socrates agreed to obey the laws when he accepted payment for his philosophical services.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. The Laws argue that Socrates' lifelong residence in Athens, his raising a family there, and his enjoyment of the city's benefits all constitute a form of tacit consent — an implicit agreement to live under its laws.",
+          "incorrectFeedback": "The argument from agreement is based on tacit consent through lifelong residence and benefit — not a formal oath or explicit statement. Review Section 3 of the Crito lecture page."
+        },
+        {
+          "text": "<div><p>In the <em>Apology</em>, Socrates says he would disobey a court order to stop philosophizing. In the <em>Crito</em>, he submits to execution rather than escape. Which of the following best captures the apparent tension between these two positions?</p></div>",
+          "choices": [
+            {
+              "text": "There is no tension — Socrates changes his mind between the two dialogues.",
+              "correct": false
+            },
+            {
+              "text": "Socrates seems willing to disobey the law to preserve his philosophical mission but not to preserve his life, raising the question of what the limits of civic obligation really are.",
+              "correct": true
+            },
+            {
+              "text": "The two dialogues are by different authors and should not be read as consistent with each other.",
+              "correct": false
+            },
+            {
+              "text": "Socrates submits to execution because he has no philosophical objection to death, not because he thinks the law has authority over him.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is one of the most productive tensions in the unit. Whether these two positions can be reconciled — and what the limits of civic obligation are — is a central question in the philosophy of law and political philosophy.",
+          "incorrectFeedback": "Both dialogues are attributed to Plato and portray the same Socrates. The tension between them is philosophically productive. Review Section 4 of the Crito lecture page."
+        },
+        {
+          "text": "<div><p>A <em>reductio ad absurdum</em> argument works by:</p></div>",
+          "choices": [
+            {
+              "text": "Showing that an opponent's position is held only by foolish or disreputable people.",
+              "correct": false
+            },
+            {
+              "text": "Accepting a premise for the sake of argument, showing it leads to an absurd or contradictory conclusion, and inferring the premise must be false.",
+              "correct": true
+            },
+            {
+              "text": "Reducing a complex argument to its simplest form so it can be evaluated more easily.",
+              "correct": false
+            },
+            {
+              "text": "Presenting only two extreme options and eliminating the one that leads to worse consequences.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Reductio ad absurdum is a legitimate and powerful argumentative strategy used throughout philosophy and mathematics. Socrates uses it in the Euthyphro when he shows that Euthyphro's definition leads to the absurd conclusion that piety is arbitrary.",
+          "incorrectFeedback": "Reductio ad absurdum works by assuming a premise and deriving an absurd or contradictory result — which shows the premise must be false. Review Section 2 of the Euthyphro lecture page and the Logic Reference."
+        },
+        {
+          "text": "<div><p>In the <em>Crito</em>, Socrates accepts that Crito's arguments are logically valid but rejects them anyway. Which of the following statements are true of a <strong>valid</strong> argument? (Select all that apply.)</p></div>",
+          "choices": [
+            {
+              "text": "If the premises are true, the conclusion must be true.",
+              "correct": true
+            },
+            {
+              "text": "The premises are guaranteed to be true.",
+              "correct": false
+            },
+            {
+              "text": "It is impossible for all premises to be true and the conclusion false at the same time.",
+              "correct": false
+            },
+            {
+              "text": "The conclusion is true.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Validity is about the logical relationship between premises and conclusion — not about whether the premises or conclusion are actually true. A valid argument can have false premises and a false conclusion. For an argument to be both valid and guaranteed to have a true conclusion, it must also be sound (valid with true premises).",
+          "incorrectFeedback": "Validity concerns the logical structure of an argument, not the truth of its premises or conclusion. A valid argument can have false premises. Review the Logic Reference page in Unit 1, Section 2."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Quiz #2: René Descartes",
+      "questions": [
+        {
+          "text": "<div><p><strong>In Meditation I, Descartes does not try to examine every one of his beliefs individually. What is his actual strategy for doubting them?</strong></p></div>",
+          "choices": [
+            {
+              "text": "He consults other philosophers to identify which beliefs are unreliable.",
+              "correct": false
+            },
+            {
+              "text": "He targets the underlying principles or sources on which groups of beliefs rest, so that doubting the source brings down everything built on it.",
+              "correct": true
+            },
+            {
+              "text": "He uses scientific experiments to test whether his sensory beliefs are accurate.",
+              "correct": false
+            },
+            {
+              "text": "He identifies the beliefs most likely to be false and discards only those.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Rather than examining each belief one by one, Descartes attacks the foundations — primarily sensory experience — so that anything built on those foundations collapses with them.",
+          "incorrectFeedback": "Descartes explicitly says he cannot examine every belief individually. Instead he targets the underlying sources or principles — if the foundation is unreliable, everything built on it is too."
+        },
+        {
+          "text": "<div><p><strong>Why does Descartes need the Dream Argument if he has already shown that the senses sometimes deceive him?</strong></p></div>",
+          "choices": [
+            {
+              "text": "The Dream Argument applies specifically to mathematical beliefs, which the senses-deceive argument does not reach.",
+              "correct": false
+            },
+            {
+              "text": "The senses-deceive argument only covers distant or unclear perceptions; the Dream Argument extends doubt to vivid, immediate experience — even sitting by a fire.",
+              "correct": true
+            },
+            {
+              "text": "The Dream Argument proves that the senses are always unreliable, whereas the earlier argument only showed they are sometimes unreliable.",
+              "correct": false
+            },
+            {
+              "text": "The Dream Argument is needed to doubt moral and ethical beliefs, which the senses-deceive argument cannot touch.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. The first argument only undermines beliefs about things perceived unclearly or at a distance. The Dream Argument extends doubt to immediate, vivid perceptions — even the seemingly obvious fact that Descartes is sitting by a fire holding paper.",
+          "incorrectFeedback": "Descartes notes that the first argument only applies to distant or unclear perceptions. The Dream Argument is needed to cast doubt on immediate, vivid experience — which the first argument cannot reach."
+        },
+        {
+          "text": "<div><p><strong>What is the primary philosophical purpose of the Evil Demon hypothesis in Meditation I?</strong></p></div>",
+          "choices": [
+            {
+              "text": "To argue that God might be evil and therefore an unreliable guarantor of knowledge.",
+              "correct": false
+            },
+            {
+              "text": "To extend doubt to mathematical and logical truths, which the Dream Argument left untouched.",
+              "correct": true
+            },
+            {
+              "text": "To demonstrate that the external world definitely does not exist.",
+              "correct": false
+            },
+            {
+              "text": "To argue that human cognitive faculties are inherently unreliable in all circumstances.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. The Dream Argument left mathematical truths seemingly intact (2+2=4 whether awake or dreaming). The Evil Demon closes this gap by positing a deceiver powerful enough to corrupt even seemingly self-evident rational truths.",
+          "incorrectFeedback": "Descartes notes that even during dreaming, mathematical truths seem secure. The Evil Demon is introduced specifically to cast doubt on those — a being powerful enough to make even clear rational intuitions unreliable."
+        },
+        {
+          "text": "<div><strong>Why is the cogito — \"I think, therefore I am\" — said to survive even the Evil Demon hypothesis?</strong></div>",
+          "choices": [
+            {
+              "text": "Because God would not allow the demon to deceive Descartes about his own existence.",
+              "correct": false
+            },
+            {
+              "text": "Because sensory experience is not involved — the cogito is a purely rational truth.",
+              "correct": false
+            },
+            {
+              "text": "Because deception itself requires a subject being deceived — the very act of doubting confirms that something exists to do the doubting.",
+              "correct": true
+            },
+            {
+              "text": "Because Descartes has already proven that the demon cannot affect mathematical truths.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Even if an evil demon is deceiving Descartes about everything, there must be something being deceived. The act of doubting is itself a form of thinking, and thinking requires a thinker. The cogito is self-confirming in a way no other belief is.",
+          "incorrectFeedback": "The cogito survives the Evil Demon because deception requires a subject. If the demon is deceiving Descartes, then Descartes must exist to be deceived. Doubting is a form of thinking, and thinking confirms existence."
+        },
+        {
+          "text": "<div><strong>What is Descartes trying to show with the wax argument in Meditation II?</strong></div>",
+          "choices": [
+            {
+              "text": "That physical objects like wax are not real, because their properties change constantly.",
+              "correct": false
+            },
+            {
+              "text": "That our genuine understanding of physical things comes through the intellect, not through the senses — and therefore the mind is better known than material objects.",
+              "correct": true
+            },
+            {
+              "text": "That the senses can be trusted when they report on ordinary everyday objects like wax.",
+              "correct": false
+            },
+            {
+              "text": "That God created the physical world, as evidenced by the orderly properties of material objects.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. When wax melts, all its sensory properties change — yet we still know it is the same wax. This shows that what we understand by \"wax\" is grasped by the intellect, not the senses. The mind is therefore more reliably known than any physical object.",
+          "incorrectFeedback": "The wax argument shows that genuine knowledge of physical things comes through the intellect, not the senses. Since all the wax's sensory properties change when melted, the \"wax\" we understand must be grasped by the mind alone — which shows the mind is better known than the body."
+        },
+        {
+          "text": "<div><strong>After establishing that he exists, Descartes asks what kind of thing he is. What is his answer at the end of Meditation II?</strong></div>",
+          "choices": [
+            {
+              "text": "A bodily creature whose existence depends on the physical world.",
+              "correct": false
+            },
+            {
+              "text": "A soul temporarily inhabiting a body, capable of surviving death.",
+              "correct": false
+            },
+            {
+              "text": "A thinking thing (res cogitans) — something that doubts, understands, affirms, denies, imagines, and perceives.",
+              "correct": true
+            },
+            {
+              "text": "A rational animal, defined by both reason and physical embodiment.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Descartes concludes he is a \"res cogitans\" — a thinking thing. Since the body's existence is still in doubt, he can only define himself through mental activities: doubting, understanding, affirming, denying, imagining, perceiving.",
+          "incorrectFeedback": "Since the existence of the body is still in doubt at the end of Meditation II, Descartes can only say he is a \"thinking thing\" (res cogitans) — defined entirely by mental activity, not physical embodiment."
+        },
+        {
+          "text": "<div><strong>In Meditation III, Descartes argues that his idea of God proves God's existence. What causal principle does this argument depend on?</strong></div>",
+          "choices": [
+            {
+              "text": "Every idea in the mind must have been experienced through the senses at some earlier time.",
+              "correct": false
+            },
+            {
+              "text": "A cause must contain at least as much reality as its effect — you cannot get more out of a cause than was put in.",
+              "correct": true
+            },
+            {
+              "text": "God, being omnipotent, can produce any effect regardless of his own nature.",
+              "correct": false
+            },
+            {
+              "text": "Ideas of infinite things are always more reliable than ideas of finite things.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Descartes applies the principle that a cause must have at least as much reality as its effect. Since the idea of God has infinite \"objective reality\" (infinite perfection as its content), its cause must also be infinitely perfect — only God could produce such an idea.",
+          "incorrectFeedback": "The causal argument relies on the principle that a cause must contain at least as much reality as its effect. The idea of God has infinite perfection as its content, so only something with infinite perfection — God — could be its cause."
+        },
+        {
+          "text": "<div><strong>Why does Descartes need to prove God's existence before he can establish any further certain knowledge?</strong></div>",
+          "choices": [
+            {
+              "text": "Without God, Descartes cannot explain where the physical world came from.",
+              "correct": false
+            },
+            {
+              "text": "God's existence is required by religious orthodoxy, and Descartes wrote for a theological audience.",
+              "correct": false
+            },
+            {
+              "text": "Only a non-deceiving God can guarantee that clear and distinct perception tracks the truth — without this guarantee, every conclusion drawn by reason might be systematically false.",
+              "correct": true
+            },
+            {
+              "text": "God must exist to explain why the cogito is self-evident rather than just another possibly false belief.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. The Evil Demon hypothesis is still undefeated after the cogito. Descartes needs a non-deceiving God to rule out the possibility that his reasoning faculty is systematically corrupted — only then can clear and distinct perception be trusted.",
+          "incorrectFeedback": "Without God, the Evil Demon hypothesis remains in play. Descartes needs to prove that a non-deceiving God created his rational faculties — only then can he trust that clear and distinct perceptions are reliable rather than the product of systematic deception."
+        },
+        {
+          "text": "<div><strong>In Meditation IV, Descartes explains how error is possible even though God is not a deceiver. What is his explanation?</strong></div>",
+          "choices": [
+            {
+              "text": "God gave humans a limited intellect and an equally limited will, so errors arise from the smallness of both.",
+              "correct": false
+            },
+            {
+              "text": "Error arises when the unlimited will extends its judgments beyond what the finite intellect perceives clearly and distinctly.",
+              "correct": true
+            },
+            {
+              "text": "The body interferes with the mind's reasoning, introducing sensory distortions that produce false beliefs.",
+              "correct": false
+            },
+            {
+              "text": "Error is unavoidable given human finitude — God permits it as part of a greater plan we cannot understand.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Descartes distinguishes between the intellect (finite — it does not perceive everything clearly) and the will (unlimited — it can affirm or deny anything). Error occurs when the will judges matters the intellect has not yet perceived clearly and distinctly.",
+          "incorrectFeedback": "In Meditation IV, Descartes argues that the intellect is limited but the will is unlimited. Error arises when we use our unlimited will to judge things our finite intellect has not yet perceived clearly and distinctly. The fault lies in misusing our freedom, not in God's design."
+        },
+        {
+          "text": "<div><strong>In Meditation V, Descartes offers an ontological argument for God's existence. What is the core claim of this argument?</strong></div>",
+          "choices": [
+            {
+              "text": "God must exist because someone had to create the physical world, and only an infinite being could do so.",
+              "correct": false
+            },
+            {
+              "text": "The widespread human belief in God across cultures proves that God exists as the common cause of that belief.",
+              "correct": false
+            },
+            {
+              "text": "Existence is itself a perfection; since God is defined as the most perfect being, God must possess existence — a God lacking existence would not be the most perfect being.",
+              "correct": true
+            },
+            {
+              "text": "God's existence is confirmed by the reliability of mathematical truths, which could only be guaranteed by a perfect mind.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. The ontological argument holds that existence is a perfection — part of what it means to be maximally perfect. Just as a triangle necessarily has interior angles summing to 180 degrees, God necessarily exists because existence is contained in the very concept of a most perfect being.",
+          "incorrectFeedback": "The ontological argument argues from the concept of God alone. Since God is defined as the most perfect being, and existence is a perfection, God must exist — a non-existent God would lack a perfection and therefore not be the most perfect being conceivable."
+        },
+        {
+          "text": "<div><strong>In Meditation VI, Descartes argues for a \"real distinction\" between mind and body. What does \"real distinction\" mean in this context?</strong></div>",
+          "choices": [
+            {
+              "text": "Mind and body are two different ways of describing the same underlying substance.",
+              "correct": false
+            },
+            {
+              "text": "Mind and body are genuinely distinct substances — each could in principle exist without the other.",
+              "correct": true
+            },
+            {
+              "text": "The mind is more real than the body because it is better known.",
+              "correct": false
+            },
+            {
+              "text": "Mind and body are distinct only in the sense that they have different functions within a single unified human being.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. A \"real distinction\" means the two things are genuinely separate substances — not just different aspects of one thing. Descartes argues he can clearly and distinctly conceive of mind without body and body without mind, so God could create either one without the other.",
+          "incorrectFeedback": "A \"real distinction\" for Descartes means the two things are genuinely distinct substances that could exist independently. He argues that since he can clearly conceive of mind without body and vice versa, they must be separate kinds of things — not just different names for the same thing."
+        },
+        {
+          "text": "<div><strong>How does Descartes argue in Meditation VI that the external material world exists?</strong></div>",
+          "choices": [
+            {
+              "text": "He uses the cogito to infer that if he exists, the world he perceives must also exist.",
+              "correct": false
+            },
+            {
+              "text": "He argues that God directly reveals the existence of the external world through religious experience.",
+              "correct": false
+            },
+            {
+              "text": "He has an involuntary, irresistible tendency to believe in the external world; a non-deceiving God would not have given him such a tendency if the world did not exist.",
+              "correct": true
+            },
+            {
+              "text": "He reasons that the coherence and consistency of his sensory experiences over time proves that an external world causes them.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Descartes argues that he has a powerful, involuntary inclination to believe in the external world — one he did not choose. Since God is not a deceiver, God would not have created him with an irresistible tendency toward a false belief. Therefore the external world exists.",
+          "incorrectFeedback": "Descartes argues that his involuntary tendency to believe in the external world — which he cannot help having — must have been placed in him by God. Since God does not deceive, this irresistible inclination must be pointing toward something real."
+        },
+        {
+          "text": "<div><strong>What is the \"Cartesian Circle,\" and why is it considered a serious objection to Descartes' project?</strong></div>",
+          "choices": [
+            {
+              "text": "Descartes argues in a circle by using the body to explain the mind and then using the mind to explain the body.",
+              "correct": false
+            },
+            {
+              "text": "Descartes uses clear and distinct perception to prove God exists, then uses God to validate clear and distinct perception — each step depends on the other.",
+              "correct": true
+            },
+            {
+              "text": "Descartes uses the cogito to begin his argument but then abandons it, returning to it only at the end — a circular structure.",
+              "correct": false
+            },
+            {
+              "text": "Descartes proves the external world exists using God, but uses the external world to explain where our idea of God comes from.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. The Cartesian Circle is the charge that Descartes uses clear and distinct perception to prove God exists, then uses God's non-deceptive nature to validate clear and distinct perception. If one step is in doubt, both collapse — making the argument circular.",
+          "incorrectFeedback": "The Cartesian Circle is the charge of circular reasoning: Descartes needs clear and distinct perception to prove God, and needs God to validate clear and distinct perception. Each depends on the other, which means neither provides independent support for the other."
+        },
+        {
+          "text": "<div><strong>The Meditations is often described as a \"foundationalist\" project. What does this mean?</strong></div>",
+          "choices": [
+            {
+              "text": "Descartes argues that all knowledge ultimately rests on religious faith as its foundation.",
+              "correct": false
+            },
+            {
+              "text": "Descartes believes the foundations of knowledge were established by ancient Greek philosophers and need only to be recovered.",
+              "correct": false
+            },
+            {
+              "text": "Descartes seeks to identify a set of absolutely certain basic beliefs from which all other knowledge can be derived by deduction.",
+              "correct": true
+            },
+            {
+              "text": "Descartes argues that scientific observation provides the only reliable foundation for knowledge claims.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. Foundationalism holds that knowledge rests on a set of basic beliefs that are themselves certain without requiring further justification. For Descartes, the cogito is the foundational belief, and everything else — God's existence, the reliability of reason, the external world — is built from it deductively.",
+          "incorrectFeedback": "Foundationalism is the view that knowledge rests on certain basic beliefs that need no further justification. Descartes' project is foundationalist because he seeks one indubitable starting point — the cogito — and builds all other knowledge from it through deductive reasoning."
+        },
+        {
+          "text": "<div><strong>Descartes' substance dualism — the view that mind and body are genuinely distinct substances — immediately generates what serious philosophical problem?</strong></div>",
+          "choices": [
+            {
+              "text": "If mind and body are distinct, it is unclear why God would have created both instead of just the mind.",
+              "correct": false
+            },
+            {
+              "text": "If mind is unextended and body is extended, it is unclear how they can causally interact — how a thought can move a limb, or physical damage produce mental pain.",
+              "correct": true
+            },
+            {
+              "text": "If the mind is non-physical, it cannot be studied scientifically, making psychology impossible.",
+              "correct": false
+            },
+            {
+              "text": "If the body is merely mechanical, it implies that animals have no minds and therefore no moral status.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the interaction problem. If mind has no spatial extension and body is defined entirely by extension and motion, there is no obvious mechanism by which one could affect the other. Descartes acknowledged the problem but never solved it satisfactorily.",
+          "incorrectFeedback": "The most immediate problem with substance dualism is the interaction problem: if the mind is entirely non-physical and the body is entirely physical, how can they causally affect each other? How does a decision (mental) cause a hand to move (physical)? Descartes could not fully answer this."
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Quiz #3: David Hume",
+      "questions": [
+        {
+          "text": "<div><p>At the opening of the <em>Enquiry</em>, Hume distinguishes two types of philosophy. What does he see as the primary weakness of the more popular, literary type?</p></div>",
+          "choices": [
+            {
+              "text": "It relies too heavily on logical argument and ignores lived experience.",
+              "correct": false
+            },
+            {
+              "text": "It is entertaining but fails to investigate the principles underlying human thought and conduct.",
+              "correct": true
+            },
+            {
+              "text": "It is inaccessible to most readers because of its technical vocabulary.",
+              "correct": false
+            },
+            {
+              "text": "It focuses on metaphysics rather than ethics and politics.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume's stated ambition in the <em>Enquiry</em> is modeled on Newton's achievement in physics. What exactly does Hume hope to do for the mind that Newton did for bodies?</p></div>",
+          "choices": [
+            {
+              "text": "Prove mathematically that the mind exists independently of the body.",
+              "correct": false
+            },
+            {
+              "text": "Discover a small set of principles that govern the operations of the understanding, just as Newton discovered laws governing motion.",
+              "correct": true
+            },
+            {
+              "text": "Demonstrate that mental events obey the same physical laws as matter.",
+              "correct": false
+            },
+            {
+              "text": "Establish that God is necessary to explain the regularity of thought, just as Newton's laws require a divine creator.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>According to Hume, what is the primary difference between impressions and ideas?</p></div>",
+          "choices": [
+            {
+              "text": "Impressions are caused by external objects; ideas are caused by internal reflection.",
+              "correct": false
+            },
+            {
+              "text": "Impressions are forceful and vivid; ideas are fainter copies of impressions.",
+              "correct": true
+            },
+            {
+              "text": "Impressions are simple; ideas can be complex.",
+              "correct": false
+            },
+            {
+              "text": "Impressions are true; ideas can be false.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume's Copy Principle states that every simple idea is a copy of a corresponding simple impression. What is the philosophical significance of this principle?</p></div>",
+          "choices": [
+            {
+              "text": "It proves that the external world exists independently of the mind.",
+              "correct": false
+            },
+            {
+              "text": "It provides a test for whether a philosophical concept is meaningful: if no impression corresponds to it, the concept is suspect.",
+              "correct": true
+            },
+            {
+              "text": "It shows that complex ideas are more reliable than simple ones.",
+              "correct": false
+            },
+            {
+              "text": "It establishes that all human beings share the same fundamental experiences.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume acknowledges that the imagination can form ideas of things never directly experienced — for example, a golden mountain. How does he account for this without abandoning the Copy Principle?</p></div>",
+          "choices": [
+            {
+              "text": "He argues that we must have experienced golden mountains in a previous life.",
+              "correct": false
+            },
+            {
+              "text": "He allows an exception to the Copy Principle for imaginative ideas.",
+              "correct": false
+            },
+            {
+              "text": "Complex ideas like \"golden mountain\" are assembled from simple ideas (gold, mountain) each of which does copy an original impression.",
+              "correct": true
+            },
+            {
+              "text": "He denies that we truly have an idea of a golden mountain — we merely have the words for it.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume identifies three principles by which ideas become associated in the mind. Which of the following correctly identifies all three?</p></div>",
+          "choices": [
+            {
+              "text": "Resemblance, contiguity, and cause and effect",
+              "correct": true
+            },
+            {
+              "text": "Resemblance, contrast, and temporal sequence",
+              "correct": false
+            },
+            {
+              "text": "Similarity, memory, and emotional association",
+              "correct": false
+            },
+            {
+              "text": "Identity, succession, and causation",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>When Hume describes the three laws of association, he is careful to say that these are laws governing the way the mind connects ideas — not laws about how the external world works. Why does this distinction matter?</p></div>",
+          "choices": [
+            {
+              "text": "It means that Hume is only interested in psychology, not philosophy.",
+              "correct": false
+            },
+            {
+              "text": "It leaves open the question of whether the connections the mind forms — especially causal connections — reflect real features of the world, which Hume will examine in Section 4.",
+              "correct": true
+            },
+            {
+              "text": "It shows that the laws of association do not apply to emotional impressions, only cognitive ones.",
+              "correct": false
+            },
+            {
+              "text": "It establishes that the mind is independent of the body and therefore not subject to physical laws.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume's Fork divides all objects of human reason into \"relations of ideas\" and \"matters of fact.\" Which of the following statements is true of <em>relations of ideas</em>?</p></div>",
+          "choices": [
+            {
+              "text": "They are discovered through careful observation and can be revised by experience.",
+              "correct": false
+            },
+            {
+              "text": "Their contraries are conceivable but are known to be false through experiment.",
+              "correct": false
+            },
+            {
+              "text": "They are knowable through reason alone, and their contraries are inconceivable or self-contradictory.",
+              "correct": true
+            },
+            {
+              "text": "They include all claims about God, the soul, and the external world.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume says that all reasoning about matters of fact is founded on the relation of cause and effect. Why does he then go on to argue that this relation itself cannot be established by reason?</p></div>",
+          "choices": [
+            {
+              "text": "Because causal knowledge requires mathematical proof, and mathematics cannot be applied to empirical events.",
+              "correct": false
+            },
+            {
+              "text": "Because effects are always totally different from their causes — there is no necessary connection between them that reason can detect without prior experience.",
+              "correct": true
+            },
+            {
+              "text": "Because the senses are unreliable, and causal inference requires sensory data.",
+              "correct": false
+            },
+            {
+              "text": "Because Hume believes causation is an illusion and therefore not knowable by any means.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume's problem of induction shows that we cannot rationally justify the belief that the future will resemble the past. What makes any attempted justification circular?</p></div>",
+          "choices": [
+            {
+              "text": "Because all justifications of induction rely on deductive reasoning, which is inapplicable to matters of fact.",
+              "correct": false
+            },
+            {
+              "text": "Because any experiential justification (\"it has worked before, so it will work again\") is itself an inductive inference — it assumes the very principle it is meant to justify.",
+              "correct": true
+            },
+            {
+              "text": "Because the future has not yet happened and therefore cannot provide evidence for any conclusion.",
+              "correct": false
+            },
+            {
+              "text": "Because induction relies on the senses, which Hume shows are fundamentally unreliable.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hume applies the Copy Principle to the idea of \"necessary connection\" in causal relations. What does his investigation reveal?</p></div>",
+          "choices": [
+            {
+              "text": "We derive the idea of necessary connection from a direct impression of causal power when we observe events.",
+              "correct": false
+            },
+            {
+              "text": "The idea of necessary connection has no corresponding impression and is therefore meaningless.",
+              "correct": false
+            },
+            {
+              "text": "Necessary connection is derived from an internal impression — the mind's habituated expectation that arises after repeated observations of constant conjunction.",
+              "correct": true
+            },
+            {
+              "text": "God implants the idea of necessary connection directly into the mind, which is why we feel such certainty about causal claims.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>When we observe one billiard ball striking another and the second ball moving, Hume says all we actually observe is:</p></div>",
+          "choices": [
+            {
+              "text": "The causal power of the first ball being transmitted to the second.",
+              "correct": false
+            },
+            {
+              "text": "The necessary connection between the motion of the two balls.",
+              "correct": false
+            },
+            {
+              "text": "The constant conjunction of two events: the motion of the first ball followed by the motion of the second.",
+              "correct": true
+            },
+            {
+              "text": "A mathematical relationship between the forces involved.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>In Section 5, Hume offers his \"sceptical solution\" to the problem of induction. What is the solution?</p></div>",
+          "choices": [
+            {
+              "text": "Reason can justify induction if we use it carefully enough, and the problem arises only from careless application.",
+              "correct": false
+            },
+            {
+              "text": "God guarantees the reliability of induction, just as Descartes argued God guarantees the reliability of reason.",
+              "correct": false
+            },
+            {
+              "text": "Our inductive inferences are not justified by reason but by custom and habit — a natural, non-rational tendency of the mind that we cannot avoid and that serves us well enough.",
+              "correct": true
+            },
+            {
+              "text": "Induction is actually a form of deductive reasoning and is therefore as certain as mathematics.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>According to Hume, what distinguishes a <em>belief</em> from a merely entertained idea?</p></div>",
+          "choices": [
+            {
+              "text": "A belief has been verified by reason; a merely entertained idea has not.",
+              "correct": false
+            },
+            {
+              "text": "A belief corresponds to a real state of the external world; an idea may not.",
+              "correct": false
+            },
+            {
+              "text": "A belief is an idea held with a particular vivacity and force, produced by custom and experience rather than by rational argument.",
+              "correct": true
+            },
+            {
+              "text": "A belief is innate; ideas are acquired through experience.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>In Meditation III, Descartes argued that the idea of an infinitely perfect God must have an equally perfect cause, and that this cause must be God himself. How does Hume's analysis of causation and the Copy Principle challenge this argument?</p></div>",
+          "choices": [
+            {
+              "text": "Hume agrees with the argument's logic but denies that we have an idea of perfection, since no impression of perfection exists.",
+              "correct": false
+            },
+            {
+              "text": "Hume shows that the causal principle Descartes relies on — that every effect requires a cause at least as great — is not a relation of ideas (it is conceivable that it be false) and is not established by experience, so it cannot bear the weight Descartes places on it.",
+              "correct": true
+            },
+            {
+              "text": "Hume accepts that we have an idea of God but denies that this idea has a cause, since ideas need not have causes.",
+              "correct": false
+            },
+            {
+              "text": "Hume's critique is irrelevant to Descartes because Descartes was reasoning about necessary truths, not matters of fact.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Quiz #4: G. W. F. Hegel",
+      "questions": [
+        {
+          "text": "<div><p>Hegel describes <em>Original history</em> as history written by people like Thucydides and Caesar. What is the defining characteristic of this method?</p></div>",
+          "choices": [
+            {
+              "text": "The historian imposes a philosophical framework on events to reveal their rational structure.",
+              "correct": false
+            },
+            {
+              "text": "The historian synthesizes the work of earlier chroniclers into a comprehensive universal account.",
+              "correct": false
+            },
+            {
+              "text": "The historian writes about events they witnessed or participated in directly, sharing the spirit of the age they describe.",
+              "correct": true
+            },
+            {
+              "text": "The historian relies primarily on oral tradition and legend as sources.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel is critical of <em>Reflective history</em> despite acknowledging its broader scope. What is his main objection to it?</p></div>",
+          "choices": [
+            {
+              "text": "It relies on too few primary sources and is therefore factually unreliable.",
+              "correct": false
+            },
+            {
+              "text": "It tends to judge and interpret past events through the lens of the historian's own age rather than grasping them on their own terms.",
+              "correct": true
+            },
+            {
+              "text": "It is too abstract and ignores the concrete details that make history interesting.",
+              "correct": false
+            },
+            {
+              "text": "It focuses too narrowly on political history and neglects art, religion, and culture.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel describes his own approach as <em>Philosophical history</em>. Which of the following best captures what this method aims to do?</p></div>",
+          "choices": [
+            {
+              "text": "Evaluate historical figures according to universal moral standards independent of their time and place.",
+              "correct": false
+            },
+            {
+              "text": "Construct a comprehensive factual record of all human civilizations from the earliest times to the present.",
+              "correct": false
+            },
+            {
+              "text": "Identify the rational principle already at work in history rather than imposing an idea on it from outside.",
+              "correct": true
+            },
+            {
+              "text": "Argue that history is essentially random and that philosophical analysis cannot reveal any underlying pattern.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel states that “Reason governs the world, and has consequently governed its history.” What does he mean by this claim?</p></div>",
+          "choices": [
+            {
+              "text": "Individual historical actors always behave rationally and make decisions based on logical analysis.",
+              "correct": false
+            },
+            {
+              "text": "History has an intelligible rational structure and direction — it is not random, but moves toward a specific end.",
+              "correct": true
+            },
+            {
+              "text": "History is guided directly by God, whose rational plan determines every event.",
+              "correct": false
+            },
+            {
+              "text": "Science and philosophy have gradually replaced superstition as the governing force in human affairs.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>When Hegel refers to <em>Geist</em> (Spirit or Mind) in the <em>Philosophy of History</em>, what does he mean?</p></div>",
+          "choices": [
+            {
+              "text": "The soul of an individual human being, which Hegel believes survives death.",
+              "correct": false
+            },
+            {
+              "text": "The Christian God, understood as a personal being who intervenes in historical events.",
+              "correct": false
+            },
+            {
+              "text": "A self-developing rational principle — something like the collective mind of humanity — whose essential nature is freedom and which realizes itself through history.",
+              "correct": true
+            },
+            {
+              "text": "The abstract laws of logic, which Hegel believes govern both thought and physical reality.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>According to Hegel, what is the essential nature of Spirit, and what does the history of the world represent?</p></div>",
+          "choices": [
+            {
+              "text": "Spirit is essentially rational order; world history represents the spread of scientific knowledge.",
+              "correct": false
+            },
+            {
+              "text": "Spirit is essentially freedom; world history is the process of Spirit progressively realizing what it essentially is.",
+              "correct": true
+            },
+            {
+              "text": "Spirit is essentially moral virtue; world history is the gradual victory of goodness over evil.",
+              "correct": false
+            },
+            {
+              "text": "Spirit is essentially power; world history is the record of its accumulation by successive civilizations.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>The German word <em>Aufhebung</em> is central to Hegel's dialectic. It is translated as “sublation.” Which of the following best describes what <em>Aufhebung</em> involves?</p></div>",
+          "choices": [
+            {
+              "text": "The complete elimination of the thesis by the antithesis, with nothing preserved.",
+              "correct": false
+            },
+            {
+              "text": "A compromise that splits the difference between two opposing positions.",
+              "correct": false
+            },
+            {
+              "text": "A process that simultaneously cancels, preserves, and elevates — producing something genuinely new while retaining what was true in both the thesis and antithesis.",
+              "correct": true
+            },
+            {
+              "text": "The return of a historical period to its original form after a temporary deviation.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>According to Hegel's dialectical view of history, what is the primary driver of historical change?</p></div>",
+          "choices": [
+            {
+              "text": "External pressures such as war, climate, and geography.",
+              "correct": false
+            },
+            {
+              "text": "The decisions of great rulers and statesmen acting on rational principles.",
+              "correct": false
+            },
+            {
+              "text": "Internal contradictions within a historical position or form of life that generate opposition and force development.",
+              "correct": true
+            },
+            {
+              "text": "The gradual accumulation of technological improvements that transform material conditions.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Both Socrates and Hegel use the word “dialectic,” but they mean different things by it. Which of the following correctly distinguishes the two uses?</p></div>",
+          "choices": [
+            {
+              "text": "Socratic dialectic operates through conversation to expose contradictions in held beliefs; Hegelian dialectic describes how ideas and history develop through contradiction on a larger scale.",
+              "correct": true
+            },
+            {
+              "text": "Socratic dialectic is concerned with history; Hegelian dialectic is concerned with individual moral improvement.",
+              "correct": false
+            },
+            {
+              "text": "Socratic dialectic produces synthesis; Hegelian dialectic produces aporia (puzzlement).",
+              "correct": false
+            },
+            {
+              "text": "The two uses are identical; Hegel simply applied Socrates' method to a broader historical canvas.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel argues that history involves what he calls the “cunning of Reason.” What does he mean by this?</p></div>",
+          "choices": [
+            {
+              "text": "Reason disguises itself as emotion and passion in order to manipulate individuals into irrational behavior.",
+              "correct": false
+            },
+            {
+              "text": "Reason works through the private passions and ambitions of individuals — who do not know they are serving a larger purpose — to realize its own ends in history.",
+              "correct": true
+            },
+            {
+              "text": "Philosophers secretly guide political events by advising rulers who publicly claim to act on intuition alone.",
+              "correct": false
+            },
+            {
+              "text": "Reason conceals its conclusions in order to test whether the observer is capable of grasping them independently.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel uses Napoleon as his primary example of a world-historical individual. According to Hegel, what distinguishes such figures from ordinary historical actors?</p></div>",
+          "choices": [
+            {
+              "text": "They possess unusual moral virtue and consciously subordinate their personal interests to the common good.",
+              "correct": false
+            },
+            {
+              "text": "They understand Hegel's philosophy and deliberately act to advance the development of Spirit.",
+              "correct": false
+            },
+            {
+              "text": "Their personal ambitions happen to coincide with what the development of Spirit requires at that moment; they intuit what history needs without necessarily understanding it philosophically.",
+              "correct": true
+            },
+            {
+              "text": "They are chosen by God to fulfill a specific mission and are protected from personal failure until that mission is complete.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel observes that world-historical individuals — Caesar, Napoleon — tend to meet tragic ends once their historical task is accomplished. How does he explain this?</p></div>",
+          "choices": [
+            {
+              "text": "Their moral failings catch up with them; history ultimately rewards virtue and punishes wrongdoing.",
+              "correct": false
+            },
+            {
+              "text": "Once the historical principle they embodied has been established, they are no longer needed; they are instruments of Spirit and are discarded when the work is done.",
+              "correct": true
+            },
+            {
+              "text": "Their success breeds complacency, which leads to strategic errors and eventual military or political defeat.",
+              "correct": false
+            },
+            {
+              "text": "Hegel does not actually discuss the fates of world-historical individuals; this is a later interpretation.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel divides world history into three stages based on how widely freedom is recognized. Which of the following correctly describes all three stages in order?</p></div>",
+          "choices": [
+            {
+              "text": "No one is free; some are free; all are free.",
+              "correct": false
+            },
+            {
+              "text": "One is free (the despot); some are free (Greek and Roman citizens); all are free (the modern rational state).",
+              "correct": true
+            },
+            {
+              "text": "Individuals are free; communities are free; the state is free.",
+              "correct": false
+            },
+            {
+              "text": "Freedom is natural; freedom is legal; freedom is moral.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>Hegel writes that “the Owl of Minerva spreads its wings only with the falling of the dusk.” What does this image mean in the context of his philosophy of history?</p></div>",
+          "choices": [
+            {
+              "text": "Philosophy should work in secret, away from the scrutiny of public opinion.",
+              "correct": false
+            },
+            {
+              "text": "Wisdom comes most naturally to those who have lived long, difficult lives.",
+              "correct": false
+            },
+            {
+              "text": "Philosophy can only comprehend a historical epoch once it has run its course; genuine understanding of one's own time comes only in retrospect.",
+              "correct": true
+            },
+            {
+              "text": "The end of history is near; philosophy's task is almost complete.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p>The course has traced a philosophical arc from Hume through Kant to Hegel. Which of the following best describes the progression of this debate?</p></div>",
+          "choices": [
+            {
+              "text": "Hume argued that knowledge comes from reason alone; Kant corrected him by showing that experience is also necessary; Hegel reconciled the two by arguing that all knowledge is historical.",
+              "correct": false
+            },
+            {
+              "text": "Hume showed that reason cannot reach beyond experience; Kant responded that the mind actively structures experience using its own categories, but cannot know things-in-themselves; Hegel rejected the mind/world divide entirely, arguing that reason and reality are aspects of a single developing process.",
+              "correct": true
+            },
+            {
+              "text": "Hume established empiricism as the only valid method; Kant extended empiricism to include moral philosophy; Hegel extended it further to cover world history.",
+              "correct": false
+            },
+            {
+              "text": "Hume argued for skepticism about causation; Kant accepted this skepticism; Hegel rejected it by arguing that causation can be directly observed in historical events.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Quiz #5: Karl Marx",
+      "questions": [
+        {
+          "text": "<div>The <em>Communist Manifesto</em> opens with the claim that \"the history of all hitherto existing society is the history of class struggles.\" What kind of claim is this?</div>",
+          "choices": [
+            {
+              "text": "A moral claim: that class struggle is unjust and should be eliminated.",
+              "correct": false
+            },
+            {
+              "text": "An empirical claim about the fundamental driver of all historical development.",
+              "correct": true
+            },
+            {
+              "text": "A prediction about what will happen in the future if capitalism continues.",
+              "correct": false
+            },
+            {
+              "text": "A philosophical definition of what a society is.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>In Marx's framework of base and superstructure, which of the following belongs to the <em>base</em>?</div>",
+          "choices": [
+            {
+              "text": "The legal system that enforces property rights.",
+              "correct": false
+            },
+            {
+              "text": "The religious institutions that provide social cohesion.",
+              "correct": false
+            },
+            {
+              "text": "The relations of production — who owns the means of production and who must sell their labor.",
+              "correct": true
+            },
+            {
+              "text": "The political parties that compete for power within the state.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>According to Marx and Engels, what defines a person as a member of the bourgeoisie?</div>",
+          "choices": [
+            {
+              "text": "Having a high income and a comfortable lifestyle.",
+              "correct": false
+            },
+            {
+              "text": "Owning the means of production and employing the labor of others for profit.",
+              "correct": true
+            },
+            {
+              "text": "Being educated and holding professional qualifications.",
+              "correct": false
+            },
+            {
+              "text": "Having aristocratic titles or hereditary landholdings.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>Marx and Engels claim that the bourgeoisie produces \"its own gravediggers.\" What do they mean by this?</div>",
+          "choices": [
+            {
+              "text": "Individual capitalists eventually become so wealthy that they can afford to retire and hand power to their heirs.",
+              "correct": false
+            },
+            {
+              "text": "Capitalist greed leads to wars that destroy the ruling class from within.",
+              "correct": false
+            },
+            {
+              "text": "The development of capitalism necessarily produces and concentrates the proletariat — the very class whose interests require overthrowing capitalism.",
+              "correct": true
+            },
+            {
+              "text": "Overproduction leads to economic crises that eventually bankrupt the bourgeoisie.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>Marx and Engels argue that abolishing private property does not mean abolishing <em>personal</em> property. What is the distinction they are drawing?</div>",
+          "choices": [
+            {
+              "text": "Personal property refers to items used for luxury and enjoyment; private property refers to essential goods like food and clothing.",
+              "correct": false
+            },
+            {
+              "text": "Personal property is what individuals use in daily life; private property (in their sense) is ownership of the means of production used to employ others and extract profit.",
+              "correct": true
+            },
+            {
+              "text": "Private property is protected by law; personal property exists only through social custom.",
+              "correct": false
+            },
+            {
+              "text": "Personal property belongs to families; private property belongs to individuals acting alone.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>The ten-point program in Part 2 of the <em>Manifesto</em> lists measures such as progressive income tax, free public education, and nationalization of credit. How does Marx present these measures?</div>",
+          "choices": [
+            {
+              "text": "As a permanent and universal blueprint for a communist society applicable to all countries equally.",
+              "correct": false
+            },
+            {
+              "text": "As steps for the transitional period following the workers' seizure of political power, applicable to the most advanced countries.",
+              "correct": true
+            },
+            {
+              "text": "As reforms that can be achieved peacefully through democratic voting within capitalism.",
+              "correct": false
+            },
+            {
+              "text": "As ideals that can never be fully realized but serve as a moral standard for evaluating existing policies.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>In Part 4 of the <em>Manifesto</em>, how do Marx and Engels describe the relationship between the communists and other workers' and democratic movements?</div>",
+          "choices": [
+            {
+              "text": "Communists regard other movements as rivals to be absorbed or replaced once communism is strong enough.",
+              "correct": false
+            },
+            {
+              "text": "Communists support every revolutionary movement against the existing social and political order, regardless of national boundaries.",
+              "correct": true
+            },
+            {
+              "text": "Communists remain neutral toward other movements until those movements have proven their commitment to the proletariat's interests.",
+              "correct": false
+            },
+            {
+              "text": "Communists oppose democratic movements because democracy within capitalism only reinforces bourgeois power.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>Marx argues that the proletariat has a <em>universal</em> interest — not merely a class interest competing against another class interest. What does he mean?</div>",
+          "choices": [
+            {
+              "text": "Workers in every country share the same cultural values, which makes their interests naturally universal.",
+              "correct": false
+            },
+            {
+              "text": "The proletariat's interest in ending class exploitation is an interest in abolishing class itself — which benefits all humanity, not just one class.",
+              "correct": true
+            },
+            {
+              "text": "Workers outnumber capitalists, so a majority interest is by definition a universal one.",
+              "correct": false
+            },
+            {
+              "text": "Because workers produce all the wealth in society, their interests are identical with the interests of society as a whole in the present moment.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>Marx and Engels criticize <em>reactionary socialism</em> despite acknowledging that it sometimes identifies real harms of capitalism. What is their central objection?</div>",
+          "choices": [
+            {
+              "text": "It relies on appeals to emotion rather than rational argument.",
+              "correct": false
+            },
+            {
+              "text": "It criticizes capitalism from the perspective of a social order that was itself exploitative, and looks backward toward a world that should not be restored.",
+              "correct": true
+            },
+            {
+              "text": "It has no practical political program and is purely academic.",
+              "correct": false
+            },
+            {
+              "text": "It only addresses the problems of the petty bourgeoisie and ignores the proletariat entirely.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>What is Marx's objection to <em>bourgeois socialism</em> (also called conservative socialism)?</div>",
+          "choices": [
+            {
+              "text": "It is too radical and threatens to destabilize society before workers are ready to govern themselves.",
+              "correct": false
+            },
+            {
+              "text": "It wants the advantages of capitalism for the bourgeoisie while softening its worst effects, without challenging the ownership structure that causes those effects.",
+              "correct": true
+            },
+            {
+              "text": "It focuses only on political reform and ignores economic questions altogether.",
+              "correct": false
+            },
+            {
+              "text": "It is dishonest — its proponents secretly want to restore feudal society.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>Marx respects the <em>critical-utopian socialists</em> (such as Owen, Saint-Simon, and Fourier) more than the other socialist types, but still rejects their approach. Why?</div>",
+          "choices": [
+            {
+              "text": "Their visions of an ideal society are too vague to be useful as political programs.",
+              "correct": false
+            },
+            {
+              "text": "They appeal to universal reason and justice to persuade the ruling class, but this strategy cannot work if class interests shape what counts as reasonable and just.",
+              "correct": true
+            },
+            {
+              "text": "They focus too narrowly on the conditions of factory workers and ignore agricultural laborers.",
+              "correct": false
+            },
+            {
+              "text": "Their writings are too difficult for ordinary workers to understand and therefore cannot build a mass movement.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>Marx's concept of alienated labor describes a condition in which workers experience their own labor as external and coerced. Which of the following best captures why Marx considers this a <em>structural</em> problem rather than a problem of individual bad management?</div>",
+          "choices": [
+            {
+              "text": "Most factory owners in the nineteenth century were personally cruel and could have been replaced by more enlightened managers.",
+              "correct": false
+            },
+            {
+              "text": "Workers are simply not psychologically suited to finding meaning in repetitive tasks, regardless of economic arrangements.",
+              "correct": false
+            },
+            {
+              "text": "Alienation is inherent to wage labor itself — workers must sell their labor as a commodity and do not own the product of their work, regardless of how pleasant the workplace is.",
+              "correct": true
+            },
+            {
+              "text": "Workers are alienated because they lack the education needed to understand and appreciate the value of what they produce.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>False consciousness, as a concept in Marxist theory, describes which of the following?</div>",
+          "choices": [
+            {
+              "text": "The deliberate deception of workers by capitalists through propaganda and misinformation campaigns.",
+              "correct": false
+            },
+            {
+              "text": "The tendency of workers to make irrational economic decisions because they lack education in basic economics.",
+              "correct": false
+            },
+            {
+              "text": "A structural condition in which people sincerely hold beliefs about their interests and the justice of social arrangements that systematically serve the interests of the class that exploits them.",
+              "correct": true
+            },
+            {
+              "text": "The psychological guilt experienced by bourgeois reformers who recognize the injustice of capitalism but continue to benefit from it.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>Marx described his relationship to Hegel as finding Hegel \"standing on his head\" and setting him right-side up. What does this image mean philosophically?</div>",
+          "choices": [
+            {
+              "text": "Marx replaced Hegel's pessimistic view of history with an optimistic one.",
+              "correct": false
+            },
+            {
+              "text": "Marx rejected Hegel's dialectical method and replaced it with straightforward empirical observation.",
+              "correct": false
+            },
+            {
+              "text": "Where Hegel derived material reality from Consciousness and Spirit, Marx insisted that consciousness is derived from material conditions of production — reversing the direction of causation.",
+              "correct": true
+            },
+            {
+              "text": "Marx applied Hegel's philosophy of history to the future rather than the past, predicting rather than explaining historical development.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div>One philosophical challenge to Marx's theory of ideology is sometimes called the \"self-exemption problem.\" Which of the following best describes it?</div>",
+          "choices": [
+            {
+              "text": "Marx exempted himself from paying taxes on the grounds that capitalist law did not apply to those who opposed it.",
+              "correct": false
+            },
+            {
+              "text": "If all ideas are shaped by class interests, then Marx's own theory is presumably shaped by his class position — raising the question of how he escapes the ideological distortion he diagnoses in everyone else.",
+              "correct": true
+            },
+            {
+              "text": "Marx claimed that communist thinkers were exempt from the class struggle because they represented the interests of all humanity.",
+              "correct": false
+            },
+            {
+              "text": "The proletariat is exempt from the need to justify its revolution morally, because historical necessity makes justification unnecessary.",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "",
+          "incorrectFeedback": ""
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Quiz #6: Jean-Paul Sartre",
+      "questions": [
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        },
+        {
+          "text": "<div><p><strong>Sartre claims (1) there are no objective moral norms, and (2) bad faith is wrong. Which of the following is the most serious philosophical challenge this creates for his position?</strong></p></div>",
+          "choices": [
+            {
+              "text": "Without objective norms, Sartre cannot distinguish better and worse political systems",
+              "correct": false
+            },
+            {
+              "text": "If values are the products of individual choice and there are no objective norms, it is unclear on what basis bad faith can be condemned as wrong rather than merely inconvenient",
+              "correct": true
+            },
+            {
+              "text": "Sartre's denial of objective norms means he cannot consistently hold any view about anything",
+              "correct": false
+            },
+            {
+              "text": "The condemnation of bad faith requires appealing to a fixed human nature, which contradicts \"existence precedes essence\"",
+              "correct": false
+            }
+          ],
+          "correctFeedback": "Correct. This is the central tension in Sartre's ethics. If moral norms are products of individual choice, what makes the choice to live in bad faith worse than the choice to live authentically? Sartre's defenders argue that the condemnation of bad faith follows not from an external norm but from the internal structure of consciousness itself — bad faith is incoherent because it relies on and denies the same freedom simultaneously. Whether this response works is a genuine open question.",
+          "incorrectFeedback": ""
+        }
+      ]
+    }
+  ],
+  "discussions": [
+    {
+      "unit": 1,
+      "title": "Discussion #1: The Examined Life",
+      "prompt": "<div style=\"font-family: Georgia, 'Times New Roman', serif; font-size: 1rem; line-height: 1.7; color: #1a1a1a; max-width: 860px; margin: 0 auto; padding-bottom: 1.5rem;\">\n<div style=\"background-color: #1e3a5f; color: #ffffff; padding: 1.75rem 2rem 1.5rem; border-radius: 4px 4px 0 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #a8c4e0; margin: 0 0 0.35rem 0;\">Unit 1 — Discussion</p>\n<h2 style=\"font-size: 1.75rem;  color: #ffffff; line-height: 1.25; margin: 0 0 0.5rem 0; border: none; padding: 0;\">The Examined Life</h2>\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.9rem; color: #c8dff0; font-style: italic; margin: 0;\">Socrates, philosophy, and what it means to live with conviction</p>\n</div>\n\n<div style=\"border: 1px solid #d0dce8; border-top: none; padding: 2rem 2rem 2rem; background-color: #ffffff; border-radius: 0 0 4px 4px;\">\n<p style=\"margin: 0 0 1rem 0;\">Near the end of the <em>Apology</em>, Socrates is given the opportunity to propose his own punishment — an alternative that might have saved his life. He could offer exile. He could offer silence. Instead he refuses both and accepts death, because accepting either condition would have required him to stop philosophizing. His reason: <em>the unexamined life is not worth living</em>.</p>\n<p style=\"margin: 0 0 1rem 0;\">Whatever you think of Socrates — and it is reasonable to find him exasperating, admirable, or both — this is a remarkable thing to say in front of a jury that has just voted to convict you. It is not a rhetorical gesture. It is a philosophical claim about what makes a human life genuinely worthwhile, and Socrates is staking his life on it.</p>\n<p style=\"margin: 0 0 1.75rem 0;\">The two questions below approach this claim from different angles. Both connect to material across all three dialogues. <strong>Choose one and respond to it.</strong></p>\n \n<div style=\"margin-bottom: 1.75rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #3d5a78; margin: 0 0 0.5rem 0;\">Question 1</p>\n<p style=\"font-size: 1.05rem; font-style: italic; color: #1e3a5f; margin: 0 0 0.75rem 0; line-height: 1.5;\">“The unexamined life is not worth living.” Is Socrates right?</p>\n<p style=\"margin: 0 0 0.75rem 0;\">Socrates does not just preach this claim — he demonstrates it through his entire method. The elenchus forces people to examine beliefs they have never questioned. In the <em>Euthyphro</em>, Euthyphro has never seriously asked himself what piety actually is. In the <em>Crito</em>, Crito has never seriously asked himself whether popular opinion is a reliable guide to justice.</p>\n<p style=\"margin: 0;\">Take a position on Socrates’ claim. Do you agree that a life without self-examination is not fully worth living? If you agree, explain what examination requires and why its absence diminishes a life. If you disagree, make the strongest case you can for the person who lives well without philosophizing — and anticipate how Socrates would respond to you.</p>\n</div>\n \n<div style=\"margin-bottom: 1.75rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #3d5a78; margin: 0 0 0.5rem 0;\">Question 2</p>\n<p style=\"font-size: 1.05rem; font-style: italic; color: #1e3a5f; margin: 0 0 0.75rem 0; line-height: 1.5;\">In the <em>Apology</em>, Socrates says he would disobey a court order to stop philosophizing. In the <em>Crito</em>, he refuses to escape an unjust execution. Are these two positions consistent?</p>\n<p style=\"margin: 0 0 0.75rem 0;\">The tension is real. In one dialogue Socrates places his mission above the law. In the other he places the law above his survival. His argument in the <em>Crito</em> — that he has tacitly agreed to abide by Athens’ laws by living there his whole life — seems to bind him in a way that the <em>Apology</em>’s commitment to philosophy does not.</p>\n<p style=\"margin: 0;\">Do you think these positions can be reconciled? If so, explain how — what principle or distinction makes both positions coherent at the same time? If not, identify which position you find more defensible and explain why. You may also draw on the Euthyphro dilemma if it helps: if morality has an independent standard, does that give Socrates grounds to disobey unjust laws regardless of what the <em>Crito</em> argument implies?</p>\n</div>\n \n<h3 style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.9rem;    color: #1e3a5f; margin: 0 0 0.75rem 0;\">How to post</h3>\n<div style=\"margin: 0 0 0.4rem 0; padding-left: 1rem;\">— Choose <strong>one</strong> question and write a substantive response (a few developed paragraphs is appropriate — aim for depth over length)</div>\n<div style=\"margin: 0 0 0.4rem 0; padding-left: 1rem;\">— State your position clearly and defend it with reasoning and evidence from the text</div>\n<div style=\"margin: 0 0 0.4rem 0; padding-left: 1rem;\">— Acknowledge the strongest objection to your position and respond to it</div>\n<div style=\"margin: 0 0 1.25rem 0; padding-left: 1rem;\">— Reply to at least <strong>two classmates</strong> — engage their argument, not just their conclusion</div>\n<div style=\"border-left: 4px solid #1e3a5f; background-color: #f0f4f8; padding: 0.9rem 1.25rem; margin-bottom: 1.25rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.3rem 0;\">What counts as a good reply</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">A good reply does more than say “I agree” or “interesting point.” It identifies something specific in your classmate’s argument — a premise you want to question, a distinction they haven’t drawn, a counterexample that complicates their position — and engages with it directly. You don’t have to disagree. You can agree and extend the argument further. The goal is genuine philosophical exchange.</p>\n</div>\n<div style=\"border-left: 4px solid #2d6a4f; background-color: #eef6f1; padding: 0.9rem 1.25rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #2d6a4f; margin: 0 0 0.3rem 0;\">Grading</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">This discussion is graded on completion. Full credit requires one original post that takes and defends a position, plus replies to at least two classmates that engage their arguments substantively. Posts that only summarize the text without arguing, or replies that only express agreement without engaging the reasoning, do not count toward completion.</p>\n</div>\n</div>\n</div>"
+    },
+    {
+      "unit": 2,
+      "title": "Discussion #2: Descartes, Meditations",
+      "prompt": "<div style=\"font-family: Georgia, 'Times New Roman', serif; font-size: 1rem; line-height: 1.7; color: #1a1a1a; max-width: 860px; margin: 0 auto; padding-bottom: 1.5rem;\">\n<div style=\"background-color: #1e3a5f; color: #ffffff; padding: 1.5rem 2rem 1.25rem; border-radius: 4px 4px 0 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #a8c4e0; margin: 0 0 0.35rem 0;\">Unit 2 Discussion — René Descartes</p>\n<h2 style=\"font-size: 1.6rem;  color: #ffffff; line-height: 1.25; margin: 0; border: none; padding: 0;\">What Does the Cogito Actually Prove?</h2>\n</div>\n\n<div style=\"background-color: #f0f4f8; border: 1px solid #d0dce8; border-top: 3px solid #1e3a5f; padding: 0.9rem 1.5rem; margin-bottom: 1.5rem;\">\n<p style=\"margin: 0; font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.88rem; color: #2a3f55;\">Complete the reading and lecture pages before posting. Your initial post should be at least 250 words. Reply substantively to at least two classmates.</p>\n</div>\n\n<p style=\"margin: 0 0 1rem 0;\">Descartes arrives at <em>cogito ergo sum</em> — “I think, therefore I am” — as the one thing that survives his method of radical doubt. It is the foundation he has been looking for: something so certain that even an evil demon cannot make it false.</p>\n<p style=\"margin: 0 0 1.25rem 0;\">But exactly what has Descartes proven? Consider the following:</p>\n<div style=\"border-left: 4px solid #3d5a78; background-color: #f0f4f8; padding: 1rem 1.25rem; margin: 0 0 1.5rem 0; border-radius: 0 4px 4px 0;\">\n<p style=\"margin: 0 0 0.75rem 0; font-size: 0.95rem;\">One reading: the cogito is a valid logical inference. “I am thinking” is the premise; “whatever thinks must exist” is the implicit second premise; “I exist” is the conclusion. The argument is airtight — if the premises are true, the conclusion must be.</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">A different reading: the cogito is not an inference at all. It is a direct, immediate intuition — the simultaneous recognition of thinking and existing in a single act of awareness. Descartes himself seems to prefer this reading. The “ergo” (therefore) does not indicate a logical step; it indicates an inseparable connection.</p>\n</div>\n<p style=\"margin: 0 0 1.5rem 0;\">Choose the question below that you find most compelling and write a substantive response. Engage directly with Descartes’ text where possible.</p>\n\n<div style=\"border: 1px solid #d0dce8; border-radius: 4px; padding: 1.1rem 1.25rem; margin-bottom: 0.75rem; background-color: #ffffff;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">Question 1 — What does the cogito prove?</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">Does the cogito prove that a <em>self</em> exists — a unified, continuous thinker — or only that <em>thinking is occurring</em>? Is Descartes entitled to the “I” in “I think, therefore I am”? What would be lost, and what would be gained, if we replaced it with something like “There is thinking, therefore something exists”?</p>\n</div>\n\n<div style=\"border: 1px solid #d0dce8; border-radius: 4px; padding: 1.1rem 1.25rem; margin-bottom: 1.5rem; background-color: #ffffff;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">Question 2 — Is the cogito enough?</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">Even granting that the cogito succeeds, it seems to prove remarkably little on its own: that <em>I</em> exist, right now, as a thinking thing. Descartes then uses it as a springboard to prove God’s existence, the reliability of reason, and the existence of the external world. Is that springboard strong enough? Is the cogito really a foundation capable of bearing that weight, or does Descartes ask too much of it?</p>\n</div>\n\n<div style=\"border-left: 4px solid #2d6a4f; background-color: #f0faf4; padding: 0.9rem 1.25rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #2d6a4f; margin: 0 0 0.3rem 0;\">How to respond</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">State which question you are answering. Take a position and defend it — don’t just summarize Descartes. When you reply to classmates, engage with their argument: offer a counterexample, press on a premise, or extend their reasoning in a new direction. There is no single correct answer here, but there are stronger and weaker arguments.</p>\n</div>\n</div>"
+    },
+    {
+      "unit": 3,
+      "title": "Discussion #3: Hume, Enquiry",
+      "prompt": "<div style=\"font-family: Georgia, 'Times New Roman', serif; font-size: 1rem; line-height: 1.7; color: #1a1a1a; max-width: 860px; margin: 0 auto; padding-bottom: 2rem;\">\n<div style=\"background-color: #1e3a5f; color: #ffffff; padding: 1.75rem 2rem 1.5rem; border-radius: 4px; margin-bottom: 1.5rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #a8c4e0; margin: 0 0 0.35rem 0;\">PHIL 1301 — Unit 3 — Discussion #3</p>\n<h2 style=\"font-size: 1.75rem;  color: #ffffff; line-height: 1.25; margin: 0 0 0.6rem 0; border: none; padding: 0;\">Hume, <em>Enquiry Concerning Human Understanding</em></h2>\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.9rem; color: #c8dff0; font-style: italic; margin: 0;\">Two open questions. No hidden correct answers. Both invite genuine disagreement.</p>\n</div>\n\n<p style=\"margin: 0 0 1.25rem 0;\">Hume has left science in an uncomfortable position. We can’t prove that the future will resemble the past. We can’t observe necessary connections in nature — only constant conjunctions. The rational foundations we thought we had turn out to be habits of mind. Yet science works. It produces reliable predictions. It saves lives and builds bridges.</p>\n<p style=\"margin: 0 0 1.5rem 0;\">What should we make of all this? These two questions ask you to take a position and defend it.</p>\n\n<div style=\"border-left: 4px solid #1e3a5f; background-color: #f0f4f8; padding: 1.1rem 1.5rem; margin-bottom: 1.5rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">Question 1 — Hume and Science</p>\n<p style=\"margin: 0; font-size: 1.02rem;\">Hume argues that we can never observe causation — only constant conjunction — and that our belief in induction cannot be rationally justified. If Hume is right, does science rest on a foundation it can’t justify? Does that matter? Can you think of a response to Hume that saves scientific knowledge from his challenge — or do you think his conclusion stands?</p>\n</div>\n\n<div style=\"border-left: 4px solid #1e3a5f; background-color: #f0f4f8; padding: 1.1rem 1.5rem; margin-bottom: 1.5rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">Question 2 — The Is/Ought Gap</p>\n<p style=\"margin: 0; font-size: 1.02rem;\">Hume argues that you cannot derive an “ought” from an “is” — that no amount of factual information about the world, by itself, tells you what you should do. Do you agree? Can you think of a real-world moral argument that seems to cross this gap successfully? Or does every such argument turn out to smuggle in a hidden normative premise?</p>\n</div>\n\n<div style=\"background-color: #f0f4f8; border: 1px solid #d0dce8; border-top: 3px solid #1e3a5f; padding: 1rem 1.5rem; margin-bottom: 1rem; border-radius: 0 0 4px 4px;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.8rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">How to respond</p>\n<p style=\"margin: 0 0 0.5rem 0; font-size: 0.92rem;\"><strong>Choose one question</strong> and write a substantive initial post (at least two well-developed paragraphs). You don’t need to resolve the question definitively — philosophy rarely works that way. What matters is that you stake out a clear position and give reasons for it.</p>\n<p style=\"margin: 0 0 0.5rem 0; font-size: 0.92rem;\">Once you have submitted your initial post, you will be able to see your classmates’ responses. <strong>Reply to at least two posts</strong> with substantive engagement — ask a question, push back on a premise, offer a counterexample, or extend the argument. Each reply should be at least one solid paragraph. “I agree!” or “Good point!” do not constitute replies.</p>\n<p style=\"margin: 0; font-size: 0.92rem; color: #555555;\"><em>You are welcome to respond to both questions if you wish, but only one initial post is required for credit.</em></p>\n</div>\n\n<div style=\"border-left: 4px solid #b45309; background-color: #fffbeb; padding: 0.9rem 1.25rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #92400e; margin: 0 0 0.3rem 0;\">Academic Integrity</p>\n<p style=\"margin: 0; font-size: 0.92rem;\">Your posts must represent your own thinking. If you draw on any source other than the assigned reading and the course lecture pages, cite it. Plagiarized posts receive a zero; repeated offenses result in a failing grade for the course.</p>\n</div>\n</div>"
+    },
+    {
+      "unit": 4,
+      "title": "Discussion #4: Hegel, History",
+      "prompt": "<div style=\"font-family: Georgia, 'Times New Roman', serif; font-size: 1rem; line-height: 1.7; color: #1a1a1a; max-width: 860px; margin: 0 auto; padding-bottom: 2rem;\">\n<div style=\"background-color: #1e3a5f; color: #ffffff; padding: 1.75rem 2rem 1.5rem; border-radius: 4px; margin-bottom: 1.5rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #a8c4e0; margin: 0 0 0.35rem 0;\">PHIL 1301 — Unit 4 — Discussion #4</p>\n<h2 style=\"font-size: 1.75rem;  color: #ffffff; line-height: 1.25; margin: 0 0 0.6rem 0; border: none; padding: 0;\">Hegel, <em>Introduction to the Philosophy of History</em></h2>\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.9rem; color: #c8dff0; font-style: italic; margin: 0;\">Two open questions. No hidden correct answers. Both invite genuine disagreement.</p>\n</div>\n\n<p style=\"margin: 0 0 1.25rem 0;\">Hegel has made an ambitious claim: that history is not random but rational, that it moves toward the progressive realization of freedom, and that philosophy can comprehend this movement even if the individuals living through it cannot. This is a claim worth testing — both on its own terms and against your own experience of the world.</p>\n<p style=\"margin: 0 0 1.5rem 0;\">These two questions are designed to open that examination. Both are genuinely open-ended. There is no correct answer waiting to be discovered; what matters is the quality of your reasoning.</p>\n\n<div style=\"border-left: 4px solid #1e3a5f; background-color: #f0f4f8; padding: 1.1rem 1.5rem; margin-bottom: 1.5rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">Question 1 — Is History Going Somewhere?</p>\n<p style=\"margin: 0; font-size: 1.02rem;\">Hegel argues that history moves toward the realization of freedom — that this is not just something we value, but something that reason itself demands and that history enacts. Do you find this convincing? Looking at the world as you know it, does history appear to you to be progressing toward greater freedom, cycling without direction, or something else? And what is at stake in how you answer that question — does it matter, practically or philosophically, whether history has a direction?</p>\n</div>\n\n<div style=\"border-left: 4px solid #1e3a5f; background-color: #f0f4f8; padding: 1.1rem 1.5rem; margin-bottom: 1.5rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">Question 2 — World-Historical Individuals</p>\n<p style=\"margin: 0; font-size: 1.02rem;\">Hegel argues that certain individuals — Napoleon is his example — embody the spirit of their age and move history forward, often without fully understanding their own role. They pursue personal ambition, but their ambition happens to coincide with what the development of Spirit requires. Does this idea hold up? Who, if anyone, might count as a world-historical individual today? And does Hegel’s account leave enough room for individual moral responsibility — or does it risk becoming an excuse for power?</p>\n</div>\n\n<div style=\"background-color: #f0f4f8; border: 1px solid #d0dce8; border-top: 3px solid #1e3a5f; padding: 1rem 1.5rem; margin-bottom: 1rem; border-radius: 0 0 4px 4px;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.8rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">How to respond</p>\n<p style=\"margin: 0 0 0.5rem 0; font-size: 0.92rem;\"><strong>Choose one question</strong> and write a substantive initial post (at least two well-developed paragraphs). You don’t need to resolve the question definitively — philosophy rarely works that way. What matters is that you stake out a clear position and give reasons for it.</p>\n<p style=\"margin: 0 0 0.5rem 0; font-size: 0.92rem;\">Once you have submitted your initial post, you will be able to see your classmates’ responses. <strong>Reply to at least two posts</strong> with substantive engagement — ask a question, push back on a premise, offer a counterexample, or extend the argument. Each reply should be at least one solid paragraph. “I agree!” or “Good point!” do not constitute replies.</p>\n<p style=\"margin: 0; font-size: 0.92rem; color: #555555;\"><em>You are welcome to respond to both questions if you wish, but only one initial post is required for credit.</em></p>\n</div>\n\n<div style=\"border-left: 4px solid #b45309; background-color: #fffbeb; padding: 0.9rem 1.25rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #92400e; margin: 0 0 0.3rem 0;\">Academic Integrity</p>\n<p style=\"margin: 0; font-size: 0.92rem;\">Your posts must represent your own thinking. If you draw on any source other than the assigned reading and the course lecture pages, cite it. Plagiarized posts receive a zero; repeated offenses result in a failing grade for the course.</p>\n</div>\n</div>"
+    },
+    {
+      "unit": 5,
+      "title": "Discussion #5: Marx, Manifesto",
+      "prompt": "<div style=\"font-family: Georgia, 'Times New Roman', serif; font-size: 1rem; line-height: 1.7; color: #1a1a1a; max-width: 860px; margin: 0 auto; padding-bottom: 2rem;\">\n<div style=\"background-color: #1e3a5f; color: #ffffff; padding: 1.5rem 2rem; border-radius: 4px; margin-bottom: 1.25rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #a8c4e0; margin: 0 0 0.3rem 0;\">PHIL 1301 — Discussion #5</p>\n<h2 style=\"font-size: 1.5rem;  color: #ffffff; margin: 0; border: none; padding: 0;\">Karl Marx: Class, History, and What Shapes the Way We Think</h2>\n</div>\n\n<p style=\"margin: 0 0 1rem 0;\">You have now read the <em>Communist Manifesto</em> and worked through the lecture pages. This discussion asks you to take a position on one of two philosophical questions that the unit raises. Both are genuinely open — there is no hidden correct answer, and strong responses will draw directly on the text.</p>\n<p style=\"margin: 0 0 1.5rem 0;\"><strong>Choose one of the two questions below</strong> and write an initial post of at least 200 words that takes a clear position and supports it with reasoning and specific reference to the <em>Manifesto</em>. Then reply to at least two classmates — engaging with their arguments, not just agreeing or disagreeing.</p>\n\n<div style=\"border-left: 4px solid #1e3a5f; background-color: #f0f4f8; padding: 1.1rem 1.5rem; border-radius: 0 4px 4px 0; margin-bottom: 1.25rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.5rem 0;\">Question 1</p>\n<p style=\"font-size: 1.05rem;  margin: 0 0 0.75rem 0; color: #1a1a1a;\">Is the history of all hitherto existing society really the history of class struggles?</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">Marx and Engels open the <em>Manifesto</em> with this as a definitive claim, not a hypothesis. Do you think it holds up? You might consider: Are there historical periods or societies where class conflict does not seem to be the primary driver of events? Does the claim explain more than it leaves out? If it is not true in its strongest form, is there a weaker version that is still philosophically useful?</p>\n</div>\n\n<div style=\"border-left: 4px solid #3d5a78; background-color: #f0f4f8; padding: 1.1rem 1.5rem; border-radius: 0 4px 4px 0; margin-bottom: 1.5rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #3d5a78; margin: 0 0 0.5rem 0;\">Question 2</p>\n<p style=\"font-size: 1.05rem;  margin: 0 0 0.75rem 0; color: #1a1a1a;\">Does where you come from economically shape how you think?</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">Marx argues that people’s ideas about justice, freedom, and the natural order of society are shaped — often without their awareness — by their position within economic relations. This is the concept of false consciousness. Do you find this persuasive? Can you think of examples where this seems true? And if it is true, how does anyone — including Marx himself — achieve a perspective on their own society that isn’t simply a reflection of their class position?</p>\n</div>\n\n<div style=\"border: 1px solid #d0dce8; border-radius: 4px; padding: 1.1rem 1.5rem; background-color: #ffffff; margin-bottom: 1.25rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.78rem;    color: #1e3a5f; margin: 0 0 0.6rem 0;\">What’s expected</p>\n<div style=\"font-size: 0.95rem;\">\n<div style=\"padding: 0.35rem 0; border-bottom: 1px solid #eef2f6;\">○ &nbsp; Choose one question and write an initial post of at least 200 words</div>\n<div style=\"padding: 0.35rem 0; border-bottom: 1px solid #eef2f6;\">○ &nbsp; Take a clear position and support it — don’t just summarize what Marx said</div>\n<div style=\"padding: 0.35rem 0; border-bottom: 1px solid #eef2f6;\">○ &nbsp; Reference specific passages or arguments from the <em>Manifesto</em></div>\n<div style=\"padding: 0.35rem 0; border-bottom: 1px solid #eef2f6;\">○ &nbsp; Reply to at least two classmates with substantive responses (75+ words each)</div>\n<div style=\"padding: 0.35rem 0;\">○ &nbsp; Engage with your classmates’ reasoning, not just their conclusions</div>\n</div>\n</div>\n\n<div style=\"border-left: 4px solid #b45309; background-color: #fffbeb; padding: 0.9rem 1.25rem; border-radius: 0 4px 4px 0;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #92400e; margin: 0 0 0.3rem 0;\">A note on engagement</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">These are politically charged questions, and your classmates will come in with different starting points and strong reactions. That’s exactly what makes philosophy interesting. The goal is not to reach agreement but to think more carefully — including about the positions you started with. Treat opposing arguments with the principle of charity: engage with the strongest version of what someone is saying, not the easiest version to dismiss.</p>\n</div>\n</div>"
+    },
+    {
+      "unit": 6,
+      "title": "Discussion #6: Sartre, Existentialism",
+      "prompt": "<div style=\"font-family: Georgia, 'Times New Roman', serif; font-size: 1rem; line-height: 1.7; color: #1a1a1a; max-width: 860px; margin: 0 auto; padding-bottom: 2rem;\">\n<div style=\"background-color: #1e3a5f; color: #ffffff; padding: 1.75rem 2rem 1.5rem; border-radius: 4px; margin-bottom: 1.25rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #a8c4e0; margin: 0 0 0.35rem 0;\">PHIL 1301 — Discussion #6</p>\n<h2 style=\"font-size: 1.6rem;  color: #ffffff; line-height: 1.25; margin: 0 0 0.4rem 0; border: none; padding: 0;\">Existentialism and Freedom</h2>\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.88rem; color: #c8dff0; font-style: italic; margin: 0;\">Based on: Sartre, <em>Existentialism Is a Humanism</em></p>\n</div>\n\n<p style=\"margin: 0 0 1rem 0;\">Sartre’s existentialism makes two claims that pull against each other. The first: there are no objective moral norms; values are the products of human choice, not features of the world waiting to be discovered. The second: bad faith — the attempt to deny or evade one’s freedom — is wrong.</p>\n<p style=\"margin: 0 0 1.5rem 0;\">Both of these questions give you something genuinely to argue about. There is no predetermined correct answer. What matters is that you engage with Sartre’s actual text and reasoning, not just with your general feelings about freedom or morality.</p>\n\n<div style=\"border-left: 4px solid #1e3a5f; background-color: #f0f4f8; padding: 0.9rem 1.25rem; border-radius: 0 4px 4px 0; margin-bottom: 1.5rem;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.3rem 0;\">Instructions</p>\n<p style=\"margin: 0; font-size: 0.95rem;\">Choose <strong>one</strong> of the two questions below. Write an initial post of at least 200 words. Then respond substantively to at least <strong>two</strong> classmates who chose the same question — not just agreement or encouragement, but actual engagement with their argument. Responses should be at least 75 words.</p>\n</div>\n\n<div style=\"border: 1px solid #d0dce8; border-radius: 4px; padding: 1.25rem 1.5rem; margin-bottom: 1.25rem; background-color: #ffffff;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #3d5a78; margin: 0 0 0.5rem 0;\">Question 1 — Radical Freedom</p>\n<p style=\"margin: 0 0 1rem 0; font-size: 1rem;\">Sartre claims that human beings are “condemned to be free” — that we cannot escape freedom, and that even refusing to choose is a form of choice. Do you find this convincing? Are there situations in which it seems clearly wrong — cases where people genuinely have no freedom at all? Or does Sartre’s distinction between <em>facticity</em> (the unchosen facts of your situation) and the freedom you exercise in responding to that situation successfully handle these cases?</p>\n<p style=\"margin: 0; font-size: 0.9rem; font-style: italic; color: #444444;\">In your response, engage with a specific case — real or hypothetical. Sartre uses the student with the ailing mother as his example; feel free to use a different one. What happens to his argument in your case?</p>\n</div>\n\n<div style=\"border: 1px solid #d0dce8; border-radius: 4px; padding: 1.25rem 1.5rem; margin-bottom: 1.5rem; background-color: #ffffff;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.75rem;    color: #3d5a78; margin: 0 0 0.5rem 0;\">Question 2 — Bad Faith and Moral Norms</p>\n<p style=\"margin: 0 0 1rem 0; font-size: 1rem;\">Sartre says there are no objective moral norms, and also that bad faith is wrong. Is he entitled to both claims at once? Think about what resources he has within his own framework for condemning bad faith without appealing to external moral standards. Does his account of consciousness as a <em>for-itself</em> give him what he needs? Or is this an inconsistency that undermines his position?</p>\n<p style=\"margin: 0; font-size: 0.9rem; font-style: italic; color: #444444;\">You might also consider how this tension compares to one we saw in Unit 5: Marx’s difficulty in critiquing capitalism from within a framework that treats all moral positions as products of class interest. Is Sartre’s problem the same? Different?</p>\n</div>\n\n<div style=\"background-color: #f0f4f8; border: 1px solid #d0dce8; border-top: 3px solid #1e3a5f; padding: 1rem 1.5rem; border-radius: 0 0 4px 4px;\">\n<p style=\"font-family: 'Trebuchet MS', Arial, sans-serif; font-size: 0.72rem;    color: #1e3a5f; margin: 0 0 0.6rem 0;\">What makes a strong post</p>\n<p style=\"margin: 0 0 0.3rem 0; font-size: 0.9rem;\">•&nbsp;<strong>Engages with the text.</strong> Reference something specific from <em>Existentialism Is a Humanism</em> — a passage, an argument, an example. Do not rely on general impressions.</p>\n<p style=\"margin: 0 0 0.3rem 0; font-size: 0.9rem;\">•&nbsp;<strong>Takes a position.</strong> Your post should have a point of view, not just a summary of what Sartre says. What do <em>you</em> think, and why?</p>\n<p style=\"margin: 0 0 0.3rem 0; font-size: 0.9rem;\">•&nbsp;<strong>Responds to the argument, not the conclusion.</strong> If you disagree with Sartre, show where his argument fails, not just that you find his conclusion uncomfortable.</p>\n<p style=\"margin: 0; font-size: 0.9rem;\">•&nbsp;<strong>Engages peers genuinely.</strong> In your replies, explain what in your classmate’s argument you are responding to. Agreement is fine; what is not fine is agreement without engagement.</p>\n</div>\n</div>"
+    }
+  ]
+}
