@@ -1,2 +1,4 @@
 .superpowers/
 *.imscc
+_site/
+node_modules/
