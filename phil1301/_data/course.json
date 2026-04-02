@@ -1,0 +1,79 @@
+{
+  "title": "PHIL 1301: Introduction to Philosophy",
+  "shortTitle": "PHIL 1301",
+  "modules": [
+    {
+      "slug": "start-here",
+      "title": "Start Here",
+      "icon": "&#128218;",
+      "description": "Course orientation, instructor introduction, and getting started.",
+      "pages": [
+        { "slug": "index", "title": "Start Here: Overview" }
+      ]
+    },
+    {
+      "slug": "unit-1-socrates",
+      "title": "Unit 1: Socrates and Plato",
+      "icon": "&#127963;&#65039;",
+      "description": "Explore the life and philosophy of Socrates and Plato through the Euthyphro, Apology, and Crito.",
+      "pages": [
+        { "slug": "index", "title": "Unit 1: Overview" },
+        { "slug": "socrates-life", "title": "Socrates' Life and Context" }
+      ]
+    },
+    {
+      "slug": "unit-2-descartes",
+      "title": "Unit 2: Rene Descartes",
+      "icon": "&#129504;",
+      "description": "Examine Descartes' method of doubt and the foundations of modern philosophy.",
+      "pages": [
+        { "slug": "index", "title": "Unit 2: Overview" }
+      ]
+    },
+    {
+      "slug": "unit-3-hume",
+      "title": "Unit 3: David Hume",
+      "icon": "&#128269;",
+      "description": "Investigate Hume's empiricism, skepticism about causation, and the limits of reason.",
+      "pages": [
+        { "slug": "index", "title": "Unit 3: Overview" }
+      ]
+    },
+    {
+      "slug": "unit-4-hegel",
+      "title": "Unit 4: G. W. F. Hegel",
+      "icon": "&#9883;&#65039;",
+      "description": "Understand Hegel's dialectic, philosophy of history, and vision of freedom.",
+      "pages": [
+        { "slug": "index", "title": "Unit 4: Overview" }
+      ]
+    },
+    {
+      "slug": "unit-5-marx",
+      "title": "Unit 5: Karl Marx",
+      "icon": "&#9878;&#65039;",
+      "description": "Analyze Marx's historical materialism, class struggle, and critique of capitalism.",
+      "pages": [
+        { "slug": "index", "title": "Unit 5: Overview" }
+      ]
+    },
+    {
+      "slug": "unit-6-sartre",
+      "title": "Unit 6: Jean-Paul Sartre",
+      "icon": "&#128172;",
+      "description": "Explore Sartre's existentialism, radical freedom, and ethics of responsibility.",
+      "pages": [
+        { "slug": "index", "title": "Unit 6: Overview" }
+      ]
+    },
+    {
+      "slug": "final-exam",
+      "title": "Final Exam",
+      "icon": "&#128221;",
+      "description": "Comprehensive final exam covering all course units.",
+      "pages": [
+        { "slug": "index", "title": "Final Exam" }
+      ]
+    }
+  ]
+}
