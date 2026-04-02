@@ -49,7 +49,17 @@
       "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(len\\(d.get\\(''''modules'''',[]\\)\\), ''''modules''''\\)\")",
       "Bash(find 'C:/Users/norma/OneDrive/Documents/MEGA/Teaching Files/HCC/LMS Courses/001 - New PHIL 1301/website/phil1301' -name introducing-philosophy* 2)",
       "Bash(/dev/null echo:*)",
-      "Bash(node scripts/tabs-to-accordions.js)"
+      "Bash(node scripts/tabs-to-accordions.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/start-here/logic-reference/)",
+      "Bash(where python3:*)",
+      "Bash(node scripts/extract-quiz-discussions.js)",
+      "Bash(node scripts/generate-interactives.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/unit-1-socrates/quiz/)",
+      "Bash(node scripts/fix-quiz-html.js)",
+      "Bash(node scripts/extract-feedback.js)",
+      "Bash(for u:*)",
+      "Read(//c/Users/norma/OneDrive/Documents/MEGA/**)",
+      "Bash(node scripts/rebuild-quizzes.js)"
     ]
   }
 }
