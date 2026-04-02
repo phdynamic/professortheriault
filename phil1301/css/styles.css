@@ -173,7 +173,7 @@ a:hover {
 .breadcrumbs {
   font-size: 0.8rem;
   color: #666;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
