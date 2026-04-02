@@ -134,8 +134,8 @@ function buildQuizBody(questions) {
   lines.push('</div></div>');
   lines.push('');
 
-  // Quiz wrapper + score tracker
-  lines.push('<div class="quiz"><div class="quiz__score-tracker" style="display:none;"></div>');
+  // Quiz wrapper + top bar with score tracker and Start Over button
+  lines.push('<div class="quiz"><div class="quiz__top-bar"><div class="quiz__score-tracker" style="display:none;"></div><button class="quiz__start-over" type="button" style="display:none;">Start Over</button></div>');
 
   questions.forEach((q, qi) => {
     const qNum = qi + 1;
@@ -172,9 +172,6 @@ function buildQuizBody(questions) {
     lines.push(
       `    <div class="quiz__feedback quiz__feedback--incorrect" style="display:none;">${escHtml(incorrectFb)}</div>`
     );
-
-    // Clear button
-    lines.push('    <button class="quiz__clear" type="button" style="display:none;">Clear</button>');
 
     lines.push('  </div>');
   });
