@@ -61,7 +61,15 @@
       "Read(//c/Users/norma/OneDrive/Documents/MEGA/**)",
       "Bash(node scripts/rebuild-quizzes.js)",
       "Bash(node scripts/generate-missing-feedback.js)",
-      "Bash(zip -r ../professortheriault-deploy.zip .)"
+      "Bash(zip -r ../professortheriault-deploy.zip .)",
+      "Bash(do)",
+      "Bash(echo \"=== $f ===\")",
+      "Read(//c/Users/norma/OneDrive/Documents/MEGA/Teaching Files/HCC/LMS Courses/001 - New PHIL 1301/website/phil1301/$f/**)",
+      "Bash(node scripts/trim-quizzes.js)",
+      "Bash(echo \"=== $u ===\")",
+      "Read(//c/Users/norma/OneDrive/Documents/MEGA/Teaching Files/HCC/LMS Courses/001 - New PHIL 1301/website/phil1301/$u/**)",
+      "Bash(do sed:*)",
+      "Bash(echo \"Fixed: $f\")"
     ]
   }
 }
