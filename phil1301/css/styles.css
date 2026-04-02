@@ -401,6 +401,17 @@ a:hover {
   margin-top: 2rem;
 }
 
+.module-grid--single {
+  grid-template-columns: 1fr;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.module-grid--units {
+  grid-template-columns: repeat(3, 1fr);
+}
+
 .module-card {
   display: block;
   border: 2px solid #e0e0e0;
