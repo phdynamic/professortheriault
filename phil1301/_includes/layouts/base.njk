@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | {{ course.title }}</title>
+  <meta name="description" content="{{ description or course.title }}">
+  <link rel="stylesheet" href="/phil1301/css/styles.css">
+</head>
+<body>
+
+  <nav class="top-nav">
+    <a href="/" class="top-nav__home">Professor Theriault</a>
+    <span class="top-nav__title">{{ course.shortTitle }}</span>
+    <button class="top-nav__hamburger" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </nav>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <nav class="sidebar__nav" aria-label="Course navigation">
+        {% for mod in course.modules %}
+        <div class="sidebar__module{% if module == mod.slug %} sidebar__module--active{% endif %}">
+          <button class="sidebar__toggle" aria-expanded="{% if module == mod.slug %}true{% else %}false{% endif %}">
+            <span class="sidebar__icon">{{ mod.icon | safe }}</span>
+            {{ mod.title }}
+          </button>
+          <ul class="sidebar__pages">
+            {% for pg in mod.pages %}
+            <li>
+              <a href="/phil1301/{{ mod.slug }}/{% if pg.slug != 'index' %}{{ pg.slug }}/{% endif %}"
+                 class="sidebar__link{% if page.url == '/phil1301/' + mod.slug + '/' and pg.slug == 'index' %} sidebar__link--current{% elif page.url == '/phil1301/' + mod.slug + '/' + pg.slug + '/' %} sidebar__link--current{% endif %}">
+                {{ pg.title }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </nav>
+    </aside>
+
+    <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+
+    <main class="content">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="breadcrumbs__sep">&rsaquo;</span>
+        <a href="/phil1301/">PHIL 1301</a>
+        {% if module %}
+        <span class="breadcrumbs__sep">&rsaquo;</span>
+        {% for mod in course.modules %}
+          {% if mod.slug == module %}
+          <a href="/phil1301/{{ mod.slug }}/">{{ mod.title }}</a>
+          {% endif %}
+        {% endfor %}
+        {% endif %}
+        {% if breadcrumbTitle %}
+        <span class="breadcrumbs__sep">&rsaquo;</span>
+        <span class="breadcrumbs__current">{{ breadcrumbTitle }}</span>
+        {% endif %}
+      </nav>
+
+      {{ content | safe }}
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>&copy; 2026 Professor Theriault. All rights reserved.</p>
+  </footer>
+
+  <script src="/phil1301/js/nav.js"></script>
+</body>
+</html>
