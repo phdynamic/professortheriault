@@ -23,6 +23,14 @@
         {
           "slug": "website-orientation",
           "title": "Website Orientation Activity"
+        },
+        {
+          "slug": "introducing-philosophy",
+          "title": "Introducing Philosophy"
+        },
+        {
+          "slug": "logic-reference",
+          "title": "Logic Reference"
         }
       ]
     },
@@ -34,14 +42,6 @@
       "pages": [
         {
           "slug": "index",
-          "title": "Introducing Philosophy"
-        },
-        {
-          "slug": "logic-reference",
-          "title": "Logic Reference"
-        },
-        {
-          "slug": "unit-1-overview",
           "title": "Unit 1: Overview"
         },
         {

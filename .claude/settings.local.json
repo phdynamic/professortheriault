@@ -35,7 +35,9 @@
       "Bash(node scripts/convert-imscc.js)",
       "Bash(npx @11ty/eleventy --serve --port=8081)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/unit-1-socrates/)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/start-here/)"
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8081/phil1301/start-here/)",
+      "Bash(mv phil1301/unit-1-socrates/index.njk phil1301/start-here/introducing-philosophy.njk)",
+      "Bash(mv phil1301/unit-1-socrates/logic-reference.njk phil1301/start-here/logic-reference.njk)"
     ]
   }
 }
