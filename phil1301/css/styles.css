@@ -497,6 +497,11 @@ a:hover {
   display: none;
 }
 
+.tabs__panel h3:not(:first-child),
+.tabs__panel h4 {
+  margin-top: 1.5rem;
+}
+
 /* === Callout Boxes === */
 .callout {
   display: flex;
