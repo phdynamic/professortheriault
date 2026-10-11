@@ -5,3 +5,14 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+[[redirects]]
+  from = "/ethicslens"
+  to = "/ethicslens/"
+  status = 301
+
+[[redirects]]
+  from = "/ethicslens/*"
+  to = "https://phdynamic.github.io/ethicslens/:splat"
+  status = 200
+  force = true
