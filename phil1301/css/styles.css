@@ -165,8 +165,14 @@ a:hover {
 /* === Content === */
 .content {
   flex: 1;
+  min-width: 0; /* without this a wide table or URL widens the whole column past the screen */
   padding: 1.5rem 2rem 3rem;
   max-width: 900px;
+  overflow-wrap: break-word;
+}
+
+.content a {
+  overflow-wrap: anywhere;
 }
 
 /* === Breadcrumbs === */
@@ -599,10 +605,15 @@ a:hover {
 }
 
 /* === Tables === */
+.table-wrap {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
 .content table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1.5rem 0;
+  margin: 0;
   border-radius: 8px;
   overflow: hidden;
   border: 1px solid #e0e0e0;
