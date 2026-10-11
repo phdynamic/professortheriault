@@ -21,7 +21,6 @@ const MANIFEST = [
 
   ["unit-1-aristotle", "index", "Unit 1: Overview", "overview-of-unit-1"],
   ["unit-1-aristotle", "aristotles-life-and-context", "Aristotle's Life and Context", "aristotles-life-and-context"],
-  ["unit-1-aristotle", "aristotles-background", "Aristotle's Background", "aristotles-background"],
   ["unit-1-aristotle", "nicomachean-ethics-book-i", "Nicomachean Ethics, Book I", "nicomachean-ethics-book-i"],
   ["unit-1-aristotle", "nicomachean-ethics-book-ii", "Nicomachean Ethics, Book II", "nicomachean-ethics-book-ii"],
   ["unit-1-aristotle", "nicomachean-ethics-book-iii", "Nicomachean Ethics, Book III", "nicomachean-ethics-book-iii"],
@@ -31,9 +30,6 @@ const MANIFEST = [
   ["unit-2-aquinas", "reason-and-faith", "Reason and Faith", "reason-and-faith"],
   ["unit-2-aquinas", "four-kinds-of-law", "Four Kinds of Law", "four-kinds-of-law"],
   ["unit-2-aquinas", "natural-law-and-its-precepts", "Natural Law and Its Precepts", "natural-law-and-its-precepts"],
-  ["unit-2-aquinas", "the-cardinal-virtues-justice", "The Cardinal Virtues: Justice", "the-cardinal-virtues-justice"],
-  ["unit-2-aquinas", "the-cardinal-virtues-temperance", "The Cardinal Virtues: Temperance", "the-cardinal-virtues-temperance"],
-  ["unit-2-aquinas", "the-cardinal-virtues-fortitude", "The Cardinal Virtues: Fortitude", "the-cardinal-virtues-fortitude"],
 
   ["unit-3-kant", "index", "Unit 3: Overview", "overview-of-unit-3"],
   ["unit-3-kant", "kants-life-and-context", "Kant's Life and Context", "kants-life-and-context"],
@@ -50,7 +46,6 @@ const MANIFEST = [
   ["unit-5-nietzsche", "index", "Unit 5: Overview", "overview-of-unit-5"],
   ["unit-5-nietzsche", "nietzsches-life-and-context", "Nietzsche's Life and Context", "nietzsches-life-and-context"],
   ["unit-5-nietzsche", "the-genealogical-method", "The Genealogical Method", "the-genealogical-method"],
-  ["unit-5-nietzsche", "genealogy-of-morality-first-treatise", "Genealogy of Morality: First Treatise", "genealogy-of-morality-first-treatise"],
   ["unit-5-nietzsche", "master-morality-slave-morality-and-the-revaluation-of-values", "Master Morality, Slave Morality, and the Revaluation of Values", "master-morality-slave-morality-and-the-revaluation-of-values"],
 
   ["unit-6-beauvoir", "index", "Unit 6: Overview", "overview-of-unit-6"],

@@ -51,10 +51,6 @@
             "title": "Aristotle's Life and Context"
           },
           {
-            "slug": "aristotles-background",
-            "title": "Aristotle's Background"
-          },
-          {
             "slug": "nicomachean-ethics-book-i",
             "title": "Nicomachean Ethics, Book I"
           },
@@ -80,7 +76,7 @@
         "slug": "unit-2-aquinas",
         "title": "Unit 2: Thomas Aquinas",
         "icon": "&#128220;",
-        "description": "Examine Aquinas’s theory of natural law and the cardinal virtues in the Summa Theologiae.",
+        "description": "Examine Aquinas’s theory of natural law and the order of reason in the Summa Theologiae.",
         "pages": [
           {
             "slug": "index",
@@ -101,18 +97,6 @@
           {
             "slug": "natural-law-and-its-precepts",
             "title": "Natural Law and Its Precepts"
-          },
-          {
-            "slug": "the-cardinal-virtues-justice",
-            "title": "The Cardinal Virtues: Justice"
-          },
-          {
-            "slug": "the-cardinal-virtues-temperance",
-            "title": "The Cardinal Virtues: Temperance"
-          },
-          {
-            "slug": "the-cardinal-virtues-fortitude",
-            "title": "The Cardinal Virtues: Fortitude"
           },
           {
             "slug": "reflection-prompt",
@@ -213,10 +197,6 @@
           {
             "slug": "the-genealogical-method",
             "title": "The Genealogical Method"
-          },
-          {
-            "slug": "genealogy-of-morality-first-treatise",
-            "title": "Genealogy of Morality: First Treatise"
           },
           {
             "slug": "master-morality-slave-morality-and-the-revaluation-of-values",

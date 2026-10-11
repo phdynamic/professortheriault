@@ -678,25 +678,6 @@ a:hover {
   margin-bottom: 1.5rem;
 }
 
-/* === Figures (portrait artwork) === */
-.page-figure {
-  margin: 0 auto 1.5rem;
-  max-width: 280px;
-  text-align: center;
-}
-
-.content .page-figure img {
-  width: 100%;
-  height: auto;
-  margin: 0 auto 0.5rem;
-}
-
-.page-figure figcaption {
-  font-size: 0.8rem;
-  color: #666;
-  line-height: 1.4;
-}
-
 /* === Video Embeds === */
 .video-embed {
   position: relative;
