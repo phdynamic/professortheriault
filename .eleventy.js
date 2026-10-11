@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("course-assets");
   eleventyConfig.addPassthroughCopy("phil1301/assets");
+  eleventyConfig.addPassthroughCopy("phil2306/assets");
   eleventyConfig.addPassthroughCopy("index.html");
 
   eleventyConfig.ignores.add("docs/**");
@@ -13,6 +14,14 @@ module.exports = function (eleventyConfig) {
     return allPages
       .filter((p) => p.data.course && p.data.course.slug === courseSlug && p.data.module === moduleSlug)
       .sort((a, b) => a.data.position - b.data.position);
+  });
+
+  // Tables scroll inside their own box on narrow screens instead of widening the page.
+  eleventyConfig.addTransform("wrapTables", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content
+      .replace(/<table\b/g, '<div class="table-wrap"><table')
+      .replace(/<\/table>/g, "</table></div>");
   });
 
   return {

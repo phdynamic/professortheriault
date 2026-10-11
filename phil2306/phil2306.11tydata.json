@@ -1,0 +1,233 @@
+{
+  "course": {
+    "slug": "phil2306",
+    "title": "PHIL 2306: Introduction to Ethics",
+    "shortTitle": "PHIL 2306",
+    "modules": [
+      {
+        "slug": "start-here",
+        "title": "Start Here",
+        "icon": "&#128218;",
+        "description": "Course orientation, instructor introduction, and the tools of ethical reasoning.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Getting Started"
+          },
+          {
+            "slug": "meet-your-instructor",
+            "title": "Meet Your Instructor"
+          },
+          {
+            "slug": "assessments",
+            "title": "Assessments"
+          },
+          {
+            "slug": "website-orientation",
+            "title": "Website Orientation Activity"
+          },
+          {
+            "slug": "basic-concepts",
+            "title": "Basic Concepts"
+          },
+          {
+            "slug": "logic-for-ethics",
+            "title": "Logic for Ethics"
+          }
+        ]
+      },
+      {
+        "slug": "unit-1-aristotle",
+        "title": "Unit 1: Aristotle",
+        "icon": "&#127994;",
+        "description": "Virtue, character, and the good life in the Nicomachean Ethics.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 1: Overview"
+          },
+          {
+            "slug": "aristotles-life-and-context",
+            "title": "Aristotle's Life and Context"
+          },
+          {
+            "slug": "aristotles-background",
+            "title": "Aristotle's Background"
+          },
+          {
+            "slug": "nicomachean-ethics-book-i",
+            "title": "Nicomachean Ethics, Book I"
+          },
+          {
+            "slug": "nicomachean-ethics-book-ii",
+            "title": "Nicomachean Ethics, Book II"
+          },
+          {
+            "slug": "nicomachean-ethics-book-iii",
+            "title": "Nicomachean Ethics, Book III"
+          }
+        ]
+      },
+      {
+        "slug": "unit-2-aquinas",
+        "title": "Unit 2: Thomas Aquinas",
+        "icon": "&#128220;",
+        "description": "Natural law, the order of reason, and the cardinal virtues.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 2: Overview"
+          },
+          {
+            "slug": "aquinas-life-and-context",
+            "title": "Aquinas' Life and Context"
+          },
+          {
+            "slug": "reason-and-faith",
+            "title": "Reason and Faith"
+          },
+          {
+            "slug": "four-kinds-of-law",
+            "title": "Four Kinds of Law"
+          },
+          {
+            "slug": "natural-law-and-its-precepts",
+            "title": "Natural Law and Its Precepts"
+          },
+          {
+            "slug": "the-cardinal-virtues-justice",
+            "title": "The Cardinal Virtues: Justice"
+          },
+          {
+            "slug": "the-cardinal-virtues-temperance",
+            "title": "The Cardinal Virtues: Temperance"
+          },
+          {
+            "slug": "the-cardinal-virtues-fortitude",
+            "title": "The Cardinal Virtues: Fortitude"
+          }
+        ]
+      },
+      {
+        "slug": "unit-3-kant",
+        "title": "Unit 3: Immanuel Kant",
+        "icon": "&#129517;",
+        "description": "Duty, the good will, and the categorical imperative.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 3: Overview"
+          },
+          {
+            "slug": "kants-life-and-context",
+            "title": "Kant's Life and Context"
+          },
+          {
+            "slug": "good-will-and-duty",
+            "title": "Good Will and Duty"
+          },
+          {
+            "slug": "the-categorical-imperative",
+            "title": "The Categorical Imperative"
+          },
+          {
+            "slug": "freedom-and-autonomy",
+            "title": "Freedom and Autonomy"
+          }
+        ]
+      },
+      {
+        "slug": "unit-4-mill",
+        "title": "Unit 4: John Stuart Mill",
+        "icon": "&#9878;&#65039;",
+        "description": "Utilitarianism and the greatest happiness principle.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 4: Overview"
+          },
+          {
+            "slug": "mills-life-and-context",
+            "title": "Mill's Life and Context"
+          },
+          {
+            "slug": "the-greatest-happiness-principle",
+            "title": "The Greatest Happiness Principle"
+          },
+          {
+            "slug": "sanctions-and-the-proof-of-utility",
+            "title": "Sanctions and the Proof of Utility"
+          },
+          {
+            "slug": "justice-and-utility",
+            "title": "Justice and Utility"
+          }
+        ]
+      },
+      {
+        "slug": "unit-5-nietzsche",
+        "title": "Unit 5: Friedrich Nietzsche",
+        "icon": "&#128296;",
+        "description": "The genealogy of morality and the revaluation of values.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 5: Overview"
+          },
+          {
+            "slug": "nietzsches-life-and-context",
+            "title": "Nietzsche's Life and Context"
+          },
+          {
+            "slug": "the-genealogical-method",
+            "title": "The Genealogical Method"
+          },
+          {
+            "slug": "genealogy-of-morality-first-treatise",
+            "title": "Genealogy of Morality: First Treatise"
+          },
+          {
+            "slug": "master-morality-slave-morality-and-the-revaluation-of-values",
+            "title": "Master Morality, Slave Morality, and the Revaluation of Values"
+          }
+        ]
+      },
+      {
+        "slug": "unit-6-beauvoir",
+        "title": "Unit 6: Simone de Beauvoir",
+        "icon": "&#128330;&#65039;",
+        "description": "Freedom, ambiguity, and an ethics for situated beings.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 6: Overview"
+          },
+          {
+            "slug": "de-beauvoirs-life-and-context",
+            "title": "De Beauvoir's Life and Context"
+          },
+          {
+            "slug": "ambiguity-and-freedom",
+            "title": "Ambiguity and Freedom"
+          },
+          {
+            "slug": "authentic-and-inauthentic-freedom",
+            "title": "Authentic and Inauthentic Freedom"
+          }
+        ]
+      },
+      {
+        "slug": "final-paper",
+        "title": "Final Paper",
+        "icon": "&#128221;",
+        "description": "An essay on one philosopher from the course.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Final Paper"
+          }
+        ]
+      }
+    ]
+  }
+}
