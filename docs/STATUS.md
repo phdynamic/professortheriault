@@ -5,7 +5,7 @@
 - PHIL 1301 Introduction to Philosophy: Start Here, Units 1–6, Final Paper; reflection + 10-question quiz per unit
 - PHIL 2306 Introduction to Ethics: same shape as PHIL 1301
 - HUMA 1301 Introduction to the Humanities (LIVE at /huma1301/ since 9fe9168, squash-merged; instructor content review still pending): Start Here (5 pages), 13 units (Overview, Lesson with Gallery or Watch & Listen + Experience It + Further Exploration, Reflection, 10-question Quiz), Critic's Practice in Units 3, 7, 11, Final Paper; burgundy/gold/cream theme; homepage card linked on the branch
-- Art Randomizer (branch `art-randomizer`, not yet merged): standalone page at /artrandomizer/ with a Randomize button, a wheel that spins through "?" cards and lands on one work, a rotating question (art form, century, culture), "Try this" prompts, a link to the Humanities unit, and browser-only history. Pool of 161 works (86 images, 75 clips; every one of the ten art forms has 15 or more, painting 26); homepage card added
+- Art Randomizer (LIVE at /artrandomizer/ since 433be4a, squash-merged): standalone page at /artrandomizer/ with a Randomize button, a wheel that spins through "?" cards and lands on one work, a rotating question (art form, century, culture), "Try this" prompts, a link to the Humanities unit, and browser-only history. Pool of 161 works (86 images, 75 clips; every one of the ten art forms has 15 or more, painting 26); homepage card added
 - Shared templates/assets: `_includes/layouts`, `/course-assets` (css; nav/accordion/quiz JS); per-course `<slug>/<slug>.11tydata.json`
 - Hosting: Netlify, builds on push to `main` via `netlify.toml`
 

@@ -59,4 +59,4 @@
 - found by viewing images: several draft descriptions were wrong (Benin plaque, Atget, Cameron, O'Sullivan, Genji, Beowulf, Chaucer) and one Shahnameh file was a blank folio; all corrected before merge
 - added `undated: true` for living traditions so they never get a century question
 - homepage card added after the EthicsLens card
-- live-tested: local only; not yet merged
+- squash-merged to main (433be4a) and pushed

@@ -1,9 +1,9 @@
-NEXT SESSION — updated 2026-10-11 (end of session)
+NEXT SESSION — updated 2026-10-12 (end of session)
 
 Left off:
-- HUMA 1301 Introduction to the Humanities is LIVE (squash-merged to main as 9fe9168, verified on https://professortheriault.com/huma1301/ and the homepage card). The local branch humanities-course can be deleted; its history holds ~140 MB of raw images and the publisher's question bank, so never push it.
+- Art Randomizer is merged to main (433be4a) at /artrandomizer/ with a homepage card; the local branch art-randomizer can be deleted. HUMA 1301 and EthicsLens (/ethicslens/) are also live.
 
 Next:
-- Developer reviews the course content (see TESTING-OWED.md): quiz feedback, reflections, Final Paper wording, Smarthistory links, third-party clips, credits.
+- Developer reviews the Art Randomizer notices and clips (TESTING-OWED.md) and the HUMA 1301 content: quiz feedback, reflections, Final Paper wording, Smarthistory links, third-party clips, credits.
 - Developer: remove the custom domain in GitHub repo Settings > Pages.
-- Deferred minors from the final review are listed in the session summary (gallery.js stale image error and aria-live; a few caption details).
+- Deferred minors (Art Randomizer): contestable century answers at round-number dates; no fallback for broken thumbnails or removed YouTube clips; card off-centre if the phone is rotated mid-spin; artrandomizer/index.html also passes through Nunjucks. HUMA: gallery.js stale image error and aria-live; a few caption details.
