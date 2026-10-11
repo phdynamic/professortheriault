@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("phil1301/assets");
   eleventyConfig.addPassthroughCopy("phil2306/assets");
   eleventyConfig.addPassthroughCopy("huma1301/assets");
+  eleventyConfig.addPassthroughCopy("artrandomizer");
   eleventyConfig.addPassthroughCopy("index.html");
 
   eleventyConfig.ignores.add("docs/**");

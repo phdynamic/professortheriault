@@ -39,3 +39,8 @@
 - What: one unit per art form; each lesson opens with a Gallery (or Watch & Listen) and ends with an Experience It activity; warm burgundy/gold/cream theme.
 - Why: source: developer choices 2026-10-11 (spec: docs/superpowers/specs/2026-10-11-humanities-course-design.md)
 - Source: scripts/make-theme.js, course-assets/js/gallery.js
+
+## Art Randomizer: spin through "?", no score — 2026-10-12 — `active`
+- What: Randomize spins a wheel of "?" cards and lands on one pre-chosen work; one rotating multiple-choice question (art form, century, culture); prompts to look closely; a link to the Humanities unit; history kept only in the browser; no score.
+- Why: source: developer choices 2026-10-12 (spec: docs/superpowers/specs/2026-10-12-art-randomizer-design.md). The "?" cards keep the feel of chance without showing works the user might have wanted and then passed over.
+- Source: artrandomizer/randomizer.js, artrandomizer/logic.js

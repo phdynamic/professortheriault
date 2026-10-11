@@ -1,0 +1,3383 @@
+[
+  {
+    "id": "echo-of-a-scream",
+    "title": "Echo of a Scream",
+    "creator": "David Alfaro Siqueiros",
+    "year": 1937,
+    "yearLabel": "1937",
+    "region": "Mexico",
+    "form": "painting",
+    "unit": "unit-1-the-humanities",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/david-alfaro-siqueiros-echo-of-a-scream-1937-a-giant-ba.jpg",
+      "alt": "A giant baby's head screams above its own small body amid industrial wreckage."
+    },
+    "credit": "David Alfaro Siqueiros, Echo of a Scream, 1937. Enamel on wood. Museum of Modern Art, New York.",
+    "notice": "How the scale of the baby's head overwhelms everything around it, including the wreckage.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How the scale of the baby's head overwhelms everything around it, including the wreckage."
+    ]
+  },
+  {
+    "id": "the-eternal-city",
+    "title": "The Eternal City",
+    "creator": "Peter Blume",
+    "year": 1936,
+    "yearLabel": "1934–1937",
+    "region": "United States",
+    "form": "painting",
+    "unit": "unit-1-the-humanities",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/peter-blume-the-eternal-city-1937-a-surrealist-painting.jpg",
+      "alt": "A crowded surrealist painting of Rome with a grotesque green head bursting from the center."
+    },
+    "credit": "Peter Blume, The Eternal City, 1934–1937. Oil on composition board. Museum of Modern Art, New York.",
+    "notice": "The green head at the center, and the small scenes of suffering that surround it.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The green head at the center, and the small scenes of suffering that surround it."
+    ]
+  },
+  {
+    "id": "mona-lisa",
+    "title": "Mona Lisa",
+    "creator": "Leonardo da Vinci",
+    "year": 1511,
+    "yearLabel": "c. 1503–1519",
+    "region": "Italy",
+    "form": "painting",
+    "unit": "unit-1-the-humanities",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/leonardo-da-vinci-mona-lisa-c-1503-1519-a-half-length-p.jpg",
+      "alt": "A half-length portrait of a woman with a faint smile, seated before a hazy landscape."
+    },
+    "credit": "Leonardo da Vinci, Mona Lisa, c. 1503–1519. Oil on poplar. Musée du Louvre, Paris.",
+    "notice": "How balance and soft edges create stillness and a sense of mystery.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How balance and soft edges create stillness and a sense of mystery."
+    ]
+  },
+  {
+    "id": "guernica",
+    "title": "Guernica",
+    "creator": "Pablo Picasso",
+    "year": 1937,
+    "yearLabel": "1937",
+    "region": "Spain",
+    "form": "painting",
+    "unit": "unit-1-the-humanities",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/pablo-picasso-guernica-1937-a-large-monochromatic-paint.webp",
+      "alt": "A large black, white, and gray painting of broken figures, a screaming horse, and a bull."
+    },
+    "credit": "Pablo Picasso, Guernica, 1937. Oil on canvas. Museo Nacional Centro de Arte Reina Sofía, Madrid.",
+    "notice": "The absence of color, and how the fractured figures crowd a single flat space.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The absence of color, and how the fractured figures crowd a single flat space."
+    ]
+  },
+  {
+    "id": "great-wave",
+    "title": "The Great Wave off Kanagawa",
+    "creator": "Katsushika Hokusai",
+    "year": 1831,
+    "yearLabel": "c. 1831",
+    "region": "Japan",
+    "form": "painting",
+    "unit": "unit-1-the-humanities",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/katsushika-hokusai-the-great-wave-off-kanagawa-c-1831-a.jpg",
+      "alt": "A towering blue wave with a claw-like crest curls over small boats, with Mount Fuji in the distance."
+    },
+    "credit": "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1831. Woodblock print, ink and color on paper. Public domain.",
+    "notice": "The tiny boats beneath the wave, and the small, calm shape of Mount Fuji in the distance.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The tiny boats beneath the wave, and the small, calm shape of Mount Fuji in the distance."
+    ]
+  },
+  {
+    "id": "migrant-mother",
+    "title": "Migrant Mother",
+    "creator": "Dorothea Lange",
+    "year": 1936,
+    "yearLabel": "1936",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/dorothea-lange-migrant-mother-1936-a-woman-in-worn-clot.jpg",
+      "alt": "A woman in worn clothing looks into the distance while two children lean on her shoulders, their faces turned away."
+    },
+    "credit": "Dorothea Lange, Migrant Mother, 1936. Gelatin silver print. Library of Congress, Prints and Photographs Division (public domain).",
+    "notice": "Where the mother's eyes are directed, and why the children's faces are turned away.",
+    "prompts": [
+      "What did the photographer choose to include and to leave out?",
+      "Is this more like evidence or more like art, and why?",
+      "Test this: Where the mother's eyes are directed, and why the children's faces are turned away."
+    ]
+  },
+  {
+    "id": "lamentation-graham",
+    "title": "Lamentation",
+    "creator": "Martha Graham",
+    "year": 1930,
+    "yearLabel": "1930",
+    "region": "United States",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "klF8Ob8bRSE"
+    },
+    "credit": "Martha Graham, Lamentation, 1930. Solo performed seated inside a tube of stretch fabric. planetbenjamin (YouTube).",
+    "notice": "How the fabric stretches into angular shapes, and how little of the body moves while the whole dance feels like grief.",
+    "prompts": [
+      "Describe the body, the space, the time, and the energy, one sentence each.",
+      "What does the movement express that words could not?",
+      "Test this: How the fabric stretches into angular shapes, and how little of the body moves while the whole dance feels like grief."
+    ]
+  },
+  {
+    "id": "revelations",
+    "title": "Revelations",
+    "creator": "Alvin Ailey",
+    "year": 1960,
+    "yearLabel": "1960",
+    "region": "United States",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "BG1lg9GV9WY"
+    },
+    "credit": "Alvin Ailey, Revelations, 1960. Alvin Ailey American Dance Theater. The Kennedy Center (YouTube).",
+    "notice": "How the dancers' lines, circles, and clusters create a sense of ritual, and how the movement grows from the spirituals.",
+    "prompts": [
+      "Describe the body, the space, the time, and the energy, one sentence each.",
+      "What does the movement express that words could not?",
+      "Test this: How the dancers' lines, circles, and clusters create a sense of ritual, and how the movement grows from the spirituals."
+    ]
+  },
+  {
+    "id": "cafe-muller",
+    "title": "Café Müller",
+    "creator": "Pina Bausch",
+    "year": 1978,
+    "yearLabel": "1978",
+    "region": "Germany",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "3WLazG0bQPI"
+    },
+    "credit": "Pina Bausch, Café Müller, 1978. Tanztheater Wuppertal. TOFROUTO (YouTube).",
+    "notice": "How often a gesture is repeated, and whether the repetition becomes boring or more intense.",
+    "prompts": [
+      "Describe the body, the space, the time, and the energy, one sentence each.",
+      "What does the movement express that words could not?",
+      "Test this: How often a gesture is repeated, and whether the repetition becomes boring or more intense."
+    ]
+  },
+  {
+    "id": "swan-lake",
+    "title": "Swan Lake",
+    "creator": "Pyotr Ilyich Tchaikovsky",
+    "year": 1877,
+    "yearLabel": "1877",
+    "region": "Russia",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "GRLeTziFsHs"
+    },
+    "credit": "Pyotr Ilyich Tchaikovsky, Swan Lake, 1877. Misty Copeland with Gustavo Dudamel and the LA Phil. LA Phil (YouTube).",
+    "notice": "The precision and lightness of the ballet vocabulary, and how the story is carried by the body and the orchestra.",
+    "prompts": [
+      "Describe the body, the space, the time, and the energy, one sentence each.",
+      "What does the movement express that words could not?",
+      "Test this: The precision and lightness of the ballet vocabulary, and how the story is carried by the body and the orchestra."
+    ]
+  },
+  {
+    "id": "singin-in-the-rain",
+    "title": "Singin' in the Rain",
+    "creator": "Gene Kelly",
+    "year": 1952,
+    "yearLabel": "1952",
+    "region": "United States",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "gAI6hhsDNxc"
+    },
+    "credit": "Gene Kelly, \"Singin' in the Rain,\" from the film Singin' in the Rain, 1952. Warner Bros. Entertainment (YouTube).",
+    "notice": "How tap steps, an umbrella, and puddles express joy through movement.",
+    "prompts": [
+      "Describe the body, the space, the time, and the energy, one sentence each.",
+      "What does the movement express that words could not?",
+      "Test this: How tap steps, an umbrella, and puddles express joy through movement."
+    ]
+  },
+  {
+    "id": "tetons-snake-river",
+    "title": "The Tetons and the Snake River",
+    "creator": "Ansel Adams",
+    "year": 1942,
+    "yearLabel": "1942",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/ansel-adams-the-tetons-and-the-snake-river-1942.jpg",
+      "alt": "A river curves through a valley below jagged snow-covered mountains and a stormy sky."
+    },
+    "credit": "Ansel Adams, The Tetons and the Snake River, Grand Teton National Park, Wyoming, 1942. Gelatin silver print. National Archives, photographed for the National Park Service (public domain).",
+    "notice": "Everything is sharp from the dark pines in front to the peaks in back, and the tonal range runs from deep black to bright white.",
+    "prompts": [
+      "What did the photographer choose to include and to leave out?",
+      "Is this more like evidence or more like art, and why?",
+      "Test this: Everything is sharp from the dark pines in front to the peaks in back, and the tonal range runs from deep black to bright white."
+    ]
+  },
+  {
+    "id": "american-gothic-parks",
+    "title": "American Gothic, Washington, D.C.",
+    "creator": "Gordon Parks",
+    "year": 1942,
+    "yearLabel": "1942",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/gordon-parks-em-american-gothic-washington-d-c-em-1942.jpg",
+      "alt": "A woman stands in front of an American flag holding a broom and a mop."
+    },
+    "credit": "Gordon Parks, American Gothic, Washington, D.C., 1942. Gelatin silver print. Library of Congress, Prints and Photographs Division (public domain).",
+    "notice": "The flag, broom, and mop, and how the composition echoes Grant Wood's painting while changing what it means.",
+    "prompts": [
+      "What did the photographer choose to include and to leave out?",
+      "Is this more like evidence or more like art, and why?",
+      "Test this: The flag, broom, and mop, and how the composition echoes Grant Wood's painting while changing what it means."
+    ]
+  },
+  {
+    "id": "paula-stieglitz",
+    "title": "Paula (Sun Rays), Berlin",
+    "creator": "Alfred Stieglitz",
+    "year": 1889,
+    "yearLabel": "1889",
+    "region": "Germany",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/alfred-stieglitz-paula-sun-rays-berlin-1889.jpg",
+      "alt": "A young woman writes at a desk by a window, lit by diagonal beams of sunlight."
+    },
+    "credit": "Alfred Stieglitz, Paula (Sun Rays), Berlin, 1889. Photograph. Public domain.",
+    "notice": "The soft focus, the off-center figure, and the diagonal beams of sunlight that lead your eye.",
+    "prompts": [
+      "What did the photographer choose to include and to leave out?",
+      "Is this more like evidence or more like art, and why?",
+      "Test this: The soft focus, the off-center figure, and the diagonal beams of sunlight that lead your eye."
+    ]
+  },
+  {
+    "id": "horse-in-motion",
+    "title": "The Horse in Motion",
+    "creator": "Eadweard Muybridge",
+    "year": 1878,
+    "yearLabel": "1878",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/eadweard-muybridge-the-horse-in-motion-1878.jpg",
+      "alt": "A series of photographs of a horse and rider captured at successive moments of a gallop."
+    },
+    "credit": "Eadweard Muybridge, The Horse in Motion (Sallie Gardner at a gallop), 1878. Photographs. Library of Congress via Wikimedia Commons (public domain).",
+    "notice": "How the sequence reveals positions of the horse's legs that no one could see by eye.",
+    "prompts": [
+      "What did the photographer choose to include and to leave out?",
+      "Is this more like evidence or more like art, and why?",
+      "Test this: How the sequence reveals positions of the horse's legs that no one could see by eye."
+    ]
+  },
+  {
+    "id": "boulevard-du-temple",
+    "title": "Boulevard du Temple",
+    "creator": "Louis Daguerre",
+    "year": 1838,
+    "yearLabel": "1838",
+    "region": "France",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/louis-daguerre-boulevard-du-temple-1838.jpg",
+      "alt": "A Paris street seen from above, nearly empty except for one tiny figure having his boots polished."
+    },
+    "credit": "Louis Daguerre, Boulevard du Temple, Paris, 1838. Daguerreotype. Public domain (Wikimedia Commons).",
+    "notice": "Why the busy street appears empty: the long exposure caught only the man who stood still.",
+    "prompts": [
+      "What did the photographer choose to include and to leave out?",
+      "Is this more like evidence or more like art, and why?",
+      "Test this: Why the busy street appears empty: the long exposure caught only the man who stood still."
+    ]
+  },
+  {
+    "id": "powerhouse-mechanic",
+    "title": "Powerhouse Mechanic",
+    "creator": "Lewis Hine",
+    "year": 1920,
+    "yearLabel": "c. 1920",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/lewis-hine-powerhouse-mechanic-c-1920.jpg",
+      "alt": "A mechanic in work clothes leans over a large piece of machinery with a wrench."
+    },
+    "credit": "Lewis Hine, Powerhouse Mechanic, c. 1920. Gelatin silver print. Public domain (Wikimedia Commons).",
+    "notice": "How the angle and composition give an ordinary worker the dignity of a hero.",
+    "prompts": [
+      "What did the photographer choose to include and to leave out?",
+      "Is this more like evidence or more like art, and why?",
+      "Test this: How the angle and composition give an ordinary worker the dignity of a hero."
+    ]
+  },
+  {
+    "id": "odessa-steps",
+    "title": "Battleship Potemkin: The Odessa Steps",
+    "creator": "Sergei Eisenstein",
+    "year": 1925,
+    "yearLabel": "1925",
+    "region": "Russia",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "BAbzRjErywY"
+    },
+    "credit": "Sergei Eisenstein, Battleship Potemkin, 1925. The Odessa Steps sequence. World Science Festival (YouTube).",
+    "notice": "How rapid cutting between soldiers, a fleeing crowd, and a baby carriage creates terror that no single shot could.",
+    "prompts": [
+      "What do the shot size and camera angle make you feel?",
+      "What would be lost if this were told in one long take?",
+      "Test this: How rapid cutting between soldiers, a fleeing crowd, and a baby carriage creates terror that no single shot could."
+    ]
+  },
+  {
+    "id": "citizen-kane-opening",
+    "title": "Citizen Kane, opening sequence",
+    "creator": "Orson Welles",
+    "year": 1941,
+    "yearLabel": "1941",
+    "region": "United States",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "8nYkyWQ-20w"
+    },
+    "credit": "Orson Welles, Citizen Kane, 1941. Opening sequence. Steven L. Berg (YouTube).",
+    "notice": "How each dissolve moves closer to the mansion while one lit window stays in the same place.",
+    "prompts": [
+      "What do the shot size and camera angle make you feel?",
+      "What would be lost if this were told in one long take?",
+      "Test this: How each dissolve moves closer to the mansion while one lit window stays in the same place."
+    ]
+  },
+  {
+    "id": "parasite",
+    "title": "Parasite",
+    "creator": "Bong Joon-ho",
+    "year": 2019,
+    "yearLabel": "2019",
+    "region": "South Korea",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "SEUXfv87Wpk"
+    },
+    "credit": "Bong Joon-ho, Parasite, 2019. Official trailer. Madman Films (YouTube).",
+    "notice": "How the house on the hill and the apartment below ground tell the story of inequality.",
+    "prompts": [
+      "What do the shot size and camera angle make you feel?",
+      "What would be lost if this were told in one long take?",
+      "Test this: How the house on the hill and the apartment below ground tell the story of inequality."
+    ]
+  },
+  {
+    "id": "trip-to-the-moon",
+    "title": "A Trip to the Moon",
+    "creator": "Georges Méliès",
+    "year": 1902,
+    "yearLabel": "1902",
+    "region": "France",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "qcyZ70tO9-Q"
+    },
+    "credit": "Georges Méliès, A Trip to the Moon (Le Voyage dans la Lune), 1902. Public domain film. Movies Archive (YouTube).",
+    "notice": "The painted sets and stop-camera tricks, and how the story is told without sound or dialogue.",
+    "prompts": [
+      "What do the shot size and camera angle make you feel?",
+      "What would be lost if this were told in one long take?",
+      "Test this: The painted sets and stop-camera tricks, and how the story is told without sound or dialogue."
+    ]
+  },
+  {
+    "id": "the-crossing",
+    "title": "The Crossing",
+    "creator": "Bill Viola",
+    "year": 1996,
+    "yearLabel": "1996",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "fHqhaH6m9pY"
+    },
+    "credit": "Bill Viola, The Crossing, 1996. Two-channel video and sound installation. margaret commellato (YouTube).",
+    "notice": "How extreme slow motion turns a violent event into a long meditation on transformation.",
+    "prompts": [
+      "How does the work use time: fast, slow, repeated, or looping?",
+      "How does the setting in which you watch shape what you notice?",
+      "Test this: How extreme slow motion turns a violent event into a long meditation on transformation."
+    ]
+  },
+  {
+    "id": "tv-buddha",
+    "title": "TV Buddha",
+    "creator": "Nam June Paik",
+    "year": 1974,
+    "yearLabel": "1974",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "MVwR1n0IZAs"
+    },
+    "credit": "Nam June Paik, TV Buddha, 1974. Closed-circuit video installation. Prism Factory (YouTube).",
+    "notice": "The feedback loop: a figure of contemplation watches its own electronic image with no beginning or end.",
+    "prompts": [
+      "How does the work use time: fast, slow, repeated, or looping?",
+      "How does the setting in which you watch shape what you notice?",
+      "Test this: The feedback loop: a figure of contemplation watches its own electronic image with no beginning or end."
+    ]
+  },
+  {
+    "id": "global-groove",
+    "title": "Global Groove",
+    "creator": "Nam June Paik",
+    "year": 1973,
+    "yearLabel": "1973",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "XS1j7haXiSM"
+    },
+    "credit": "Nam June Paik, Global Groove, 1973. Video, Centre Pompidou (YouTube).",
+    "notice": "How fast cutting and layered images turn television into a collage of the whole world.",
+    "prompts": [
+      "How does the work use time: fast, slow, repeated, or looping?",
+      "How does the setting in which you watch shape what you notice?",
+      "Test this: How fast cutting and layered images turn television into a collage of the whole world."
+    ]
+  },
+  {
+    "id": "the-wire",
+    "title": "The Wire",
+    "creator": "David Simon",
+    "year": 2002,
+    "yearLabel": "2002–2008",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "uDcQbk78CSw"
+    },
+    "credit": "David Simon, The Wire, 2002–2008. Official trailer. HBO (YouTube).",
+    "notice": "How the series introduces many sides of one city at once, in contrast to a self-contained episode.",
+    "prompts": [
+      "How does the work use time: fast, slow, repeated, or looping?",
+      "How does the setting in which you watch shape what you notice?",
+      "Test this: How the series introduces many sides of one city at once, in contrast to a self-contained episode."
+    ]
+  },
+  {
+    "id": "i-love-lucy",
+    "title": "I Love Lucy: Vitameatavegamin",
+    "creator": "I Love Lucy",
+    "year": 1952,
+    "yearLabel": "1952",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "ip-TuIXMS70"
+    },
+    "credit": "I Love Lucy, Season 1, 1952, \"Lucy Does a TV Commercial.\" I Love Lucy (YouTube).",
+    "notice": "How a three-camera sitcom builds a joke through repetition and escalation inside a half-hour format.",
+    "prompts": [
+      "How does the work use time: fast, slow, repeated, or looping?",
+      "How does the setting in which you watch shape what you notice?",
+      "Test this: How a three-camera sitcom builds a joke through repetition and escalation inside a half-hour format."
+    ]
+  },
+  {
+    "id": "fountain",
+    "title": "Fountain",
+    "creator": "Marcel Duchamp",
+    "year": 1917,
+    "yearLabel": "1917",
+    "region": "United States",
+    "form": "sculpture",
+    "unit": "unit-2-what-is-a-work-of-art",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/marcel-duchamp-fountain-1917-a-porcelain-urinal-turned-.jpg",
+      "alt": "A porcelain urinal turned on its back and signed R. Mutt 1917."
+    },
+    "credit": "Marcel Duchamp, Fountain, 1917. Readymade: glazed porcelain urinal, signed \"R. Mutt.\" Photograph by Alfred Stieglitz (the original is lost; replicas exist).",
+    "notice": "That the object is an ordinary urinal, and how the signature and title change what you take it to be.",
+    "prompts": [
+      "How would this look from behind or from the side? What would change?",
+      "How big is it compared with your own body, and what does that do to you?",
+      "Test this: That the object is an ordinary urinal, and how the signature and title change what you take it to be."
+    ]
+  },
+  {
+    "id": "third-of-may",
+    "title": "The Third of May 1808",
+    "creator": "Francisco Goya",
+    "year": 1814,
+    "yearLabel": "1814",
+    "region": "Spain",
+    "form": "painting",
+    "unit": "unit-2-what-is-a-work-of-art",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/francisco-goya-the-third-of-may-1808-1814-a-man-in-whit.jpg",
+      "alt": "A man in white with arms raised faces a firing squad at night; other victims lie dead on the ground."
+    },
+    "credit": "Francisco Goya, The Third of May 1808, 1814. Oil on canvas, 268 × 347 cm. Museo del Prado, Madrid.",
+    "notice": "The lantern lighting the man in white, and the faceless firing squad whose rifles form a single line.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The lantern lighting the man in white, and the faceless firing squad whose rifles form a single line."
+    ]
+  },
+  {
+    "id": "mont-sainte-victoire",
+    "title": "Mont Sainte-Victoire",
+    "creator": "Paul Cézanne",
+    "year": 1887,
+    "yearLabel": "1886–1887",
+    "region": "France",
+    "form": "painting",
+    "unit": "unit-2-what-is-a-work-of-art",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/paul-c-zanne-mont-sainte-victoire-1886-1887-an-oil-pain.jpg",
+      "alt": "An oil painting of a mountain in southern France rendered in patches of blue, green, and ochre."
+    },
+    "credit": "Paul Cézanne, Mont Sainte-Victoire, 1886–1887. Oil on canvas, 59.7 × 72.4 cm. The Phillips Collection, Washington, D.C.",
+    "notice": "How patches of color build the mountain and the fields, so that your eye keeps moving across the surface.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How patches of color build the mountain and the fields, so that your eye keeps moving across the surface."
+    ]
+  },
+  {
+    "id": "fall-of-icarus",
+    "title": "Landscape with the Fall of Icarus",
+    "creator": "Pieter Bruegel the Elder",
+    "year": 1560,
+    "yearLabel": "c. 1560",
+    "region": "Belgium",
+    "form": "painting",
+    "unit": "unit-2-what-is-a-work-of-art",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/pieter-bruegel-landscape-with-the-fall-of-icarus-c-1560.jpg",
+      "alt": "A pastoral scene with a ploughman in the foreground, ships in a harbor, and, in the lower right, the tiny legs of a drowning man."
+    },
+    "credit": "Pieter Bruegel the Elder (attributed), Landscape with the Fall of Icarus, c. 1560. Oil on canvas, 73.5 × 112 cm. Royal Museums of Fine Arts of Belgium, Brussels. Public domain.",
+    "notice": "How small and easy to miss Icarus is, and what everyone else in the painting is doing instead.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How small and easy to miss Icarus is, and what everyone else in the painting is doing instead."
+    ]
+  },
+  {
+    "id": "exekias-amphora",
+    "title": "Amphora with Achilles and Ajax",
+    "creator": "Exekias",
+    "year": -530,
+    "yearLabel": "c. 530 BCE",
+    "region": "Greece",
+    "form": "sculpture",
+    "unit": "unit-2-what-is-a-work-of-art",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/exekias-achilles-and-ajax-amphora-c-530-bc.jpg",
+      "alt": "Two armored warriors on a black-figure pot, bent over a table and playing a game."
+    },
+    "credit": "Exekias, amphora with Achilles and Ajax playing a game, c. 540–530 BC. Black-figure terracotta. Vatican Museums. Photograph from Wikimedia Commons (public domain).",
+    "notice": "That this was a storage jar, a useful object, yet every line of the warriors' bodies is carefully composed.",
+    "prompts": [
+      "How would this look from behind or from the side? What would change?",
+      "How big is it compared with your own body, and what does that do to you?",
+      "Test this: That this was a storage jar, a useful object, yet every line of the warriors' bodies is carefully composed."
+    ]
+  },
+  {
+    "id": "starry-night",
+    "title": "The Starry Night",
+    "creator": "Vincent van Gogh",
+    "year": 1889,
+    "yearLabel": "1889",
+    "region": "France",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/vincent-van-gogh-the-starry-night-1889.jpg",
+      "alt": "A swirling night sky of blue and yellow above a quiet village and a dark cypress tree."
+    },
+    "credit": "Vincent van Gogh, The Starry Night, 1889. Oil on canvas. Museum of Modern Art, New York. Image from Wikimedia Commons (public domain).",
+    "notice": "How the swirling brushstrokes draw you in, until you lose track of everything else.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How the swirling brushstrokes draw you in, until you lose track of everything else."
+    ]
+  },
+  {
+    "id": "last-supper",
+    "title": "The Last Supper",
+    "creator": "Leonardo da Vinci",
+    "year": 1496,
+    "yearLabel": "1495–1498",
+    "region": "Italy",
+    "form": "painting",
+    "unit": "unit-3-being-a-critic",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/leonardo-da-vinci-the-last-supper-1495-1498-a-mural-sho.jpg",
+      "alt": "A mural of Christ seated at the center of a long table with the apostles grouped in threes on either side."
+    },
+    "credit": "Leonardo da Vinci, The Last Supper, 1495–1498. Tempera and oil on plaster, 460 × 880 cm. Santa Maria delle Grazie, Milan.",
+    "notice": "How the lines of the room converge on Christ's head, and how the apostles form four groups of three.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How the lines of the room converge on Christ's head, and how the apostles form four groups of three."
+    ]
+  },
+  {
+    "id": "judith-slaying-holofernes",
+    "title": "Judith Slaying Holofernes",
+    "creator": "Artemisia Gentileschi",
+    "year": 1620,
+    "yearLabel": "c. 1620",
+    "region": "Italy",
+    "form": "painting",
+    "unit": "unit-3-being-a-critic",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/artemisia-gentileschi-judith-slaying-holofernes-c-1620-.jpg",
+      "alt": "Two women pin a man to a bed and cut his throat with a sword."
+    },
+    "credit": "Artemisia Gentileschi, Judith Slaying Holofernes, c. 1620. Oil on canvas, 199 × 162.5 cm. Uffizi Gallery, Florence. Public domain.",
+    "notice": "The women's rolled sleeves and steady arms: how they work together, with no hesitation.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The women's rolled sleeves and steady arms: how they work together, with no hesitation."
+    ]
+  },
+  {
+    "id": "the-milkmaid",
+    "title": "The Milkmaid",
+    "creator": "Johannes Vermeer",
+    "year": 1658,
+    "yearLabel": "c. 1658",
+    "region": "Netherlands",
+    "form": "painting",
+    "unit": "unit-3-being-a-critic",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/johannes-vermeer-the-milkmaid-c-1658.jpg",
+      "alt": "A woman in a blue apron and yellow bodice pours milk from a jug into a bowl."
+    },
+    "credit": "Johannes Vermeer, The Milkmaid, c. 1658. Oil on canvas, 45.5 × 41 cm. Rijksmuseum, Amsterdam. Public domain.",
+    "notice": "How the light from the window falls on the milk, the bread, and the woman's concentrated face.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How the light from the window falls on the milk, the bread, and the woman's concentrated face."
+    ]
+  },
+  {
+    "id": "the-kiss",
+    "title": "The Kiss",
+    "creator": "Gustav Klimt",
+    "year": 1907,
+    "yearLabel": "1907–1908",
+    "region": "Austria",
+    "form": "painting",
+    "unit": "unit-3-being-a-critic",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/gustav-klimt-the-kiss-1907-1908.jpg",
+      "alt": "A man and woman embrace on a flower-covered cliff edge, wrapped in gold patterned robes."
+    },
+    "credit": "Gustav Klimt, The Kiss, 1907–1908. Oil and gold leaf on canvas, 180 × 180 cm. Österreichische Galerie Belvedere, Vienna. Public domain.",
+    "notice": "The contrast between geometric patterns on the man and organic ones on the woman, and the cliff's edge below her feet.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The contrast between geometric patterns on the man and organic ones on the woman, and the cliff's edge below her feet."
+    ]
+  },
+  {
+    "id": "the-scream",
+    "title": "The Scream",
+    "creator": "Edvard Munch",
+    "year": 1893,
+    "yearLabel": "1893",
+    "region": "Norway",
+    "form": "painting",
+    "unit": "unit-3-being-a-critic",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/edvard-munch-the-scream-1893.jpg",
+      "alt": "A figure with a skull-like face clutches its head on a bridge under a swirling orange sky."
+    },
+    "credit": "Edvard Munch, The Scream, 1893. Oil, tempera, and pastel on cardboard. National Gallery of Norway, Oslo. Image from Wikimedia Commons (public domain).",
+    "notice": "How the swirling sky and the long lines of the railing pull the whole painting toward the figure's open mouth.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How the swirling sky and the long lines of the railing pull the whole painting toward the figure's open mouth."
+    ]
+  },
+  {
+    "id": "the-two-fridas",
+    "title": "The Two Fridas",
+    "creator": "Frida Kahlo",
+    "year": 1939,
+    "yearLabel": "1939",
+    "region": "Mexico",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/frida-kahlo-the-two-fridas-1939-two-versions-of-the-art.jpeg",
+      "alt": "Two women in contrasting dresses sit side by side on a bench, holding hands, their hearts exposed and joined by an artery."
+    },
+    "credit": "Frida Kahlo, The Two Fridas, 1939. Oil on canvas, 173.5 × 173 cm. Museo de Arte Moderno, Mexico City.",
+    "notice": "The artery that joins the two hearts, and how the white dress and the traditional dress separate the two selves.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The artery that joins the two hearts, and how the white dress and the traditional dress separate the two selves."
+    ]
+  },
+  {
+    "id": "rothko-no-61",
+    "title": "No. 61 (Rust and Blue)",
+    "creator": "Mark Rothko",
+    "year": 1953,
+    "yearLabel": "1953",
+    "region": "United States",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/mark-rothko-no-61-rust-and-blue-1953-two-large-rectangl.jpg",
+      "alt": "Two large soft-edged rectangles of rust red and blue stacked on a dark ground."
+    },
+    "credit": "Mark Rothko, No. 61 (Rust and Blue), 1953. Oil on canvas, 115 × 92 inches. Museum of Contemporary Art, Los Angeles.",
+    "notice": "The soft edges that make the rectangles seem to hover, and how a large surface fills your field of view.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The soft edges that make the rectangles seem to hover, and how a large surface fills your field of view."
+    ]
+  },
+  {
+    "id": "migration-series-1",
+    "title": "The Migration Series, Panel 1",
+    "creator": "Jacob Lawrence",
+    "year": 1941,
+    "yearLabel": "1940–1941",
+    "region": "United States",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/jacob-lawrence-the-migration-series-panel-1-1940-1941-s.jpg",
+      "alt": "Silhouetted figures crowd toward three doorways marked Chicago, New York, and St. Louis."
+    },
+    "credit": "Jacob Lawrence, The Migration Series, Panel 1, 1940–1941. Casein tempera on hardboard, 12 × 18 in. The Phillips Collection, Washington, D.C.",
+    "notice": "The flat, opaque color and the diagonals that push the crowd toward the doorways.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The flat, opaque color and the diagonals that push the crowd toward the doorways."
+    ]
+  },
+  {
+    "id": "creation-of-adam",
+    "title": "The Creation of Adam",
+    "creator": "Michelangelo",
+    "year": 1510,
+    "yearLabel": "1508–1512",
+    "region": "Italy",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/michelangelo-creation-of-adam-sistine-chapel-1508-1512.jpg",
+      "alt": "God stretches toward Adam, whose limp hand almost touches his outstretched finger."
+    },
+    "credit": "Michelangelo, The Creation of Adam, 1508–1512. Fresco, Sistine Chapel ceiling, Vatican City. Image from Wikimedia Commons (public domain).",
+    "notice": "The small gap between the two fingers, and how the whole composition leans toward it.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The small gap between the two fingers, and how the whole composition leans toward it."
+    ]
+  },
+  {
+    "id": "rembrandt-self-portrait",
+    "title": "Self-Portrait",
+    "creator": "Rembrandt van Rijn",
+    "year": 1667,
+    "yearLabel": "c. 1665–1669",
+    "region": "Netherlands",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/rembrandt-self-portrait-kenwood-c-1665.jpg",
+      "alt": "An elderly painter in a beret and brown robe sits with his hands clasped before two large circles on the wall."
+    },
+    "credit": "Rembrandt van Rijn, Self-Portrait, c. 1665–1669. Oil on canvas. Kenwood House, London. Image from Wikimedia Commons (public domain).",
+    "notice": "How thick, soft paint models the face, and how much of the picture is left in shadow.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: How thick, soft paint models the face, and how much of the picture is left in shadow."
+    ]
+  },
+  {
+    "id": "giotto-lamentation",
+    "title": "Lamentation",
+    "creator": "Giotto di Bondone",
+    "year": 1305,
+    "yearLabel": "c. 1305",
+    "region": "Italy",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/giotto-lamentation-scrovegni-chapel-c-1305.jpg",
+      "alt": "Mourners crowd around the body of Christ in front of a bare rocky slope, with angels wheeling in the sky."
+    },
+    "credit": "Giotto di Bondone, Lamentation, c. 1305. Fresco, Scrovegni (Arena) Chapel, Padua. Image from Wikimedia Commons (public domain).",
+    "notice": "The diagonal of the hillside, which leads your eye down to the faces of Mary and Christ.",
+    "prompts": [
+      "Where does your eye land first, and where does it travel next?",
+      "Which element (line, color, texture, or composition) does the most work here?",
+      "Test this: The diagonal of the hillside, which leads your eye down to the faces of Mary and Christ."
+    ]
+  },
+  {
+    "id": "the-thinker",
+    "title": "The Thinker",
+    "creator": "Auguste Rodin",
+    "year": 1904,
+    "yearLabel": "1904 cast",
+    "region": "France",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/musee-rodin-1.jpg",
+      "alt": "Rodin's bronze Thinker, a muscular seated figure with his chin resting on his fist, in the garden of the Musée Rodin."
+    },
+    "credit": "Auguste Rodin, The Thinker, 1904 cast. Bronze, 186 cm. Musée Rodin, Paris. Photograph by CrisNYCa, CC BY-SA 4.0 (Wikimedia Commons).",
+    "notice": "The tension in the shoulders and the fist pressed against the chin, as if thinking were physical effort.",
+    "prompts": [
+      "How would this look from behind or from the side? What would change?",
+      "How big is it compared with your own body, and what does that do to you?",
+      "Test this: The tension in the shoulders and the fist pressed against the chin, as if thinking were physical effort."
+    ]
+  },
+  {
+    "id": "maman",
+    "title": "Maman",
+    "creator": "Louise Bourgeois",
+    "year": 1999,
+    "yearLabel": "1999",
+    "region": "United States",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/louise-bourgeois-maman-1999-a-giant-spider-sculpture-ma.jpg",
+      "alt": "A giant bronze spider on tall thin legs stands over visitors, with a sac of marble eggs beneath its body."
+    },
+    "credit": "Louise Bourgeois, Maman, 1999. Bronze, stainless steel, and marble, 927 × 891 × 1024 cm. Shown at the National Gallery of Canada, Ottawa.",
+    "notice": "How you feel standing under the legs, and the sac of eggs that adds vulnerability to something menacing.",
+    "prompts": [
+      "How would this look from behind or from the side? What would change?",
+      "How big is it compared with your own body, and what does that do to you?",
+      "Test this: How you feel standing under the legs, and the sac of eggs that adds vulnerability to something menacing."
+    ]
+  },
+  {
+    "id": "lobster-trap-and-fish-tail",
+    "title": "Lobster Trap and Fish Tail",
+    "creator": "Alexander Calder",
+    "year": 1939,
+    "yearLabel": "1939",
+    "region": "United States",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/alexander-calder-lobster-trap-and-fish-tail-1939-a-hang.webp",
+      "alt": "A hanging mobile of flat red, yellow, blue, and black metal shapes suspended on wires in a stairwell."
+    },
+    "credit": "Alexander Calder, Lobster Trap and Fish Tail, 1939. Painted sheet metal and steel wire, approx. 260 × 290 cm. Museum of Modern Art, New York.",
+    "notice": "That the composition is never the same twice, because the pieces drift with the air.",
+    "prompts": [
+      "How would this look from behind or from the side? What would change?",
+      "How big is it compared with your own body, and what does that do to you?",
+      "Test this: That the composition is never the same twice, because the pieces drift with the air."
+    ]
+  },
+  {
+    "id": "apollo-and-daphne",
+    "title": "Apollo and Daphne",
+    "creator": "Gian Lorenzo Bernini",
+    "year": 1623,
+    "yearLabel": "1622–1625",
+    "region": "Italy",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/bernini-apollo-and-daphne-1622-1625.jpg",
+      "alt": "A marble Apollo reaches for Daphne as her fingers and hair turn into laurel leaves."
+    },
+    "credit": "Gian Lorenzo Bernini, Apollo and Daphne, 1622–1625. Marble. Galleria Borghese, Rome. Photograph by Architas, CC BY-SA 4.0 (Wikimedia Commons).",
+    "notice": "The exact instant of transformation: bark rising over Daphne's skin and leaves sprouting from her fingers.",
+    "prompts": [
+      "How would this look from behind or from the side? What would change?",
+      "How big is it compared with your own body, and what does that do to you?",
+      "Test this: The exact instant of transformation: bark rising over Daphne's skin and leaves sprouting from her fingers."
+    ]
+  },
+  {
+    "id": "venus-of-willendorf",
+    "title": "Venus of Willendorf",
+    "creator": "Unknown artist",
+    "year": -25000,
+    "yearLabel": "c. 25,000 BCE or earlier",
+    "region": "Austria",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/venus-of-willendorf-c-25000-bce.jpg",
+      "alt": "A small limestone figure of a woman with rounded breasts, belly, and hips, and no facial features."
+    },
+    "credit": "Venus of Willendorf, c. 25,000 BCE or earlier. Limestone, about 11 cm tall. Naturhistorisches Museum, Vienna. Photograph by Matthias Kabel, CC BY 2.5 (Wikimedia Commons).",
+    "notice": "The scale, small enough to hold, and which parts of the body are carved with the most care.",
+    "prompts": [
+      "How would this look from behind or from the side? What would change?",
+      "How big is it compared with your own body, and what does that do to you?",
+      "Test this: The scale, small enough to hold, and which parts of the body are carved with the most care."
+    ]
+  },
+  {
+    "id": "fallingwater",
+    "title": "Fallingwater",
+    "creator": "Frank Lloyd Wright",
+    "year": 1935,
+    "yearLabel": "1935",
+    "region": "United States",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/frank-lloyd-wright-fallingwater-1935-a-house-with-drama.jpg",
+      "alt": "A house of stacked concrete terraces cantilevered over a waterfall in a wooded valley."
+    },
+    "credit": "Frank Lloyd Wright, Fallingwater (Kaufmann Residence), 1935. Bear Run, Pennsylvania.",
+    "notice": "How the horizontal terraces echo the rock ledges below, and where the house meets the water.",
+    "prompts": [
+      "Imagine walking in through the entrance. What do you notice first?",
+      "Where does the light come from, and where does it lead you?",
+      "Test this: How the horizontal terraces echo the rock ledges below, and where the house meets the water."
+    ]
+  },
+  {
+    "id": "ronchamp",
+    "title": "Notre-Dame-du-Haut (Ronchamp Chapel)",
+    "creator": "Le Corbusier",
+    "year": 1955,
+    "yearLabel": "1955",
+    "region": "France",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/le-corbusier-notre-dame-du-haut-1955-a-white-concrete-c.webp",
+      "alt": "A white concrete chapel with a thick curving wall and a dark sail-like roof on a hilltop."
+    },
+    "credit": "Le Corbusier, Notre-Dame-du-Haut (Ronchamp Chapel), 1955. Ronchamp, France. Photo: Wladyslaw Sojka, CC BY-SA 3.0.",
+    "notice": "The thick walls with irregular windows, and the heavy roof that seems to float above them.",
+    "prompts": [
+      "Imagine walking in through the entrance. What do you notice first?",
+      "Where does the light come from, and where does it lead you?",
+      "Test this: The thick walls with irregular windows, and the heavy roof that seems to float above them."
+    ]
+  },
+  {
+    "id": "heydar-aliyev-center",
+    "title": "Heydar Aliyev Center",
+    "creator": "Zaha Hadid",
+    "year": 2012,
+    "yearLabel": "2012",
+    "region": "Azerbaijan",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/zaha-hadid-heydar-aliyev-center-2012-a-large-white-buil.jpg",
+      "alt": "A large white building whose walls and roof fold and curve in one continuous surface."
+    },
+    "credit": "Zaha Hadid, Heydar Aliyev Center, 2012. Baku, Azerbaijan. Photo: Wikimedia Commons, CC BY-SA 4.0.",
+    "notice": "That wall, roof, and ground melt into a single flowing surface, with no right angles.",
+    "prompts": [
+      "Imagine walking in through the entrance. What do you notice first?",
+      "Where does the light come from, and where does it lead you?",
+      "Test this: That wall, roof, and ground melt into a single flowing surface, with no right angles."
+    ]
+  },
+  {
+    "id": "parthenon",
+    "title": "The Parthenon",
+    "creator": "Iktinos and Kallikrates",
+    "year": -440,
+    "yearLabel": "447–432 BCE",
+    "region": "Greece",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/parthenon-athens-447-432-bce.jpg",
+      "alt": "The columned marble temple of the Parthenon on the Acropolis in Athens."
+    },
+    "credit": "Iktinos and Kallikrates, the Parthenon, 447–432 BCE. Acropolis, Athens. Photograph by Jebulon, CC0 (Wikimedia Commons).",
+    "notice": "The ranks of columns, and how the temple is raised on a platform above the city.",
+    "prompts": [
+      "Imagine walking in through the entrance. What do you notice first?",
+      "Where does the light come from, and where does it lead you?",
+      "Test this: The ranks of columns, and how the temple is raised on a platform above the city."
+    ]
+  },
+  {
+    "id": "pantheon",
+    "title": "The Pantheon",
+    "creator": "Roman architects under Hadrian",
+    "year": 126,
+    "yearLabel": "c. 126 CE",
+    "region": "Italy",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/pantheon-rome-dome-interior-c-126-ce.jpg",
+      "alt": "The coffered concrete dome of the Pantheon with a circular opening at its top letting in daylight."
+    },
+    "credit": "The Pantheon, Rome, c. 126 CE. Dome interior. Photograph by Wilfredor, CC0 (Wikimedia Commons).",
+    "notice": "The single round opening at the top, and the sunlit disc it casts on the walls.",
+    "prompts": [
+      "Imagine walking in through the entrance. What do you notice first?",
+      "Where does the light come from, and where does it lead you?",
+      "Test this: The single round opening at the top, and the sunlit disc it casts on the walls."
+    ]
+  },
+  {
+    "id": "taj-mahal",
+    "title": "The Taj Mahal",
+    "creator": "Commissioned by Shah Jahan",
+    "year": 1643,
+    "yearLabel": "1632–c. 1653",
+    "region": "India",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/taj-mahal-agra-1632-1653.jpg",
+      "alt": "The white marble Taj Mahal with its central dome and four minarets, reflected in a long pool."
+    },
+    "credit": "The Taj Mahal, Agra, 1632–c. 1653. Photograph by Yann, edited by Jim Carter, CC BY-SA 4.0 (Wikimedia Commons).",
+    "notice": "The strict symmetry and the long pool that doubles the building.",
+    "prompts": [
+      "Imagine walking in through the entrance. What do you notice first?",
+      "Where does the light come from, and where does it lead you?",
+      "Test this: The strict symmetry and the long pool that doubles the building."
+    ]
+  },
+  {
+    "id": "empire-state-building",
+    "title": "Empire State Building",
+    "creator": "Shreve, Lamb & Harmon",
+    "year": 1931,
+    "yearLabel": "1931",
+    "region": "United States",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/empire-state-building-new-york-1931.jpg",
+      "alt": "Aerial view of the stepped, tapering tower of the Empire State Building rising above Manhattan."
+    },
+    "credit": "Shreve, Lamb & Harmon, the Empire State Building, 1931. New York City. Aerial photograph by Sam Valadi, via Wikimedia Commons (marked public domain there).",
+    "notice": "How the tower steps inward as it rises, and what its height says about the city that built it.",
+    "prompts": [
+      "Imagine walking in through the entrance. What do you notice first?",
+      "Where does the light come from, and where does it lead you?",
+      "Test this: How the tower steps inward as it rises, and what its height says about the city that built it."
+    ]
+  },
+  {
+    "id": "first-folio",
+    "title": "First Folio, title page",
+    "creator": "William Shakespeare (engraving by Martin Droeshout)",
+    "year": 1623,
+    "yearLabel": "1623",
+    "region": "England",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/shakespeare-first-folio-title-page-1623.jpg",
+      "alt": "The title page of the First Folio, with an engraved portrait of William Shakespeare and a list of his comedies, histories, and tragedies."
+    },
+    "credit": "Title page of Mr. William Shakespeares Comedies, Histories, & Tragedies (the First Folio), 1623, with the engraved portrait by Martin Droeshout. British Library. CC0 (Wikimedia Commons).",
+    "notice": "That plays written to be performed were gathered into a printed book, and how the portrait stands in for the author.",
+    "prompts": [
+      "Read a few lines aloud. What do you hear in the sound and rhythm?",
+      "What does the form of the page or book tell you about who it was made for?",
+      "Test this: That plays written to be performed were gathered into a printed book, and how the portrait stands in for the author."
+    ]
+  },
+  {
+    "id": "dore-dante",
+    "title": "Dante lost in the dark forest",
+    "creator": "Gustave Doré",
+    "year": 1857,
+    "yearLabel": "1857",
+    "region": "France",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/gustave-dore-dante-lost-in-the-dark-forest-1857.jpg",
+      "alt": "A small figure stands among tall dark tree trunks in a forest, one hand raised."
+    },
+    "credit": "Gustave Doré, Dante lost in the dark forest, illustration for Dante's Inferno, 1857. Wood engraving. Public domain (Wikimedia Commons).",
+    "notice": "How the dark trunks close around the tiny figure, turning the poem's opening lines into a picture of being lost.",
+    "prompts": [
+      "Read a few lines aloud. What do you hear in the sound and rhythm?",
+      "What does the form of the page or book tell you about who it was made for?",
+      "Test this: How the dark trunks close around the tiny figure, turning the poem's opening lines into a picture of being lost."
+    ]
+  },
+  {
+    "id": "frankenstein-1818",
+    "title": "Frankenstein, 1818 title page",
+    "creator": "Mary Shelley",
+    "year": 1818,
+    "yearLabel": "1818",
+    "region": "England",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/frankenstein-1818-title-page.jpg",
+      "alt": "The title page of the first edition of Frankenstein, or The Modern Prometheus, in three volumes, with no author's name."
+    },
+    "credit": "Mary Shelley, Frankenstein; or, The Modern Prometheus, title page of the first edition, 1818. Public domain (Wikimedia Commons).",
+    "notice": "That the author's name is missing, and how the subtitle ties the story to the myth of Prometheus.",
+    "prompts": [
+      "Read a few lines aloud. What do you hear in the sound and rhythm?",
+      "What does the form of the page or book tell you about who it was made for?",
+      "Test this: That the author's name is missing, and how the subtitle ties the story to the myth of Prometheus."
+    ]
+  },
+  {
+    "id": "leaves-of-grass",
+    "title": "Leaves of Grass, frontispiece portrait",
+    "creator": "Walt Whitman (engraving by Samuel Hollyer)",
+    "year": 1855,
+    "yearLabel": "1855",
+    "region": "United States",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/walt-whitman-leaves-of-grass-1855-frontispiece.jpg",
+      "alt": "An engraved portrait of Walt Whitman in a wide-brimmed hat and open-collared shirt, one hand on his hip."
+    },
+    "credit": "Samuel Hollyer, engraved portrait of Walt Whitman, frontispiece to Leaves of Grass, 1855. Public domain (Wikimedia Commons).",
+    "notice": "How the working clothes and relaxed stance announce a new kind of poet, not a formal one.",
+    "prompts": [
+      "Read a few lines aloud. What do you hear in the sound and rhythm?",
+      "What does the form of the page or book tell you about who it was made for?",
+      "Test this: How the working clothes and relaxed stance announce a new kind of poet, not a formal one."
+    ]
+  },
+  {
+    "id": "emily-dickinson",
+    "title": "Emily Dickinson, daguerreotype",
+    "creator": "Unknown photographer",
+    "year": 1847,
+    "yearLabel": "c. 1847",
+    "region": "United States",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/emily-dickinson-daguerreotype-c-1847.jpg",
+      "alt": "A young woman with dark hair parted in the center, seated with one hand resting on a table."
+    },
+    "credit": "Emily Dickinson, daguerreotype, c. 1847. Amherst College Archives. Public domain (Wikimedia Commons).",
+    "notice": "That this is the only generally accepted portrait of Dickinson, made when she was about sixteen, long before most of her poems were read.",
+    "prompts": [
+      "Read a few lines aloud. What do you hear in the sound and rhythm?",
+      "What does the form of the page or book tell you about who it was made for?",
+      "Test this: That this is the only generally accepted portrait of Dickinson, made when she was about sixteen, long before most of her poems were read."
+    ]
+  },
+  {
+    "id": "langston-hughes",
+    "title": "Langston Hughes",
+    "creator": "Carl Van Vechten",
+    "year": 1936,
+    "yearLabel": "1936",
+    "region": "United States",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/huma1301/assets/images/langston-hughes-by-carl-van-vechten-1936.jpg",
+      "alt": "A man in a suit and tie looks directly at the camera, resting his chin on his hand."
+    },
+    "credit": "Langston Hughes, photograph by Carl Van Vechten, 1936. Library of Congress. Public domain (Wikimedia Commons).",
+    "notice": "A poet photographed as a public figure; compare this calm gaze with the explosive question at the end of Harlem.",
+    "prompts": [
+      "Read a few lines aloud. What do you hear in the sound and rhythm?",
+      "What does the form of the page or book tell you about who it was made for?",
+      "Test this: A poet photographed as a public figure; compare this calm gaze with the explosive question at the end of Harlem."
+    ]
+  },
+  {
+    "id": "hamlet-globe",
+    "title": "Hamlet's soliloquy, Shakespeare's Globe",
+    "creator": "William Shakespeare",
+    "year": 1600,
+    "yearLabel": "c. 1600",
+    "region": "England",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "OzvI3WS61ps"
+    },
+    "credit": "William Shakespeare, Hamlet, Act 3, Scene 1. Michelle Terry as Hamlet, Shakespeare's Globe, 2018. Shakespeare's Globe (YouTube).",
+    "notice": "How the actor shares the speech with an audience seated all around her, in daylight.",
+    "prompts": [
+      "What choices in voice, movement, or space make this feel live?",
+      "What do you learn about the character from how the words are spoken?",
+      "Test this: How the actor shares the speech with an audience seated all around her, in daylight."
+    ]
+  },
+  {
+    "id": "hamlet-scott",
+    "title": "Hamlet's soliloquy, Andrew Scott",
+    "creator": "William Shakespeare",
+    "year": 1600,
+    "yearLabel": "c. 1600",
+    "region": "England",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "q6CLdCl9TB0"
+    },
+    "credit": "William Shakespeare, Hamlet, Act 3, Scene 1. Andrew Scott as Hamlet, full soliloquy. Moeez Aslam (YouTube).",
+    "notice": "How a quiet, close performance changes the same words, compared with the Globe version.",
+    "prompts": [
+      "What choices in voice, movement, or space make this feel live?",
+      "What do you learn about the character from how the words are spoken?",
+      "Test this: How a quiet, close performance changes the same words, compared with the Globe version."
+    ]
+  },
+  {
+    "id": "hamilton",
+    "title": "Hamilton",
+    "creator": "Lin-Manuel Miranda",
+    "year": 2015,
+    "yearLabel": "2015",
+    "region": "United States",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "DSCKfXpAGHc"
+    },
+    "credit": "Lin-Manuel Miranda, Hamilton, 2015. Official trailer for the filmed stage production, Disney (YouTube).",
+    "notice": "How hip-hop diction and a diverse cast change the world of a historical story.",
+    "prompts": [
+      "What choices in voice, movement, or space make this feel live?",
+      "What do you learn about the character from how the words are spoken?",
+      "Test this: How hip-hop diction and a diverse cast change the world of a historical story."
+    ]
+  },
+  {
+    "id": "beethoven-fifth",
+    "title": "Symphony No. 5",
+    "creator": "Ludwig van Beethoven",
+    "year": 1808,
+    "yearLabel": "1808",
+    "region": "Austria",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "fOk8Tm815lE"
+    },
+    "credit": "Ludwig van Beethoven, Symphony No. 5 in C minor, 1808. Full performance. Fábio Fidelix (YouTube).",
+    "notice": "How the four-note opening motive returns again and again, changed each time.",
+    "prompts": [
+      "Listen once for the shape, then again for one detail. What changes?",
+      "What feeling does the music express, and which sound produces it?",
+      "Test this: How the four-note opening motive returns again and again, changed each time."
+    ]
+  },
+  {
+    "id": "bach-cello-suite",
+    "title": "Cello Suite No. 1, Prélude",
+    "creator": "Johann Sebastian Bach",
+    "year": 1720,
+    "yearLabel": "c. 1720",
+    "region": "Germany",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "1prweT95Mo0"
+    },
+    "credit": "Johann Sebastian Bach, Cello Suite No. 1 in G major, Prélude, c. 1720. Yo-Yo Ma (official video, YouTube).",
+    "notice": "How a single cello, playing broken chords, sounds like several voices and moves through changing harmony.",
+    "prompts": [
+      "Listen once for the shape, then again for one detail. What changes?",
+      "What feeling does the music express, and which sound produces it?",
+      "Test this: How a single cello, playing broken chords, sounds like several voices and moves through changing harmony."
+    ]
+  },
+  {
+    "id": "what-a-wonderful-world",
+    "title": "What a Wonderful World",
+    "creator": "Louis Armstrong",
+    "year": 1967,
+    "yearLabel": "1967",
+    "region": "United States",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "CaCSuzR4DwM"
+    },
+    "credit": "Bob Thiele and George David Weiss, \"What a Wonderful World,\" 1967. Louis Armstrong at the BBC, 1968 (official, YouTube).",
+    "notice": "How a gravelly, warm voice and a simple tune say more than complicated music could.",
+    "prompts": [
+      "Listen once for the shape, then again for one detail. What changes?",
+      "What feeling does the music express, and which sound produces it?",
+      "Test this: How a gravelly, warm voice and a simple tune say more than complicated music could."
+    ]
+  },
+  {
+    "id": "strange-fruit",
+    "title": "Strange Fruit",
+    "creator": "Billie Holiday",
+    "year": 1939,
+    "yearLabel": "1939",
+    "region": "United States",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "Web007rzSOI"
+    },
+    "credit": "Abel Meeropol, \"Strange Fruit,\" 1939. Billie Holiday. prokoman1 (YouTube).",
+    "notice": "The contrast between a quiet, beautiful voice and a song about a lynching, and the long pauses between lines.",
+    "prompts": [
+      "Listen once for the shape, then again for one detail. What changes?",
+      "What feeling does the music express, and which sound produces it?",
+      "Test this: The contrast between a quiet, beautiful voice and a song about a lynching, and the long pauses between lines."
+    ]
+  },
+  {
+    "id": "raga-ravi-shankar",
+    "title": "Raga at Monterey Pop",
+    "creator": "Ravi Shankar",
+    "year": 1967,
+    "yearLabel": "1967",
+    "region": "India",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "lk60ObnbIOk"
+    },
+    "credit": "Ravi Shankar, sitar, at the Monterey International Pop Festival, June 1967. Afwan Floyd (YouTube).",
+    "notice": "How the performance grows from a slow, free opening into fast, rhythmic playing, all within a raga.",
+    "prompts": [
+      "Listen once for the shape, then again for one detail. What changes?",
+      "What feeling does the music express, and which sound produces it?",
+      "Test this: How the performance grows from a slow, free opening into fast, rhythmic playing, all within a raga."
+    ]
+  },
+  {
+    "id": "michelangelo-david",
+    "title": "David",
+    "creator": "Michelangelo",
+    "year": 1502,
+    "yearLabel": "1501–1504",
+    "region": "Italy",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/michelangelo-david-1501-1504.jpg",
+      "alt": "A tall white marble statue of a nude young man standing with his weight on one leg, a sling over his shoulder."
+    },
+    "credit": "Michelangelo, David, 1501–1504. Marble, over 5 meters tall. Galleria dell'Accademia, Florence. Photograph by Livioandronico2013, CC BY-SA 4.0 (Wikimedia Commons).",
+    "notice": "The relaxed weight on one leg and the tense neck and brow, which show David a moment before the fight.",
+    "prompts": [
+      "Where is the weight of the body, and what does that stance say about David's state of mind?",
+      "The statue is over five meters tall. How does standing below it change how you see him?"
+    ]
+  },
+  {
+    "id": "winged-victory",
+    "title": "Winged Victory of Samothrace",
+    "creator": "Unknown Hellenistic sculptor",
+    "year": -190,
+    "yearLabel": "c. 190 BCE",
+    "region": "Greece",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/winged-victory-of-samothrace-c-190-bce.jpg",
+      "alt": "A headless marble figure of a winged woman with wind-blown drapery, standing on the prow of a ship."
+    },
+    "credit": "Winged Victory of Samothrace (Nike), c. 190 BCE. Marble. Musée du Louvre, Paris. Photograph from Wikimedia Commons (public domain).",
+    "notice": "How the carved drapery seems pressed against the body by wind, and how the missing head and arms make the motion feel even stronger.",
+    "prompts": [
+      "Without a head or arms, what in the body tells you she has just landed?",
+      "Imagine it standing on a ship's prow above the sea. How does the setting complete the sculpture?"
+    ]
+  },
+  {
+    "id": "terracotta-army",
+    "title": "The Terracotta Army",
+    "creator": "Artisans of the Qin dynasty",
+    "year": -210,
+    "yearLabel": "c. 210 BCE",
+    "region": "China",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/terracotta-army-xian-c-210-bce.jpg",
+      "alt": "Rows of life-size clay soldiers standing in ranks in long earthen trenches."
+    },
+    "credit": "The Terracotta Army, c. 210 BCE. Painted terracotta. Tomb complex of Qin Shi Huang, near Xi'an, China. Photograph by Hans A. Rosbach, CC BY-SA 3.0 (Wikimedia Commons).",
+    "notice": "That thousands of soldiers stand in strict ranks, yet the faces, hair, and armor of individual figures differ.",
+    "prompts": [
+      "What does arranging thousands of figures in ranks say about the emperor who ordered them?",
+      "Why make each face different if the soldiers were meant to be buried and never seen?"
+    ]
+  },
+  {
+    "id": "benin-bronzes",
+    "title": "Plaque of an Oba and attendants",
+    "creator": "Court artists of the Kingdom of Benin",
+    "year": 1550,
+    "yearLabel": "16th century",
+    "region": "Nigeria",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/benin-bronze-plaques-british-museum.jpg",
+      "alt": "A brass plaque in raised relief showing a king in coral-bead regalia between two attendants, with two small Portuguese figures above him."
+    },
+    "credit": "Brass plaque of an Oba (king) flanked by two attendants, with two Portuguese figures above, Kingdom of Benin, 16th century. British Museum, London. Photograph by Mike Peel, CC BY-SA 4.0 (Wikimedia Commons).",
+    "notice": "The king at the center, facing forward and larger than the attendants beside him, with tiny Portuguese figures above.",
+    "prompts": [
+      "How does the plaque show that the central figure is the king?",
+      "Two small Portuguese figures appear at the top. What might that tell you about Benin's contacts with foreign traders?"
+    ]
+  },
+  {
+    "id": "moai",
+    "title": "Moai at Rano Raraku",
+    "creator": "Rapa Nui carvers",
+    "year": 1400,
+    "yearLabel": "c. 1250–1500",
+    "region": "Chile",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/moai-rano-raraku-easter-island.jpg",
+      "alt": "Large carved stone heads with long faces and heavy brows standing in rows on a grassy slope."
+    },
+    "credit": "Moai at Rano Raraku, Rapa Nui (Easter Island), c. 1250–1500 CE. Volcanic tuff. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The long faces with heavy brows, repeated many times across a grassy slope.",
+    "prompts": [
+      "How does seeing many figures together change the effect of any one of them?",
+      "These statues were carved from the volcano's own rock. What does that suggest about where they belong?"
+    ]
+  },
+  {
+    "id": "nefertiti-bust",
+    "title": "Bust of Nefertiti",
+    "creator": "Workshop of the sculptor Thutmose",
+    "year": -1345,
+    "yearLabel": "c. 1345 BCE",
+    "region": "Egypt",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/bust-of-nefertiti-c-1345-bce.jpg",
+      "alt": "A painted limestone bust of a woman with a tall flat-topped blue crown and a long, slender neck."
+    },
+    "credit": "Bust of Nefertiti, c. 1345 BCE. Painted limestone and stucco. Neues Museum, Berlin. Photograph by Philip Pikart, CC BY-SA 3.0 (Wikimedia Commons).",
+    "notice": "The long neck, the tall flat-topped crown, and the smooth symmetry of the face.",
+    "prompts": [
+      "What makes the face look calm and powerful at once?",
+      "Color survives on this bust. How does it change your idea of ancient sculpture?"
+    ]
+  },
+  {
+    "id": "statue-of-liberty",
+    "title": "Statue of Liberty",
+    "creator": "Frédéric Auguste Bartholdi",
+    "year": 1886,
+    "yearLabel": "1886",
+    "region": "United States",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/statue-of-liberty-1886.jpg",
+      "alt": "A tall green copper statue of a robed woman holding a torch high in her right hand and a tablet in her left."
+    },
+    "credit": "Frédéric Auguste Bartholdi, Liberty Enlightening the World (Statue of Liberty), 1886. Copper over an iron frame. Liberty Island, New York. Photograph by Daniel Schwen (public domain, Wikimedia Commons).",
+    "notice": "The raised torch and the crown's rays, and how a figure this large is meant to be read from the harbor.",
+    "prompts": [
+      "Why would a symbol of liberty be a monumental woman holding a torch?",
+      "How does seeing the statue from the water, far below, shape what it means?"
+    ]
+  },
+  {
+    "id": "donatello-david",
+    "title": "David",
+    "creator": "Donatello",
+    "year": 1440,
+    "yearLabel": "c. 1440",
+    "region": "Italy",
+    "form": "sculpture",
+    "unit": "unit-5-sculpture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/donatello-david-c-1440.jpg",
+      "alt": "A bronze statue of a slim nude youth in a hat and boots, resting one hand on his hip, with a sword and the head of a giant at his feet."
+    },
+    "credit": "Donatello, David, c. 1440. Bronze. Museo Nazionale del Bargello, Florence. Photograph by Yair Haklai, CC BY-SA 4.0 (Wikimedia Commons).",
+    "notice": "The calm, almost dreamy expression and the severed head of Goliath beneath David's foot.",
+    "prompts": [
+      "How does David look compared with the victory he has just won?",
+      "Compare this slim bronze David with Michelangelo's marble one. What does each value?"
+    ]
+  },
+  {
+    "id": "hagia-sophia",
+    "title": "Hagia Sophia",
+    "creator": "Anthemius of Tralles and Isidore of Miletus",
+    "year": 537,
+    "yearLabel": "537 CE",
+    "region": "Turkey",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/hagia-sophia-istanbul-537.jpg",
+      "alt": "A huge domed building with semicircular half-domes and four slender minarets rising at the corners."
+    },
+    "credit": "Anthemius of Tralles and Isidore of Miletus, Hagia Sophia, 537 CE. Istanbul. Photograph by Arild Vågen, CC BY-SA 3.0 (Wikimedia Commons).",
+    "notice": "The enormous central dome supported by half-domes, and the minarets added when the building became a mosque.",
+    "prompts": [
+      "How does a dome this large change how you feel inside the building?",
+      "The building has been a church, a mosque, and a museum. What does that say about how spaces change meaning?"
+    ]
+  },
+  {
+    "id": "chartres-cathedral",
+    "title": "Chartres Cathedral, west facade",
+    "creator": "Medieval cathedral builders",
+    "year": 1200,
+    "yearLabel": "12th–13th century",
+    "region": "France",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/chartres-cathedral-west-facade.jpg",
+      "alt": "The stone front of a Gothic cathedral with a large rose window, carved doorways, and two towers of different designs."
+    },
+    "credit": "Chartres Cathedral, west facade, 12th–13th century. Chartres, France. Photograph by Dcconsta, CC BY-SA 3.0 (Wikimedia Commons).",
+    "notice": "The two towers of different designs, and the carved doorways beneath the rose window.",
+    "prompts": [
+      "Why might the two towers have been built at different times?",
+      "How does the facade prepare you for what you will feel inside?"
+    ]
+  },
+  {
+    "id": "angkor-wat",
+    "title": "Angkor Wat",
+    "creator": "Khmer builders under Suryavarman II",
+    "year": 1130,
+    "yearLabel": "early 12th century",
+    "region": "Cambodia",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/angkor-wat-cambodia-c-1130.jpg",
+      "alt": "A vast stone temple with five tall lotus-bud towers reflected in water."
+    },
+    "credit": "Angkor Wat, early 12th century. Sandstone temple complex, Cambodia. Photograph by Diego Delso, CC BY-SA 3.0 (Wikimedia Commons).",
+    "notice": "The five towers shaped like lotus buds, and the long approach across the water.",
+    "prompts": [
+      "How does the approach across the water prepare you for the temple?",
+      "The towers represent a sacred mountain. How can a building stand for a mountain?"
+    ]
+  },
+  {
+    "id": "alhambra-lions",
+    "title": "Court of the Lions, Alhambra",
+    "creator": "Nasrid builders under Muhammad V",
+    "year": 1370,
+    "yearLabel": "14th century",
+    "region": "Spain",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/alhambra-court-of-the-lions-granada.jpg",
+      "alt": "A courtyard pavilion with slender columns and delicately carved arches around a central fountain."
+    },
+    "credit": "Court of the Lions, the Alhambra, 14th century. Granada, Spain. Photograph by Jebulon, CC0 (Wikimedia Commons).",
+    "notice": "The slender columns, the lace-like carved arches, and the fountain at the center of the court.",
+    "prompts": [
+      "How does carving that looks like lace change the feeling of heavy stone?",
+      "Where do the water, light, and shade work together in this courtyard?"
+    ]
+  },
+  {
+    "id": "machu-picchu",
+    "title": "Machu Picchu",
+    "creator": "Inca builders",
+    "year": 1450,
+    "yearLabel": "c. 1450",
+    "region": "Peru",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/machu-picchu-peru-c-1450.jpg",
+      "alt": "Stone buildings and green terraces on a narrow ridge between steep, cloud-wrapped mountains."
+    },
+    "credit": "Machu Picchu, c. 1450. Inca stone citadel, Peru. Photograph by Thomas Quine, CC BY 2.0 (Wikimedia Commons).",
+    "notice": "How terraces follow the mountainside and stone walls fit tightly without mortar.",
+    "prompts": [
+      "How does the site's shape guide the shape of the buildings?",
+      "What does building here, so high and remote, say about the people who chose it?"
+    ]
+  },
+  {
+    "id": "eiffel-tower",
+    "title": "Eiffel Tower",
+    "creator": "Gustave Eiffel",
+    "year": 1889,
+    "yearLabel": "1889",
+    "region": "France",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/eiffel-tower-paris-1889.jpg",
+      "alt": "A tall tower of open iron latticework tapering toward the sky above a green park."
+    },
+    "credit": "Gustave Eiffel, Eiffel Tower, 1889. Wrought iron, Paris. Photograph by Benh Lieu Song (public domain, Wikimedia Commons).",
+    "notice": "The open iron lattice that shows its own structure and narrows in a curve toward the sky.",
+    "prompts": [
+      "Why show the structure instead of hiding it behind walls?",
+      "What does an iron tower this tall say about the age that built it?"
+    ]
+  },
+  {
+    "id": "sydney-opera-house",
+    "title": "Sydney Opera House",
+    "creator": "Jørn Utzon",
+    "year": 1973,
+    "yearLabel": "1959–1973",
+    "region": "Australia",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/sydney-opera-house-1973.jpg",
+      "alt": "A white building with a group of overlapping curved shell-shaped roofs beside a harbor."
+    },
+    "credit": "Jørn Utzon, Sydney Opera House, 1959–1973. Sydney, Australia. Photograph by Diliff, CC BY-SA 3.0 (Wikimedia Commons).",
+    "notice": "The white shell-like roofs against the harbor, which can look like sails, shells, or petals.",
+    "prompts": [
+      "What do the curved roofs look like to you, and why might the architect have wanted that ambiguity?",
+      "How does the harbor setting become part of the building?"
+    ]
+  },
+  {
+    "id": "hall-of-supreme-harmony",
+    "title": "Hall of Supreme Harmony, Forbidden City",
+    "creator": "Ming and Qing builders",
+    "year": 1420,
+    "yearLabel": "1420 (rebuilt 1695)",
+    "region": "China",
+    "form": "architecture",
+    "unit": "unit-6-architecture",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/forbidden-city-hall-of-supreme-harmony.jpg",
+      "alt": "A large hall with a double yellow-tiled roof on a tall white marble terrace behind a wide stone courtyard."
+    },
+    "credit": "Hall of Supreme Harmony, Forbidden City, begun 1420 and rebuilt 1695. Beijing. Photograph by Gisling, CC BY 3.0 (Wikimedia Commons).",
+    "notice": "The golden roof, the raised marble terrace, and the symmetry of the courtyard in front.",
+    "prompts": [
+      "How do the raised platform and the wide empty courtyard make a visitor feel?",
+      "What values does a building organized on a single central axis express?"
+    ]
+  },
+  {
+    "id": "the-steerage",
+    "title": "The Steerage",
+    "creator": "Alfred Stieglitz",
+    "year": 1907,
+    "yearLabel": "1907",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/stieglitz-the-steerage-1907.jpg",
+      "alt": "A black-and-white view down onto the crowded lower deck of a ship, with a gangway, a funnel, and passengers in different levels."
+    },
+    "credit": "Alfred Stieglitz, The Steerage, 1907. Photogravure. Photograph of the print from Wikimedia Commons (public domain).",
+    "notice": "How the gangway, the funnel, and the crowd divide the picture into levels, like a pattern of shapes.",
+    "prompts": [
+      "Is this photograph about people, or about shapes? How do you decide?",
+      "How does looking down from above change your relationship to the passengers?"
+    ]
+  },
+  {
+    "id": "allie-mae-burroughs",
+    "title": "Allie Mae Burroughs",
+    "creator": "Walker Evans",
+    "year": 1936,
+    "yearLabel": "1936",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/walker-evans-allie-mae-burroughs-1936.jpg",
+      "alt": "A close black-and-white portrait of a weathered woman looking directly at the camera in a wood-walled room."
+    },
+    "credit": "Walker Evans, Allie Mae Burroughs, Hale County, Alabama, 1936. Gelatin silver print. Library of Congress, Prints and Photographs Division (public domain).",
+    "notice": "The direct, unsmiling gaze and the plain, close framing, which give the sitter dignity instead of pity.",
+    "prompts": [
+      "What does the sitter's gaze ask of you?",
+      "Compare this plain portrait with Lange's Migrant Mother. How do they ask for sympathy differently?"
+    ]
+  },
+  {
+    "id": "bandits-roost",
+    "title": "Bandit's Roost",
+    "creator": "Jacob Riis",
+    "year": 1888,
+    "yearLabel": "1888",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/jacob-riis-bandits-roost-1888.jpg",
+      "alt": "A narrow tenement alley with laundry overhead and a group of men turned toward the camera."
+    },
+    "credit": "Jacob Riis, Bandit's Roost, 59½ Mulberry Street, New York, 1888. Photograph (public domain, Wikimedia Commons).",
+    "notice": "The crowded alley and the men who turn to face the camera and its sudden flash of light.",
+    "prompts": [
+      "Riis took this to persuade the public to reform housing. How can you tell it was meant to persuade?",
+      "How do the people in the photograph respond to being photographed?"
+    ]
+  },
+  {
+    "id": "the-echo-cameron",
+    "title": "The Echo",
+    "creator": "Julia Margaret Cameron",
+    "year": 1868,
+    "yearLabel": "1868",
+    "region": "England",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/julia-margaret-cameron-the-echo-1868.jpg",
+      "alt": "A soft-focus portrait of a young woman with long loose hair, looking toward the camera against a dark background."
+    },
+    "credit": "Julia Margaret Cameron, The Echo (model: Hatty Campbell), 1868. Albumen print. Photograph of the print from Wikimedia Commons (public domain).",
+    "notice": "The soft focus, the dark background, and the close framing of her face and loose hair, which make the photograph feel like a painting.",
+    "prompts": [
+      "Why might Cameron have wanted a photograph to look soft and painterly?",
+      "What mood does the model's direct, quiet gaze create?"
+    ]
+  },
+  {
+    "id": "atget-street-musicians",
+    "title": "Street Musicians",
+    "creator": "Eugène Atget",
+    "year": 1898,
+    "yearLabel": "1898–1899",
+    "region": "France",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/eugene-atget-street-musicians-1898.jpg",
+      "alt": "A bearded man in a bowler hat stands behind a hand organ on a cart while a laughing girl leans away from it, holding its edge."
+    },
+    "credit": "Eugène Atget, Street Musicians, Paris, 1898–1899. Albumen print. Photograph of the print from Wikimedia Commons (public domain).",
+    "notice": "The man behind the hand organ and the laughing girl leaning away from it, caught in a plain, matter-of-fact street scene.",
+    "prompts": [
+      "Atget photographed streets and trades that were disappearing. How does that knowledge change the photograph?",
+      "What does the girl's pose and expression add to the picture of the organ grinder?"
+    ]
+  },
+  {
+    "id": "watkins-yosemite",
+    "title": "Yosemite Valley",
+    "creator": "Carleton Watkins",
+    "year": 1865,
+    "yearLabel": "c. 1865",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/carleton-watkins-yosemite-valley-c-1865.jpg",
+      "alt": "A wide valley between sheer granite cliffs, with tiny trees and a river in the foreground."
+    },
+    "credit": "Carleton Watkins, Yosemite Valley, California, c. 1865. Albumen print. Photograph of the print from Wikimedia Commons (public domain).",
+    "notice": "The enormous cliffs and the tiny trees, which show the scale of the valley.",
+    "prompts": [
+      "How does the photographer make a flat print feel as large as a valley?",
+      "Photographs like this helped persuade the nation to protect Yosemite. How can a picture persuade?"
+    ]
+  },
+  {
+    "id": "valley-of-the-shadow-of-death",
+    "title": "The Valley of the Shadow of Death",
+    "creator": "Roger Fenton",
+    "year": 1855,
+    "yearLabel": "1855",
+    "region": "Ukraine",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/roger-fenton-valley-of-the-shadow-of-death-1855.jpg",
+      "alt": "A barren valley with a dirt road scattered with cannonballs."
+    },
+    "credit": "Roger Fenton, The Valley of the Shadow of Death, Crimea, 1855. Salted paper print. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The empty road strewn with cannonballs, which shows war's aftermath without a single soldier.",
+    "prompts": [
+      "How does a picture with no people still tell a story of war?",
+      "Why might the photographer have wanted to show this and not the wounded?"
+    ]
+  },
+  {
+    "id": "white-house-ruin",
+    "title": "Ancient ruins in the Cañon de Chelle",
+    "creator": "Timothy H. O'Sullivan",
+    "year": 1873,
+    "yearLabel": "1873",
+    "region": "United States",
+    "form": "photography",
+    "unit": "unit-11-photography",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/timothy-osullivan-white-house-ruins-1873.jpg",
+      "alt": "Small stone ruins tucked into an alcove in a vast, streaked canyon wall, with more broken walls in the foreground below."
+    },
+    "credit": "Timothy H. O'Sullivan, Ancient ruins in the Cañon de Chelle (the \"White House\"), Arizona, 1873. Albumen print. Photograph of the print from Wikimedia Commons (public domain).",
+    "notice": "The tiny ruin high in the cliff, dwarfed by the great curved wall of the canyon.",
+    "prompts": [
+      "How does the photographer show how small the dwelling is compared with the cliff?",
+      "What does the photograph suggest about the people who built here?"
+    ]
+  },
+  {
+    "id": "las-meninas",
+    "title": "Las Meninas",
+    "creator": "Diego Velázquez",
+    "year": 1656,
+    "yearLabel": "1656",
+    "region": "Spain",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/velazquez-las-meninas-1656.jpg",
+      "alt": "A large room in which a young princess is surrounded by attendants, with the painter standing at an easel at the left and a mirror reflecting two figures at the back."
+    },
+    "credit": "Diego Velázquez, Las Meninas, 1656. Oil on canvas. Museo del Prado, Madrid. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The painter at his easel at the left, and the mirror at the back, which raises the question of who is being looked at.",
+    "prompts": [
+      "Where do the figures in the painting look, and what does that make you feel about your own position as a viewer?",
+      "What is the painter painting, and how can you tell?"
+    ]
+  },
+  {
+    "id": "impression-sunrise",
+    "title": "Impression, Sunrise",
+    "creator": "Claude Monet",
+    "year": 1872,
+    "yearLabel": "1872",
+    "region": "France",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/monet-impression-sunrise-1872.jpg",
+      "alt": "A harbor at dawn in blue-gray haze, with small boats and a bright orange sun reflected on the water."
+    },
+    "credit": "Claude Monet, Impression, Sunrise, 1872. Oil on canvas. Musée Marmottan Monet, Paris. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The loose, quick brushstrokes and the orange sun against the gray-blue haze.",
+    "prompts": [
+      "How does the painting suggest light and mist without careful detail?",
+      "Why might critics in 1874 have called this unfinished?"
+    ]
+  },
+  {
+    "id": "wanderer-above-fog",
+    "title": "Wanderer above the Sea of Fog",
+    "creator": "Caspar David Friedrich",
+    "year": 1818,
+    "yearLabel": "c. 1818",
+    "region": "Germany",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/friedrich-wanderer-above-the-sea-of-fog-c-1818.jpg",
+      "alt": "A man in a dark coat seen from behind, standing on a rocky peak and looking out over a sea of fog and distant mountains."
+    },
+    "credit": "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1818. Oil on canvas. Kunsthalle Hamburg. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The figure seen from behind, which lets you share his view over the fog and peaks.",
+    "prompts": [
+      "Why does the artist turn the figure's back to us?",
+      "What feeling does the fog give the landscape that clear air would not?"
+    ]
+  },
+  {
+    "id": "birth-of-venus",
+    "title": "The Birth of Venus",
+    "creator": "Sandro Botticelli",
+    "year": 1485,
+    "yearLabel": "c. 1485",
+    "region": "Italy",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/botticelli-the-birth-of-venus-c-1485.jpg",
+      "alt": "A nude woman standing on a giant seashell at the shore, blown in by wind figures at the left and welcomed with a cloak at the right."
+    },
+    "credit": "Sandro Botticelli, The Birth of Venus, c. 1485. Tempera on canvas. Uffizi Gallery, Florence. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The flat, flowing lines and the shell floating on pale water, more like a poem than a view of the real world.",
+    "prompts": [
+      "How does the painter use line to make the figures seem to drift?",
+      "Does it matter that the painting does not try to look realistic?"
+    ]
+  },
+  {
+    "id": "qingming-scroll",
+    "title": "Along the River During the Qingming Festival (detail)",
+    "creator": "Zhang Zeduan",
+    "year": 1120,
+    "yearLabel": "12th century",
+    "region": "China",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/zhang-zeduan-along-the-river-qingming-festival.jpg",
+      "alt": "A detail of a long handscroll showing a wooden arched bridge crowded with people, boats on a river, and city buildings."
+    },
+    "credit": "Zhang Zeduan, Along the River During the Qingming Festival (detail), 12th century. Handscroll, ink and color on silk. Palace Museum, Beijing. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The crowds, boats, and bridge, in a scroll meant to be unrolled slowly like a walk through the city.",
+    "prompts": [
+      "How is looking at a scroll, a little at a time, different from looking at a single framed painting?",
+      "What kinds of people and activities can you find in this detail?"
+    ]
+  },
+  {
+    "id": "akbarnama-presentation",
+    "title": "Abu'l Fazl Presenting the Akbarnama to Akbar",
+    "creator": "Govardhan",
+    "year": 1604,
+    "yearLabel": "c. 1603–1605",
+    "region": "India",
+    "form": "painting",
+    "unit": "unit-4-painting",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/govardhan-abul-fazl-presenting-the-akbarnama.jpg",
+      "alt": "A Mughal court scene in bright colors, with a bearded scholar presenting a book to an emperor seated among courtiers."
+    },
+    "credit": "Govardhan, Abu'l Fazl Presenting the Akbarnama to Akbar, c. 1603–1605. Mughal miniature, opaque watercolor on paper. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The rich colors and fine detail, and how the emperor and his courtiers are arranged by importance.",
+    "prompts": [
+      "How does the painter show who is most important in the scene?",
+      "A book is the center of attention here. What does that say about what the court valued?"
+    ]
+  },
+  {
+    "id": "gilgamesh-flood-tablet",
+    "title": "The Flood Tablet (Epic of Gilgamesh, Tablet XI)",
+    "creator": "Scribes of Ashurbanipal's library, Nineveh",
+    "year": -650,
+    "yearLabel": "7th century BCE",
+    "region": "Iraq",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/gilgamesh-flood-tablet-7th-century-bce.jpg",
+      "alt": "A palm-sized clay tablet covered with tightly packed lines of wedge-shaped cuneiform writing."
+    },
+    "credit": "The Flood Tablet, Epic of Gilgamesh, Tablet XI, 7th century BCE. Clay tablet with Akkadian cuneiform, from the library of Ashurbanipal, Nineveh. British Museum, London. Photograph from Wikimedia Commons (CC0).",
+    "notice": "How a story was pressed into clay in rows of wedge-shaped signs, and that this is one of the oldest known stories of a great flood.",
+    "prompts": [
+      "How is reading from a clay tablet different from reading from a printed page?",
+      "Why might a story about a flood have been told in so many ancient cultures?"
+    ]
+  },
+  {
+    "id": "beowulf-manuscript",
+    "title": "Beowulf manuscript page",
+    "creator": "Anglo-Saxon scribes (poem by an unknown poet)",
+    "year": 1000,
+    "yearLabel": "c. 1000",
+    "region": "England",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/beowulf-manuscript-c-1000.jpg",
+      "alt": "A single ragged-edged parchment leaf mounted in a paper frame, filled with lines of handwritten Old English."
+    },
+    "credit": "Beowulf, Cotton MS Vitellius A xv, folio 134r, c. 1000. Ink on parchment. British Library, London. Photograph from Wikimedia Commons (CC0).",
+    "notice": "The tight handwriting on parchment, and the scorched edges left by a fire that nearly destroyed the only surviving copy.",
+    "prompts": [
+      "What do the burned edges tell you about how fragile a poem can be?",
+      "This poem was probably spoken aloud long before it was written down. What changes when a spoken poem becomes a manuscript?"
+    ]
+  },
+  {
+    "id": "book-of-kells",
+    "title": "Book of Kells, Chi Rho page",
+    "creator": "Celtic monks",
+    "year": 800,
+    "yearLabel": "c. 800",
+    "region": "Ireland",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/book-of-kells-chi-rho-c-800.jpg",
+      "alt": "A manuscript page filled with an enormous decorated monogram of swirling interlaced patterns, spirals, and tiny figures."
+    },
+    "credit": "Book of Kells, folio 34r (the Chi Rho monogram page), c. 800 CE. Ink and pigments on vellum. Trinity College Dublin. Photograph from Wikimedia Commons (public domain).",
+    "notice": "How the first letters of a sentence swell into a whole page of spirals, knots, and tiny creatures.",
+    "prompts": [
+      "How does turning letters into images change the way you read the page?",
+      "Why might monks spend months decorating a single page?"
+    ]
+  },
+  {
+    "id": "gutenberg-bible",
+    "title": "Gutenberg Bible, opening of Genesis",
+    "creator": "Johannes Gutenberg",
+    "year": 1455,
+    "yearLabel": "c. 1455",
+    "region": "Germany",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/gutenberg-bible-genesis-c-1455.jpg",
+      "alt": "A printed Bible page with two dense columns of black Latin text, and decorated initial letters and borders painted by hand."
+    },
+    "credit": "Johannes Gutenberg, Gutenberg Bible (B42), Genesis page, c. 1455. Printed with movable type on paper or vellum, with hand-painted decoration. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The even, regular columns of printed type beside the hand-painted initials and borders.",
+    "prompts": [
+      "What is gained and what is lost when each copy of a book can be printed identically?",
+      "Why might the printer have added hand-painted decoration to a printed page?"
+    ]
+  },
+  {
+    "id": "tale-of-genji-scroll",
+    "title": "Tale of Genji handscroll (Yadorigi chapter)",
+    "creator": "Unknown court artists",
+    "year": 1130,
+    "yearLabel": "12th century",
+    "region": "Japan",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/tale-of-genji-scroll-yadorigi-12th-century.jpg",
+      "alt": "Courtiers in layered, patterned robes seated in a roofless room seen from above, their faces drawn with a few simple lines, beside a boldly ornamented screen."
+    },
+    "credit": "Genji Monogatari Emaki (Illustrated Handscroll of The Tale of Genji), Yadorigi chapter, 12th century. Ink and color on paper. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The roofless view into the room, the heaps of layered robes, and faces drawn with just a few lines.",
+    "prompts": [
+      "Why might the faces be drawn with just a few lines while the robes are so rich?",
+      "What does a view from above, into a room with no roof, let you see that a normal view would not?"
+    ]
+  },
+  {
+    "id": "chaucer-ellesmere",
+    "title": "Chaucer on horseback, Ellesmere manuscript",
+    "creator": "Geoffrey Chaucer (illuminator unknown)",
+    "year": 1410,
+    "yearLabel": "c. 1400–1410",
+    "region": "England",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/chaucer-ellesmere-manuscript-c-1410.jpg",
+      "alt": "A man in a dark hood riding a pale horse beside an ornate decorated initial and lines of handwritten Middle English."
+    },
+    "credit": "Portrait of Geoffrey Chaucer, Ellesmere manuscript of The Canterbury Tales, c. 1400–1410. Ink and pigments on vellum. Huntington Library, San Marino. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The author pictured as one of his own pilgrims, riding beside the lines of his poem.",
+    "prompts": [
+      "Why might a manuscript include a portrait of the poet next to his words?",
+      "How does seeing Chaucer as a pilgrim change how you read the stories he tells?"
+    ]
+  },
+  {
+    "id": "don-quixote-1605",
+    "title": "Don Quixote, 1605 title page",
+    "creator": "Miguel de Cervantes",
+    "year": 1605,
+    "yearLabel": "1605",
+    "region": "Spain",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/don-quixote-1605-title-page.jpg",
+      "alt": "A printed title page with a long Spanish title, a small woodcut of a falcon on a gloved hand, and the printer's details."
+    },
+    "credit": "Miguel de Cervantes, El ingenioso hidalgo Don Quixote de la Mancha, title page of the first edition, Madrid, 1605. Printed book. Photograph from Wikimedia Commons (public domain).",
+    "notice": "The long formal title promising a clever gentleman, for a book that mocks stories of knightly heroes.",
+    "prompts": [
+      "What expectations does a long, formal title set up?",
+      "How might the title be part of the joke in a story about a man who reads too many tales of chivalry?"
+    ]
+  },
+  {
+    "id": "botticelli-map-of-hell",
+    "title": "Map of Hell (Dante's Inferno)",
+    "creator": "Sandro Botticelli",
+    "year": 1485,
+    "yearLabel": "c. 1480–1495",
+    "region": "Italy",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/botticelli-map-of-hell-c-1480.jpg",
+      "alt": "A drawing of a huge funnel-shaped pit descending in terraced circles into the earth, labeled with tiny figures and writing."
+    },
+    "credit": "Sandro Botticelli, Map of Hell, illustration for Dante's Divine Comedy (Inferno), c. 1480–1495. Silverpoint and ink on parchment. Vatican Library. Photograph from Wikimedia Commons (public domain).",
+    "notice": "How a poem about a journey becomes a diagram, a funnel of descending circles you can follow with your eye.",
+    "prompts": [
+      "How does a picture of Hell help you picture the poem's journey?",
+      "What does turning words into a map leave out?"
+    ]
+  },
+  {
+    "id": "shahnameh-rustam-dragon",
+    "title": "Rustam Fights the Dragon, folio from the Shahnameh",
+    "creator": "Ferdowsi (poem); illustrated manuscript, artists unknown",
+    "year": 1330,
+    "yearLabel": "c. 1330",
+    "region": "Iran",
+    "form": "literature",
+    "unit": "unit-7-literature",
+    "media": {
+      "type": "image",
+      "src": "/artrandomizer/assets/images/shahnameh-rustam-fights-the-dragon-c-1330.jpg",
+      "alt": "A torn manuscript page with columns of Persian script above and below a painted scene of a warrior with a round shield facing a coiled purple dragon."
+    },
+    "credit": "\"Rustam Fights the Dragon (Rustam's Third Course),\" folio from a Shahnama (Book of Kings) by Ferdowsi, c. 1330. Ink, opaque watercolor, and gold on paper. The Metropolitan Museum of Art, New York. Image from Wikimedia Commons (CC0).",
+    "notice": "How the painted fight with the dragon is set between columns of elegant Persian script on the same page.",
+    "prompts": [
+      "How do the picture and the lines of verse share the page, and which do you look at first?",
+      "The Shahnameh retells the history and legends of Persia in verse. Why might a nation want its story told as a poem?"
+    ]
+  },
+  {
+    "id": "antigone",
+    "title": "Antigone: Creon and Antigone",
+    "creator": "Sophocles",
+    "year": -441,
+    "yearLabel": "c. 441 BCE",
+    "region": "Greece",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "A9-W66xB-fM"
+    },
+    "credit": "Sophocles, Antigone, c. 441 BCE. The scene \"Creon and Antigone,\" from a National Theatre production. National Theatre (YouTube).",
+    "notice": "How the confrontation between the ruler and the young woman escalates, as the law of the state meets the claims of conscience.",
+    "prompts": [
+      "Whose argument is stronger, Creon's or Antigone's, and what makes you say so?",
+      "How does the performance use voice and distance between the two actors to show who holds power?"
+    ]
+  },
+  {
+    "id": "medea",
+    "title": "Medea (clip)",
+    "creator": "Euripides",
+    "year": -431,
+    "yearLabel": "431 BCE",
+    "region": "Greece",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "-reVLwOpglY"
+    },
+    "credit": "Euripides, Medea, 431 BCE. Clip from a National Theatre production, \"National Theatre at Home.\" National Theatre (YouTube).",
+    "notice": "How a woman who has been wronged asks the audience to understand her, even as her plan turns terrible.",
+    "prompts": [
+      "Where do your sympathies lie in this scene, and what in the performance shapes them?",
+      "How does a chorus, or the idea of one, change what we feel about the main character?"
+    ]
+  },
+  {
+    "id": "midsummer-globe",
+    "title": "A Midsummer Night's Dream: \"What angel wakes me?\"",
+    "creator": "William Shakespeare",
+    "year": 1595,
+    "yearLabel": "c. 1595",
+    "region": "England",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "yGgsJd4_r4k"
+    },
+    "credit": "William Shakespeare, A Midsummer Night's Dream, c. 1595. Act 3, Scene 1, from the 2013 production at Shakespeare's Globe, London. Shakespeare's Globe (YouTube).",
+    "notice": "Titania, under a spell, wakes and falls in love with Bottom, who has a donkey's head; the comedy comes from the gap between her poetry and his answers.",
+    "prompts": [
+      "What makes this scene funny, and what keeps it from being cruel?",
+      "How does the actor playing Bottom use body and voice to stay dignified while wearing a donkey's head?"
+    ]
+  },
+  {
+    "id": "hagoromo-noh",
+    "title": "Hagoromo (kuse section)",
+    "creator": "Zeami (attributed)",
+    "year": 1430,
+    "yearLabel": "c. 15th century",
+    "region": "Japan",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "33gAp8n-C8k"
+    },
+    "credit": "Hagoromo (The Feather Robe), Noh play attributed to Zeami, 15th century. The kuse section. Theatre Nohgaku (YouTube).",
+    "notice": "How little seems to move, and how each slow step and turn of the masked performer carries meaning, accompanied by chant and flute.",
+    "prompts": [
+      "How can a mask that does not change expression still seem to express feeling?",
+      "What does slowness do to your attention, compared with a fast stage action?"
+    ]
+  },
+  {
+    "id": "fuji-musume",
+    "title": "Fuji Musume (The Wisteria Maiden)",
+    "creator": "Kabuki dance, tradition of Edo-period Japan",
+    "year": 1826,
+    "yearLabel": "1826",
+    "region": "Japan",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "1KxDVAUghWY"
+    },
+    "credit": "Fuji Musume (The Wisteria Maiden), kabuki dance, first staged 1826. Performance presented by the National Theatre, Tokyo (国立劇場, YouTube).",
+    "notice": "How costume, fan, and a stylized dance tell the story of a spirit of the wisteria who appears as a young woman.",
+    "prompts": [
+      "How much of the story do you understand without knowing the words?",
+      "How do costume and props become part of the dance?"
+    ]
+  },
+  {
+    "id": "drunken-concubine",
+    "title": "The Drunken Concubine (Peking opera)",
+    "creator": "Tradition of Peking opera (made famous by Mei Lanfang)",
+    "year": 1920,
+    "yearLabel": "1920s",
+    "region": "China",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "TDD3AnPmU7o"
+    },
+    "credit": "The Drunken Concubine (Guifei zuijiu), Peking opera, made famous in the 1920s. Performed at a Mid-Autumn Festival event. CGTN (YouTube).",
+    "notice": "How a performer shows drunkenness through graceful, tightly controlled movement, and how song, gesture, and costume work as a single language.",
+    "prompts": [
+      "How can an actor show drunkenness with precision instead of clumsiness?",
+      "What do you learn about a character from the way she moves, even before you follow the words?"
+    ]
+  },
+  {
+    "id": "waiting-for-godot",
+    "title": "Waiting for Godot (trailer)",
+    "creator": "Samuel Beckett",
+    "year": 1953,
+    "yearLabel": "1953",
+    "region": "France",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "KzMg6-8T39I"
+    },
+    "credit": "Samuel Beckett, Waiting for Godot (En attendant Godot), first performed 1953. Production trailer. Druid Theatre (YouTube).",
+    "notice": "Two men wait by a bare tree and almost nothing happens, so the waiting itself becomes the drama.",
+    "prompts": [
+      "What does the play seem to say about waiting for something that never comes?",
+      "How do a nearly empty stage and a few props shape what you notice?"
+    ]
+  },
+  {
+    "id": "death-of-a-salesman",
+    "title": "Death of a Salesman (Broadway)",
+    "creator": "Arthur Miller",
+    "year": 1949,
+    "yearLabel": "1949",
+    "region": "United States",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "XWfyoW4r8jY"
+    },
+    "credit": "Arthur Miller, Death of a Salesman, 1949. Clip from the 2022 Broadway production. Official production channel (YouTube).",
+    "notice": "An ordinary salesman at the center of a tragedy, with memories that blend into the present moment.",
+    "prompts": [
+      "Is Willy Loman a tragic hero? What does the performance make you feel about him?",
+      "How might a stage show memory and the present at the same time?"
+    ]
+  },
+  {
+    "id": "raisin-in-the-sun",
+    "title": "A Raisin in the Sun (trailer)",
+    "creator": "Lorraine Hansberry",
+    "year": 1959,
+    "yearLabel": "1959",
+    "region": "United States",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "wrcvkBc08mY"
+    },
+    "credit": "Lorraine Hansberry, A Raisin in the Sun, 1959. Production trailer. Oregon Shakespeare Festival (YouTube).",
+    "notice": "A family in a crowded apartment, each member dreaming of something different to do with an insurance check.",
+    "prompts": [
+      "Whose dream do you most want to see come true, and why?",
+      "The title comes from a poem by Langston Hughes. What does it suggest about the play?"
+    ]
+  },
+  {
+    "id": "the-seagull",
+    "title": "The Seagull (trailer)",
+    "creator": "Anton Chekhov",
+    "year": 1896,
+    "yearLabel": "1896",
+    "region": "Russia",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "1mLHzg94pVk"
+    },
+    "credit": "Anton Chekhov, The Seagull, 1896. Production trailer from National Theatre Live. National Theatre (YouTube).",
+    "notice": "Characters who talk about art and love while much of what matters happens beneath what they say.",
+    "prompts": [
+      "What do the characters want that they cannot say aloud?",
+      "How can silence or a pause tell you as much as dialogue?"
+    ]
+  },
+  {
+    "id": "angels-in-america",
+    "title": "Angels in America: Roy Cohn",
+    "creator": "Tony Kushner",
+    "year": 1991,
+    "yearLabel": "1991–1992",
+    "region": "United States",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "eLhq8jt4p3Q"
+    },
+    "credit": "Tony Kushner, Angels in America, 1991–1992. Clip of Nathan Lane as Roy Cohn from a National Theatre production. National Theatre (YouTube).",
+    "notice": "A powerful and ruthless character made fascinating by a performance full of charm, speed, and menace.",
+    "prompts": [
+      "How does the performance make a villain compelling, and is that dangerous or useful?",
+      "What do you learn about the character from the way he speaks, not just from what he says?"
+    ]
+  },
+  {
+    "id": "hadestown",
+    "title": "Hadestown (Broadway clip)",
+    "creator": "Anaïs Mitchell",
+    "year": 2019,
+    "yearLabel": "2016–2019",
+    "region": "United States",
+    "form": "theater",
+    "unit": "unit-8-theater",
+    "media": {
+      "type": "video",
+      "id": "117ufXEhzRQ"
+    },
+    "credit": "Anaïs Mitchell, Hadestown, Broadway production, 2019. Clip from the official production channel (YouTube).",
+    "notice": "The Greek myth of Orpheus and Eurydice retold through folk, jazz, and blues, so that the music carries the story.",
+    "prompts": [
+      "What does setting an ancient myth to this kind of music change about it?",
+      "How much of the story do you understand from the music alone?"
+    ]
+  },
+  {
+    "id": "dies-irae-chant",
+    "title": "Dies irae (Gregorian chant)",
+    "creator": "Attributed to Thomas of Celano",
+    "year": 1250,
+    "yearLabel": "13th century",
+    "region": "Italy",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "2OBB5-bP6qs"
+    },
+    "credit": "Dies irae, Gregorian chant, attributed to Thomas of Celano, 13th century. Sung by a choir, with lyrics and translation. Tu Es Petrus (YouTube).",
+    "notice": "A single unaccompanied line of melody that moves mostly by small steps, like speech lifted into song.",
+    "prompts": [
+      "What does a single melody with no accompaniment make you listen for?",
+      "How does the sound suit a text about judgment and the end of the world?"
+    ]
+  },
+  {
+    "id": "vivaldi-spring",
+    "title": "The Four Seasons: Spring",
+    "creator": "Antonio Vivaldi",
+    "year": 1723,
+    "yearLabel": "c. 1720–1725",
+    "region": "Italy",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "3LiztfE1X7E"
+    },
+    "credit": "Antonio Vivaldi, The Four Seasons: Spring (La primavera), c. 1720–1725. Performed on period instruments. Voices of Music (YouTube).",
+    "notice": "How the solo violin and orchestra imitate birdsong and a spring storm, and how they answer each other.",
+    "prompts": [
+      "Where can you hear birds, a stream, or thunder in the music?",
+      "How does the conversation between soloist and orchestra move the piece forward?"
+    ]
+  },
+  {
+    "id": "eine-kleine-nachtmusik",
+    "title": "Eine kleine Nachtmusik",
+    "creator": "Wolfgang Amadeus Mozart",
+    "year": 1787,
+    "yearLabel": "1787",
+    "region": "Austria",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "QZWKUszkbXU"
+    },
+    "credit": "Wolfgang Amadeus Mozart, Eine kleine Nachtmusik (Serenade No. 13), 1787. Performed by the Concertgebouw Kamerorkest. AVROTROS Klassiek (YouTube).",
+    "notice": "The bright, balanced phrases, where a musical question is nearly always followed by a matching answer.",
+    "prompts": [
+      "Where do you hear a phrase answered by another that mirrors it?",
+      "What makes the music feel orderly and light?"
+    ]
+  },
+  {
+    "id": "gamelan-singa-nebah",
+    "title": "Singa Nebah (The Pouncing Lion), Javanese gamelan",
+    "creator": "Javanese gamelan tradition",
+    "year": 1800,
+    "yearLabel": "traditional",
+    "region": "Indonesia",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "p3HwqqiVxbE"
+    },
+    "undated": true,
+    "credit": "Singa Nebah (The Pouncing Lion), Javanese gamelan, pelog barang. Performed by the NIU Javanese Gamelan Ensemble. NIU School of Music (YouTube).",
+    "notice": "Bronze gongs and metal-barred instruments interlocking in layers, with deep gongs marking the ends of long cycles.",
+    "prompts": [
+      "How is a layered pattern different from a melody with accompaniment?",
+      "How do the large gongs help you hear the repeating cycle?"
+    ]
+  },
+  {
+    "id": "ghana-drumming",
+    "title": "Kakatsitsi Drummers",
+    "creator": "Kakatsitsi Drummers (Ghanaian drumming tradition)",
+    "year": 1900,
+    "yearLabel": "traditional",
+    "region": "Ghana",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "uOkRdcTxZko"
+    },
+    "undated": true,
+    "credit": "The Kakatsitsi Drummers perform \"Sweet\" at the Eden Project. Ghanaian drumming tradition. Kakatsitsi Drummers (YouTube).",
+    "notice": "Several drums play different patterns that lock together into one driving rhythm.",
+    "prompts": [
+      "Can you pick out one drum's pattern from the rest?",
+      "How does a rhythm made of many parts feel different from one steady beat?"
+    ]
+  },
+  {
+    "id": "miles-davis-so-what",
+    "title": "So What",
+    "creator": "Miles Davis",
+    "year": 1959,
+    "yearLabel": "1959",
+    "region": "United States",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "zqNTltOGh5c"
+    },
+    "credit": "Miles Davis, \"So What,\" from Kind of Blue, 1959. Official video. Miles Davis (YouTube).",
+    "notice": "The relaxed, spacious groove, and how each soloist builds a whole statement from just a few chord areas.",
+    "prompts": [
+      "How does leaving space between notes change the mood?",
+      "What do you hear change from one soloist to the next?"
+    ]
+  },
+  {
+    "id": "coltrane-love-supreme",
+    "title": "A Love Supreme, Part I: Acknowledgement",
+    "creator": "John Coltrane",
+    "year": 1964,
+    "yearLabel": "1964",
+    "region": "United States",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "Dmx2WuUPVcs"
+    },
+    "credit": "John Coltrane, A Love Supreme, Part I: Acknowledgement, 1964. Official upload. John Coltrane (YouTube).",
+    "notice": "A short opening figure and a chanted four-note phrase that return and grow in intensity.",
+    "prompts": [
+      "How does repeating a short phrase build intensity?",
+      "What feeling does the music express, and what in the sound produces it?"
+    ]
+  },
+  {
+    "id": "nina-simone-feeling-good",
+    "title": "Feeling Good",
+    "creator": "Nina Simone",
+    "year": 1965,
+    "yearLabel": "1965",
+    "region": "United States",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "oHRNrgDIJfo"
+    },
+    "credit": "Anthony Newley and Leslie Bricusse, \"Feeling Good,\" performed by Nina Simone, 1965. Official video. Nina Simone (YouTube).",
+    "notice": "The unaccompanied voice at the opening, and how the band enters and builds behind it.",
+    "prompts": [
+      "How does starting with only a voice change how you hear the first words?",
+      "What does the singer's phrasing add that the written words alone do not?"
+    ]
+  },
+  {
+    "id": "huun-huur-tu",
+    "title": "Konguroi (Sixty Horses in My Herd)",
+    "creator": "Huun-Huur-Tu (Tuvan throat-singing tradition)",
+    "year": 1900,
+    "yearLabel": "traditional",
+    "region": "Russia",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "srmJA1H4BIo"
+    },
+    "undated": true,
+    "credit": "Huun-Huur-Tu, \"Konguroi (Sixty Horses in My Herd),\" Tuvan throat singing, live on KEXP. KEXP (YouTube).",
+    "notice": "One singer produces a low drone and a high whistle-like melody at the same time.",
+    "prompts": [
+      "How can one voice sound like more than one?",
+      "What images of landscape or animals does the sound call up?"
+    ]
+  },
+  {
+    "id": "chan-chan",
+    "title": "Chan Chan",
+    "creator": "Compay Segundo, performed by Buena Vista Social Club",
+    "year": 1997,
+    "yearLabel": "1997",
+    "region": "Cuba",
+    "form": "music",
+    "unit": "unit-9-music",
+    "media": {
+      "type": "video",
+      "id": "tGbRZ73NvlY"
+    },
+    "credit": "Compay Segundo, \"Chan Chan,\" performed by Buena Vista Social Club, 1997. Official video. World Circuit Records (YouTube).",
+    "notice": "The easy Cuban rhythm, with guitar, voices, and percussion each adding a layer.",
+    "prompts": [
+      "How does a relaxed rhythm still keep the music moving?",
+      "What can you tell about the musicians' history from how they play together?"
+    ]
+  },
+  {
+    "id": "nutcracker-flowers",
+    "title": "The Nutcracker: Waltz of the Flowers",
+    "creator": "Pyotr Ilyich Tchaikovsky",
+    "year": 1892,
+    "yearLabel": "1892",
+    "region": "Russia",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "_NWdj8PCdYE"
+    },
+    "credit": "Pyotr Ilyich Tchaikovsky, The Nutcracker, 1892. \"Waltz of the Flowers,\" performed by the Royal Ballet. Marquee TV (YouTube).",
+    "notice": "The waltz rhythm and how the dancers weave flowing patterns as a group, with the principal dancers set against them.",
+    "prompts": [
+      "How do the group's patterns frame the solo dancers?",
+      "How does the dancing match the lilt of the waltz?"
+    ]
+  },
+  {
+    "id": "bharatanatyam-thillana",
+    "title": "Bindumalini Thillana (Bharatanatyam)",
+    "creator": "Bharatanatyam tradition",
+    "year": 1800,
+    "yearLabel": "traditional",
+    "region": "India",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "oR4Sy3yV_4Q"
+    },
+    "undated": true,
+    "credit": "Bindumalini Thillana, Bharatanatyam, a classical dance of South India. IndianRaga (YouTube).",
+    "notice": "Precise hand gestures, sharp footwork, and expressive faces working together to the beat.",
+    "prompts": [
+      "How do the hands and the feet each tell part of the story?",
+      "How much does the dancer's face add to the meaning?"
+    ]
+  },
+  {
+    "id": "kathak-birju-maharaj",
+    "title": "Pandit Birju Maharaj, Kathak",
+    "creator": "Birju Maharaj (Kathak tradition)",
+    "year": 1900,
+    "yearLabel": "traditional",
+    "region": "India",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "paR3REyP8l0"
+    },
+    "undated": true,
+    "credit": "Pandit Birju Maharaj performs Kathak, a classical dance of North India. WildFilmsIndia (YouTube).",
+    "notice": "The rhythmic footwork, ankle bells, and fast spins that echo the patterns of the drums.",
+    "prompts": [
+      "How does the dancer's body answer the rhythm of the drum?",
+      "What happens to the mood when the movement speeds up?"
+    ]
+  },
+  {
+    "id": "flamenco-sara-baras",
+    "title": "Flamenco: Sara Baras",
+    "creator": "Sara Baras (flamenco tradition)",
+    "year": 1900,
+    "yearLabel": "traditional",
+    "region": "Spain",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "Trq0v1OWHRo"
+    },
+    "undated": true,
+    "credit": "Sara Baras performs flamenco at the Premios PLATINO, 2021. Premios PLATINO (YouTube).",
+    "notice": "The stamping footwork, the proud arched posture, and the intensity in the dancer's face and hands.",
+    "prompts": [
+      "How does stamping work as both rhythm and expression?",
+      "What feeling does the dancer's posture show?"
+    ]
+  },
+  {
+    "id": "riverdance",
+    "title": "Riverdance: Reel Around the Sun",
+    "creator": "Bill Whelan (music); Michael Flatley and Jean Butler (original choreography and lead dancers)",
+    "year": 1994,
+    "yearLabel": "1994",
+    "region": "Ireland",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "HHNZuj6U8jo"
+    },
+    "credit": "Bill Whelan, Riverdance, \"Reel Around the Sun,\" 1994. Live from New York City, 1996. Riverdance (YouTube).",
+    "notice": "The still upper bodies above very fast footwork, and long rows of dancers moving in exact unison.",
+    "prompts": [
+      "How does keeping the arms still make the footwork stand out?",
+      "What does dancing in perfect unison suggest, as opposed to dancing alone?"
+    ]
+  },
+  {
+    "id": "haka-ka-mate",
+    "title": "Ka Mate (haka)",
+    "creator": "Attributed to Te Rauparaha",
+    "year": 1820,
+    "yearLabel": "c. 1820",
+    "region": "New Zealand",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "LSdNQ-sbLdY"
+    },
+    "credit": "Ka Mate, a Māori haka attributed to Te Rauparaha, c. 1820, performed by the All Blacks with translation. All Blacks (YouTube).",
+    "notice": "Stamping, chest slaps, wide eyes, and shouted words used together to show strength and defiance.",
+    "prompts": [
+      "How do the body, the voice, and the face combine to carry the meaning?",
+      "What does a group performing in unison show that one performer could not?"
+    ]
+  },
+  {
+    "id": "cheek-to-cheek",
+    "title": "Cheek to Cheek (Top Hat)",
+    "creator": "Fred Astaire and Ginger Rogers",
+    "year": 1935,
+    "yearLabel": "1935",
+    "region": "United States",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "P1u2G16fq_Y"
+    },
+    "credit": "Irving Berlin, \"Cheek to Cheek,\" danced by Fred Astaire and Ginger Rogers in Top Hat, 1935 (restored). Music Video Vault (YouTube).",
+    "notice": "The two dancers move as one, so smoothly that the effort disappears.",
+    "prompts": [
+      "How does the camera, which follows the dancers in long takes, help the effect?",
+      "What does the dance express that the lyrics alone do not?"
+    ]
+  },
+  {
+    "id": "rite-of-spring-bausch",
+    "title": "The Rite of Spring (Pina Bausch)",
+    "creator": "Pina Bausch (choreography); Igor Stravinsky (music)",
+    "year": 1975,
+    "yearLabel": "1975",
+    "region": "Germany",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "j7TahSPdF1E"
+    },
+    "credit": "Pina Bausch, The Rite of Spring (Das Frühlingsopfer), 1975, to Igor Stravinsky's score. Feature on the work's history. Sadler's Wells (YouTube).",
+    "notice": "A crowd of dancers on a stage covered in earth, moving as one body, until one woman is chosen.",
+    "prompts": [
+      "How does dancing on earth instead of a smooth floor change the feeling?",
+      "How does the group seem to act as one character?"
+    ]
+  },
+  {
+    "id": "les-twins",
+    "title": "Les Twins at World of Dance",
+    "creator": "Les Twins (Larry and Laurent Bourgeois)",
+    "year": 2014,
+    "yearLabel": "2014",
+    "region": "France",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "3GNG12g2bKw"
+    },
+    "credit": "Les Twins, front-row performance at World of Dance, 2014. Official World of Dance (YouTube).",
+    "notice": "The speed, the sharp isolations of the body, and two dancers who mirror each other.",
+    "prompts": [
+      "How does mirroring make two bodies read as one idea?",
+      "How do sudden stops and starts shape the rhythm you see?"
+    ]
+  },
+  {
+    "id": "white-nights-dance",
+    "title": "White Nights: Baryshnikov and Hines",
+    "creator": "Mikhail Baryshnikov and Gregory Hines",
+    "year": 1985,
+    "yearLabel": "1985",
+    "region": "United States",
+    "form": "dance",
+    "unit": "unit-10-dance",
+    "media": {
+      "type": "video",
+      "id": "ImzkWZkaIIM"
+    },
+    "credit": "Mikhail Baryshnikov and Gregory Hines, dance sequence from White Nights, 1985. Natasha K (YouTube).",
+    "notice": "A ballet-trained dancer and a tap dancer share the screen, each style showing through the other's steps.",
+    "prompts": [
+      "What is different about how each dancer uses the floor?",
+      "How do two very different styles find common ground?"
+    ]
+  },
+  {
+    "id": "modern-times",
+    "title": "Modern Times: the factory",
+    "creator": "Charlie Chaplin",
+    "year": 1936,
+    "yearLabel": "1936",
+    "region": "United States",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "6n9ESFJTnHs"
+    },
+    "credit": "Charlie Chaplin, Modern Times, 1936. Factory scene. Official Charlie Chaplin channel (YouTube).",
+    "notice": "How the Tramp's body is caught up in the rhythm of the assembly line, so a comedy gag becomes a comment on machines and work.",
+    "prompts": [
+      "What is the film saying about factory work, and how does it say it without speech?",
+      "Why is physical comedy a good way to criticize a system?"
+    ]
+  },
+  {
+    "id": "seven-samurai",
+    "title": "Seven Samurai (trailer)",
+    "creator": "Akira Kurosawa",
+    "year": 1954,
+    "yearLabel": "1954",
+    "region": "Japan",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "RsRN65PlaIM"
+    },
+    "credit": "Akira Kurosawa, Seven Samurai, 1954. Trailer for the 4K restoration. BFI (YouTube).",
+    "notice": "The composition of large groups in motion, such as villagers, bandits, and horsemen, and how the weather adds to the action.",
+    "prompts": [
+      "How does the film let you tell one character from another in a crowd?",
+      "What does rain or mud add to a battle scene?"
+    ]
+  },
+  {
+    "id": "rashomon",
+    "title": "Rashomon (trailer)",
+    "creator": "Akira Kurosawa",
+    "year": 1950,
+    "yearLabel": "1950",
+    "region": "Japan",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "xCZ9TguVOIA"
+    },
+    "credit": "Akira Kurosawa, Rashomon, 1950. Trailer. JANUS (YouTube).",
+    "notice": "The same event is told by several witnesses, and each version makes the teller look better.",
+    "prompts": [
+      "Why might an honest person tell a different story from another honest person?",
+      "How does a film show a version of events that may not be true?"
+    ]
+  },
+  {
+    "id": "spirited-away",
+    "title": "Spirited Away (trailer)",
+    "creator": "Hayao Miyazaki",
+    "year": 2001,
+    "yearLabel": "2001",
+    "region": "Japan",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "fDUFP7EeXLE"
+    },
+    "credit": "Hayao Miyazaki, Spirited Away, 2001. English trailer. GKIDS Films (YouTube).",
+    "notice": "A bathhouse full of spirits drawn with great detail, where a child must work to earn her way back home.",
+    "prompts": [
+      "What does the animation show that live action could not easily do?",
+      "How do the odd spirits make the real world look different?"
+    ]
+  },
+  {
+    "id": "psycho-shower",
+    "title": "Psycho: the shower scene",
+    "creator": "Alfred Hitchcock",
+    "year": 1960,
+    "yearLabel": "1960",
+    "region": "United States",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "BYnPGS9Ev8w"
+    },
+    "credit": "Alfred Hitchcock, Psycho, 1960. The shower scene. Universal Pictures (YouTube).",
+    "notice": "How very short shots joined by quick cuts, together with the shrieking strings, suggest more than the film actually shows.",
+    "prompts": [
+      "How much do you actually see, compared with how much you feel you saw?",
+      "What does the music do that the images alone could not?"
+    ]
+  },
+  {
+    "id": "do-the-right-thing",
+    "title": "Do the Right Thing (restored trailer)",
+    "creator": "Spike Lee",
+    "year": 1989,
+    "yearLabel": "1989",
+    "region": "United States",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "yVAD4fYRcvA"
+    },
+    "credit": "Spike Lee, Do the Right Thing, 1989. Restored trailer. Coolidge Corner Theatre (YouTube).",
+    "notice": "A single hot day on one Brooklyn block, where bright colors and lively music sit beside rising tension.",
+    "prompts": [
+      "How do color and heat shape the mood of a neighborhood?",
+      "What does a story set on one block let a film say about a whole city?"
+    ]
+  },
+  {
+    "id": "man-with-a-movie-camera",
+    "title": "Man with a Movie Camera (trailer)",
+    "creator": "Dziga Vertov",
+    "year": 1929,
+    "yearLabel": "1929",
+    "region": "Ukraine",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "BtTlgxtoqhg"
+    },
+    "credit": "Dziga Vertov, Man with a Movie Camera, 1929. Trailer for the 2014 restoration. BFI (YouTube).",
+    "notice": "Double exposures, split screens, and fast cutting that show the film as a thing made by a camera and an editor.",
+    "prompts": [
+      "Why would a film show you its own camera and editing?",
+      "How does city life look different when it is cut together at speed?"
+    ]
+  },
+  {
+    "id": "bicycle-thieves",
+    "title": "Bicycle Thieves (trailer)",
+    "creator": "Vittorio De Sica",
+    "year": 1948,
+    "yearLabel": "1948",
+    "region": "Italy",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "Ax6eL_Rfv9g"
+    },
+    "credit": "Vittorio De Sica, Bicycle Thieves (Ladri di biciclette), 1948. Official trailer. Arrow Academy (YouTube).",
+    "notice": "Real streets of postwar Rome and ordinary people as actors, so the search for one stolen bicycle feels like a public matter.",
+    "prompts": [
+      "Why does so small a loss feel so serious in this story?",
+      "How does shooting on real streets change what a film feels like?"
+    ]
+  },
+  {
+    "id": "in-the-mood-for-love",
+    "title": "In the Mood for Love (trailer)",
+    "creator": "Wong Kar-wai",
+    "year": 2000,
+    "yearLabel": "2000",
+    "region": "China",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "m8GuedsQnWQ"
+    },
+    "credit": "Wong Kar-wai, In the Mood for Love, 2000. Trailer for the 20th Anniversary Restoration. MUBI (YouTube).",
+    "notice": "Narrow hallways and doorways, rich color, and a slow waltz that make restraint itself feel romantic.",
+    "prompts": [
+      "How do tight spaces and framed doorways express what the characters cannot say?",
+      "What do color and repeated music do to your sense of time?"
+    ]
+  },
+  {
+    "id": "pans-labyrinth",
+    "title": "Pan's Labyrinth (trailer)",
+    "creator": "Guillermo del Toro",
+    "year": 2006,
+    "yearLabel": "2006",
+    "region": "Spain",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "jVZRnnVSQ8k"
+    },
+    "credit": "Guillermo del Toro, Pan's Labyrinth (El laberinto del fauno), 2006. Official trailer. StudiocanalUK (YouTube).",
+    "notice": "A fairy-tale world woven into the real violence of 1944 Spain, so that fantasy and history comment on each other.",
+    "prompts": [
+      "Is the fantasy an escape from the real world or a way of understanding it?",
+      "How do the colors of the two worlds differ?"
+    ]
+  },
+  {
+    "id": "ever-is-over-all",
+    "title": "Ever Is Over All",
+    "creator": "Pipilotti Rist",
+    "year": 1997,
+    "yearLabel": "1997",
+    "region": "Switzerland",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "a56RPZ_cbdc"
+    },
+    "credit": "Pipilotti Rist, Ever Is Over All, 1997, video installation. Documentation uploaded by vobk (YouTube).",
+    "notice": "A woman strides down a street smashing car windows with a flower, as a second image of flowers glows beside her.",
+    "prompts": [
+      "Why would the artist pair violence with a flower and such a happy smile?",
+      "How would it feel to see this projected on a huge wall instead of a small screen?"
+    ]
+  },
+  {
+    "id": "semiotics-of-the-kitchen",
+    "title": "Semiotics of the Kitchen",
+    "creator": "Martha Rosler",
+    "year": 1975,
+    "yearLabel": "1975",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "AmZyT1lsvTU"
+    },
+    "credit": "Martha Rosler, Semiotics of the Kitchen, 1975, video. Uploaded by Public Delivery (YouTube).",
+    "notice": "A woman recites kitchen tools in alphabetical order like a cooking show, but her gestures turn them into signs of frustration.",
+    "prompts": [
+      "How does imitating a TV cooking show become a way of criticizing it?",
+      "What is the performer saying with her tools that she does not say with words?"
+    ]
+  },
+  {
+    "id": "media-burn",
+    "title": "Media Burn",
+    "creator": "Ant Farm (Chip Lord, Doug Michels, Curtis Schreier)",
+    "year": 1975,
+    "yearLabel": "1975",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "ieVwRqUxVI8"
+    },
+    "credit": "Ant Farm, Media Burn, 1975. Excerpt from the video of the performance. Media Burn Archive (YouTube).",
+    "notice": "A customized car drives through a wall of burning television sets while a crowd and news cameras watch.",
+    "prompts": [
+      "What is being destroyed here, and who is being warned?",
+      "How does the artwork use the news media it is criticizing?"
+    ]
+  },
+  {
+    "id": "technology-transformation-wonder-woman",
+    "title": "Technology/Transformation: Wonder Woman",
+    "creator": "Dara Birnbaum",
+    "year": 1978,
+    "yearLabel": "1978",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "M6plSiogdDM"
+    },
+    "credit": "Dara Birnbaum, Technology/Transformation: Wonder Woman, 1978, video, made from television footage. Uploaded by This Is Not a Dream (YouTube).",
+    "notice": "Short clips of the television superhero's spinning transformation repeated until the cartoon becomes a ritual.",
+    "prompts": [
+      "What changes when a few seconds of TV are repeated again and again?",
+      "What does the repetition say about the way TV shows women?"
+    ]
+  },
+  {
+    "id": "o-superman",
+    "title": "O Superman (For Massenet)",
+    "creator": "Laurie Anderson",
+    "year": 1981,
+    "yearLabel": "1981",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "Vkfpi2H8tOE"
+    },
+    "credit": "Laurie Anderson, \"O Superman (For Massenet),\" 1981. Official video. Nonesuch Records (YouTube).",
+    "notice": "A voice altered by a vocoder, a looped syllable, and hand shadows that turn a phone message into a meditation on technology.",
+    "prompts": [
+      "How does hearing a voice changed by a machine alter its meaning?",
+      "Is this a song, a video, or a performance? Does the label matter?"
+    ]
+  },
+  {
+    "id": "twilight-zone-eye-of-the-beholder",
+    "title": "The Twilight Zone: Eye of the Beholder",
+    "creator": "Rod Serling (creator); episode directed by Douglas Heyes",
+    "year": 1960,
+    "yearLabel": "1960",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "4WdtAj8jYMM"
+    },
+    "credit": "The Twilight Zone, \"Eye of the Beholder,\" 1960. Scene from the classic episode. The Twilight Zone, official channel (YouTube).",
+    "notice": "The camera hides the faces until the final reveal, and the shadows and angles do the storytelling.",
+    "prompts": [
+      "What does the camera refuse to show you, and why?",
+      "What is the episode saying about beauty and conformity?"
+    ]
+  },
+  {
+    "id": "french-chef-omelette",
+    "title": "The French Chef: French Omelette",
+    "creator": "Julia Child",
+    "year": 1963,
+    "yearLabel": "1963",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "N40qglGNRlA"
+    },
+    "credit": "Julia Child, The French Chef, Season 1, 1963. \"French Omelette.\" Julia Child on PBS (YouTube).",
+    "notice": "A live-to-tape cooking lesson, where mistakes are kept in and the host's warmth makes technique feel approachable.",
+    "prompts": [
+      "How does letting mistakes show change your trust in the teacher?",
+      "Is a cooking show an art form? What makes it one, or not?"
+    ]
+  },
+  {
+    "id": "joy-of-painting",
+    "title": "The Joy of Painting: Covered Bridge",
+    "creator": "Bob Ross",
+    "year": 1983,
+    "yearLabel": "series 1983–1994",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "OHSm8kLE7js"
+    },
+    "credit": "Bob Ross, The Joy of Painting, series 1983–1994. Season 3, Episode 6, \"Covered Bridge.\" Official Bob Ross channel (YouTube).",
+    "notice": "A whole landscape painted in half an hour, in a calm voice that turns a mistake into a \"happy accident.\"",
+    "prompts": [
+      "What makes this calm teaching style so absorbing to watch?",
+      "Is the show about the painting, the painter, or the viewer's mood?"
+    ]
+  },
+  {
+    "id": "sesame-street-making-crayons",
+    "title": "Sesame Street: Making Crayons",
+    "creator": "Children's Television Workshop (now Sesame Workshop)",
+    "year": 1969,
+    "yearLabel": "series from 1969",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "ZQ_MEFVx5jM"
+    },
+    "credit": "Sesame Street, series premiered 1969. \"Making Crayons\" segment. Sesame Street (YouTube).",
+    "notice": "A factory film set to music, which turns how a product is made into a small, rhythmic piece of art.",
+    "prompts": [
+      "How do the rhythm and the editing keep a young viewer watching?",
+      "What do you learn here by watching rather than being told?"
+    ]
+  },
+  {
+    "id": "cosmos-spacetime-odyssey",
+    "title": "Cosmos: A Spacetime Odyssey (preview)",
+    "creator": "Neil deGrasse Tyson, Ann Druyan, Brannon Braga",
+    "year": 2014,
+    "yearLabel": "2014",
+    "region": "United States",
+    "form": "television and video art",
+    "unit": "unit-13-television-and-video-art",
+    "media": {
+      "type": "video",
+      "id": "Fm4UV5_HsPA"
+    },
+    "credit": "Cosmos: A Spacetime Odyssey, 2014. Preview. National Geographic (YouTube).",
+    "notice": "How animation, music, and a narrator's voice are used to make the size of the universe something you can feel.",
+    "prompts": [
+      "How can a science show also be a work of art?",
+      "What do the visuals do that a narrator's words alone could not?"
+    ]
+  },
+  {
+    "id": "arrival-of-a-train",
+    "title": "Arrival of a Train at La Ciotat",
+    "creator": "Auguste and Louis Lumière",
+    "year": 1896,
+    "yearLabel": "1895–1896",
+    "region": "France",
+    "form": "cinema",
+    "unit": "unit-12-cinema",
+    "media": {
+      "type": "video",
+      "id": "1FAj9fJQRZA"
+    },
+    "credit": "Auguste and Louis Lumière, Arrival of a Train at La Ciotat (L'Arrivée d'un train en gare de La Ciotat), filmed 1895, first shown 1896. 4K scan uploaded by Andy Myers (YouTube).",
+    "notice": "A single fixed shot of a train pulling in, with people crossing the frame, in a film under a minute long.",
+    "prompts": [
+      "Why would a train coming toward the camera have startled early audiences?",
+      "What does this one-shot film already do that later films would build on?"
+    ]
+  }
+]

@@ -21,3 +21,7 @@ Live checks owed on the developer's machine. Remove an item once confirmed.
 ## HUMA 1301 third-party clips and credits (added 2026-10-11)
 - How: skim docs/huma1301-media.md and the Watch & Listen strips in Units 8-13
 - Expect: you are comfortable with the clips that come from private uploaders (Beethoven, Strange Fruit, Ravi Shankar, Graham, Bausch, Citizen Kane opening, Odessa Steps, Viola, Paik) and with the credit lines on modern copyrighted works
+
+## Art Randomizer notices and clips (added 2026-10-12)
+- How: spin a few dozen times; read the notice and "Try this" prompts; skim docs/artrandomizer-media.md for the clips and images
+- Expect: the descriptions are accurate to what you know of each work (clips were not watched by Claude), and you are comfortable with the third-party clips and the credits

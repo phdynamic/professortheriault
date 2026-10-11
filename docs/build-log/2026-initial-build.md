@@ -52,3 +52,11 @@
 - final review fixes: theme button contrast, lesson word floor, credits, stray essay wording (663a5da)
 - squash-merged to main (9fe9168) and deployed; live checks: course pages, homepage card, PHIL 1301/2306, /comments/ 404 all as expected
 - live-tested: yes (curl)
+
+## 2026-10-12 — Art Randomizer
+- designed and built a standalone page: pure `artrandomizer/logic.js` (UMD, 20 Node tests), CSS-transition spin over 24 "?" cards landing on index 20, `localStorage` history (50 entries, newest first, every access in try/catch)
+- pool grew from the course's gallery works to 161 works across ten art forms, in batches; each batch was shown to the developer for approval before download or embedding (docs/artrandomizer-media.md logs every source and license)
+- found by viewing images: several draft descriptions were wrong (Benin plaque, Atget, Cameron, O'Sullivan, Genji, Beowulf, Chaucer) and one Shahnameh file was a blank folio; all corrected before merge
+- added `undated: true` for living traditions so they never get a century question
+- homepage card added after the EthicsLens card
+- live-tested: local only; not yet merged

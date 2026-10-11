@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Art Randomizer | Professor Theriault</title>
+  <meta name="description" content="Spin the wheel, land on a work of art, guess its art form, century, or culture, then explore it in the Humanities course.">
+  <link rel="stylesheet" href="randomizer.css">
+</head>
+<body>
+  <header class="top">
+    <a href="/" class="top__home">Professor Theriault</a>
+    <a href="/huma1301/" class="top__course">Humanities course</a>
+  </header>
+
+  <main class="page">
+    <h1>Art Randomizer</h1>
+    <p class="lede">Press <strong>Randomize</strong> and the wheel will land on one work of art. Guess a detail about it, then see the answer and a few questions to look closer. Nothing is scored.</p>
+
+    <noscript><p class="notice">This page needs JavaScript. You can still <a href="/huma1301/">explore the Humanities course</a>.</p></noscript>
+
+    <section class="wheel" aria-label="Wheel">
+      <div class="wheel__window" id="wheel-window">
+        <div class="wheel__pointer" aria-hidden="true"></div>
+        <div class="wheel__track" id="wheel-track" aria-hidden="true"></div>
+      </div>
+      <button type="button" class="btn" id="randomize">Randomize</button>
+      <p class="sr-only" id="status" role="status" aria-live="polite"></p>
+    </section>
+
+    <section class="work" id="work" hidden aria-label="Your work of art">
+      <div class="work__media" id="work-media"></div>
+      <div class="quiz" id="quiz">
+        <h2 id="quiz-text" tabindex="-1"></h2>
+        <ul class="quiz__options" id="quiz-options"></ul>
+      </div>
+      <div class="reveal" id="reveal" hidden>
+        <p class="reveal__verdict" id="reveal-verdict"></p>
+        <h2 class="reveal__title" id="reveal-title" tabindex="-1"></h2>
+        <p class="reveal__meta" id="reveal-meta"></p>
+        <p class="reveal__credit" id="reveal-credit"></p>
+        <p class="reveal__notice"><strong>What to notice:</strong> <span id="reveal-notice"></span></p>
+        <h3>Try this</h3>
+        <ul id="reveal-prompts"></ul>
+        <p><a class="link" id="reveal-unit" href="/huma1301/">Explore this in the Humanities course</a></p>
+      </div>
+    </section>
+
+    <section class="history" aria-label="History">
+      <div class="history__bar">
+        <h2>History</h2>
+        <button type="button" class="btn btn--small" id="clear-history">Clear history</button>
+      </div>
+      <p class="history__empty" id="history-empty">Works you land on will appear here so you can come back to them.</p>
+      <ul class="history__list" id="history-list"></ul>
+    </section>
+  </main>
+
+  <script src="logic.js"></script>
+  <script src="randomizer.js"></script>
+</body>
+</html>

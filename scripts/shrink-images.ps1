@@ -1,9 +1,9 @@
 # Shrinks large JPEG/PNG images under huma1301/assets/images to at most 1600 px on the long side
 # (JPEG quality 85) so pages load quickly and files stay small enough for git.
 # Usage: powershell -ExecutionPolicy Bypass -File scripts/shrink-images.ps1 [-MinKB 700]
-param([int]$MinKB = 700, [int]$MaxSide = 1600)
+param([int]$MinKB = 700, [int]$MaxSide = 1600, [string]$Dir = "huma1301\assets\images")
 Add-Type -AssemblyName System.Drawing
-$dir = Join-Path (Split-Path $PSScriptRoot -Parent) "huma1301\assets\images"
+$dir = Join-Path (Split-Path $PSScriptRoot -Parent) $Dir
 $codec = [System.Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq "image/jpeg" }
 $params = New-Object System.Drawing.Imaging.EncoderParameters(1)
 $params.Param[0] = New-Object System.Drawing.Imaging.EncoderParameter([System.Drawing.Imaging.Encoder]::Quality, 85L)
