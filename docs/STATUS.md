@@ -12,9 +12,9 @@
 - Phone overflow checked at 390/920/1280px (2026-10-11)
 - Quiz grading/Start Over checked in browser (2026-10-11)
 - Removed PHIL 2306 remnant pages return 404 live (2026-10-11)
+- HTTPS live with valid certificate; http and www redirect to https://professortheriault.com (2026-10-11)
 
 ## Not done / not verified
-- HTTPS on Netlify: certificate still provisioning 2026-10-11
 - PHIL 2306 quiz feedback (60 correct/incorrect pairs) written by Claude; not reviewed by instructor
 - Introduction to Humanities: export present (`6271-huma-1301-…imscc`), not started
 - Older `scripts/` hardcode phil1301 paths; `scripts/convert-ethics.js` not safely re-runnable (manual edits followed it)

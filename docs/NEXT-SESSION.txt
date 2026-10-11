@@ -1,10 +1,9 @@
-NEXT SESSION — updated 2026-10-11
+NEXT SESSION — updated 2026-10-11 (end of session)
 
 Left off:
-- docs/ structure set up per comments.md; history and decisions backfilled.
-- Site moved to Netlify today; HTTPS certificate was still provisioning.
+- docs/ set up per comments.md; history and decisions backfilled and reviewed.
+- Site on Netlify with HTTPS working.
 
 Next:
-- Confirm HTTPS works, then developer turns on Force HTTPS in Netlify.
-- Developer to remove the custom domain in GitHub repo Settings > Pages.
-- Open live checks: see TESTING-OWED.md.
+- Developer to remove the custom domain in GitHub repo Settings > Pages (GitHub no longer serves the site).
+- No feature work in progress. Open live checks: see TESTING-OWED.md.

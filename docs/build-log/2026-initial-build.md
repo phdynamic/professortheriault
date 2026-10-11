@@ -27,3 +27,8 @@
 - comments.md excluded from the Eleventy build (otherwise publishable at /comments/)
 - NEXT-SESSION.txt updated at the end of every session (developer)
 - live-tested: build only
+
+## 2026-10-11 — HTTPS live; comments.md briefly public
+- Netlify certificate issued; Force HTTPS on; www redirects to bare domain
+- comments.md uploaded via GitHub web (a09f486) was published at /comments/ until a282547 deployed; now 404
+- live-tested: yes (curl)

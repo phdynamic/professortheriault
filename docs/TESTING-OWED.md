@@ -2,10 +2,6 @@
 
 Live checks owed on the developer's machine. Remove an item once confirmed.
 
-## HTTPS on Netlify (added 2026-10-11)
-- How: open https://professortheriault.com and https://www.professortheriault.com
-- Expect: padlock, no warning; www redirects to the bare domain. If still failing after ~24h: Netlify > Domain management > HTTPS > Verify DNS configuration > Provision certificate.
-
 ## Netlify button hidden from visitors (added 2026-10-11)
 - How: open professortheriault.com in a private window
 - Expect: no Netlify button in the lower right (it should appear only when signed in to Netlify)
