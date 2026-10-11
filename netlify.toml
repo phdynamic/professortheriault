@@ -1,0 +1,7 @@
+# Netlify build settings: rebuilds the site on every push to main.
+[build]
+  command = "npx @11ty/eleventy"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "22"
