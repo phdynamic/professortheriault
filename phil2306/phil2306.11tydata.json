@@ -65,6 +65,14 @@
           {
             "slug": "nicomachean-ethics-book-iii",
             "title": "Nicomachean Ethics, Book III"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz"
           }
         ]
       },
@@ -105,6 +113,14 @@
           {
             "slug": "the-cardinal-virtues-fortitude",
             "title": "The Cardinal Virtues: Fortitude"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz"
           }
         ]
       },
@@ -133,6 +149,14 @@
           {
             "slug": "freedom-and-autonomy",
             "title": "Freedom and Autonomy"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz"
           }
         ]
       },
@@ -161,6 +185,14 @@
           {
             "slug": "justice-and-utility",
             "title": "Justice and Utility"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz"
           }
         ]
       },
@@ -189,6 +221,14 @@
           {
             "slug": "master-morality-slave-morality-and-the-revaluation-of-values",
             "title": "Master Morality, Slave Morality, and the Revaluation of Values"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz"
           }
         ]
       },
@@ -213,6 +253,14 @@
           {
             "slug": "authentic-and-inauthentic-freedom",
             "title": "Authentic and Inauthentic Freedom"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz"
           }
         ]
       },
