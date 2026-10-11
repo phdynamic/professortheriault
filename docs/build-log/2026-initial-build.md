@@ -32,3 +32,18 @@
 - Netlify certificate issued; Force HTTPS on; www redirects to bare domain
 - comments.md uploaded via GitHub web (a09f486) was published at /comments/ until a282547 deployed; now 404
 - live-tested: yes (curl)
+
+## 2026-10-11 — HUMA 1301 Units 1-3 (branch humanities-course)
+- theme (body class theme-gallery, generated CSS), Gallery / Watch & Listen component, Experience It callout
+- converter + 13-unit skeleton from the Canvas export; check script; 5 Start Here pages
+- Units 1-3: textbook wording removed, galleries (6/6/5 works), Experience It, Further Exploration, reflections, 10-question quizzes with feedback, Critic's Practice (Last Supper)
+- images: 6 hotlinked/new Commons works downloaded after developer approval; oversized export images shrunk (142 MB -> 6 MB)
+- feedback for all quiz answers written by Claude; instructor review pending
+- live-tested: preview (gallery, quiz, phone width); not merged
+
+## 2026-10-11 — HUMA 1301 complete (branch humanities-course)
+- Units 4-13 built: lessons expanded where thin (Units 5, 6, 7, 8, 9, 10, 11, 12, 13), galleries or Watch & Listen strips (5-7 works each), Experience It, Further Exploration, reflections, 10-question quizzes with feedback, Critic's Practice for Units 3, 7, 11
+- Final Paper added; quiz answers shuffled across A-D; homepage card linked on the branch
+- media: 36 new Commons images downloaded after developer approval; 40 YouTube clips verified embeddable; export errors fixed (Adams photo mislabeled Moonrise, hotlinked images localized, stray tags removed from alt/title)
+- check script passes for the whole course; clean build 161 pages, 0 broken links; PHIL 1301/2306 unchanged
+- unverified: instructor review of Claude-written feedback; Smarthistory deep links (bot-blocked); not merged to main

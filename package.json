@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
-    "convert": "node scripts/convert-imscc.js"
+    "convert": "node scripts/convert-imscc.js",
+    "convert:huma": "node scripts/convert-huma.js"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"

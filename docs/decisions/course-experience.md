@@ -34,3 +34,8 @@
 - What: deterministic shuffle (`scripts/shuffle-quiz-answers.js`); each letter correct 2–3 times per quiz, never 3 in a row; True/False kept in order.
 - Why: answers clustered on B, so always picking B scored well.
 - Source: 91ec99f
+
+## HUMA 1301: 13 units, Gallery first, Experience It — 2026-10-11 — `active`
+- What: one unit per art form; each lesson opens with a Gallery (or Watch & Listen) and ends with an Experience It activity; warm burgundy/gold/cream theme.
+- Why: source: developer choices 2026-10-11 (spec: docs/superpowers/specs/2026-10-11-humanities-course-design.md)
+- Source: scripts/make-theme.js, course-assets/js/gallery.js

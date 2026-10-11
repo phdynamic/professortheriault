@@ -7,7 +7,7 @@
   <meta name="description" content="{{ description or course.title }}">
   <link rel="stylesheet" href="/course-assets/css/styles.css">
 </head>
-<body>
+<body{% if course.theme %} class="theme-{{ course.theme }}"{% endif %}>
 
   <nav class="top-nav">
     <a href="/" class="top-nav__home">Professor Theriault</a>
@@ -75,5 +75,6 @@
   <script src="/course-assets/js/nav.js"></script>
   <script src="/course-assets/js/accordion.js"></script>
   <script src="/course-assets/js/quiz.js"></script>
+  <script src="/course-assets/js/gallery.js"></script>
 </body>
 </html>

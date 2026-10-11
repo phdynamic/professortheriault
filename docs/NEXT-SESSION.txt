@@ -1,9 +1,10 @@
 NEXT SESSION — updated 2026-10-11 (end of session)
 
 Left off:
-- docs/ set up per comments.md; history and decisions backfilled and reviewed.
-- Site on Netlify with HTTPS working.
+- HUMA 1301 Introduction to the Humanities is built on branch humanities-course (not pushed, not merged).
+- Final whole-branch review done by a fresh reviewer; its Important findings were fixed (invisible button text under the theme, word floor, credits, stray essay wording). Rulings and deferred minors are in the session's final message.
 
 Next:
-- Developer to remove the custom domain in GitHub repo Settings > Pages (GitHub no longer serves the site).
-- No feature work in progress. Open live checks: see TESTING-OWED.md.
+- Developer reviews the course (preview: npx @11ty/eleventy --serve, then /huma1301/) and TESTING-OWED.md items.
+- After approval: SQUASH-merge humanities-course into main (git merge --squash). The branch history contains ~140 MB of raw export images (Task 2 commit) AND the publisher's question bank scripts/huma-banks.json (commit 83c6376, removed in 9f4c1a1). Never push or merge the branch history; use git merge --squash, or squash the branch into one commit first. Keep .claude/settings.local.json unstaged. Then push, wait for Netlify, verify https://professortheriault.com/huma1301/ and the homepage card.
+- Developer: remove the custom domain in GitHub repo Settings > Pages.

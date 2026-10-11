@@ -26,7 +26,8 @@
 - Each course is a folder `<slug>/` with `<slug>.11tydata.json` (course title, modules, page lists → sidebar and landing page). Page front matter: `layout`, `title`, `module`, `breadcrumbTitle`, `position`.
 - Shared layouts `_includes/layouts/{base,page,unit,course-home}.njk`; shared assets `/course-assets/{css,js}`.
 - `.eleventy.js`: `modulePages` filter (prev/next and unit TOC, sorted by `position`); `wrapTables` transform (tables scroll on phones).
-- Courses: `phil1301/` Introduction to Philosophy, `phil2306/` Introduction to Ethics.
+- Courses: `phil1301/` Introduction to Philosophy, `phil2306/` Introduction to Ethics, `huma1301/` Introduction to the Humanities (branch humanities-course until merged).
+- `huma1301.11tydata.json` sets `theme: "gallery"`, which puts class `theme-gallery` on `<body>`; `scripts/make-theme.js` regenerates the matching CSS block. Gallery / Watch & Listen is `course-assets/js/gallery.js`. HUMA 1301 pages are authored directly in `huma1301/**/*.njk`; quizzes and reflections are built from `scripts/huma-content/unit-NN.js` by `scripts/build-huma-interactives.js` (run before `scripts/shuffle-quiz-answers.js`). `node scripts/check-huma.js` enforces the course rules.
 - Hosting: Netlify, builds on push to `main` (`netlify.toml`, Node 22). DNS at GoDaddy.
 
 ## Working rules (set by developer)

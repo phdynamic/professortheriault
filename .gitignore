@@ -3,3 +3,4 @@
 _site/
 node_modules/
 *.zip
+scripts/huma-banks.json

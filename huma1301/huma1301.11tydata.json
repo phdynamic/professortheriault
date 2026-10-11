@@ -1,0 +1,374 @@
+{
+  "course": {
+    "slug": "huma1301",
+    "title": "HUMA 1301: Introduction to the Humanities",
+    "shortTitle": "HUMA 1301",
+    "theme": "gallery",
+    "modules": [
+      {
+        "slug": "start-here",
+        "title": "Start Here",
+        "icon": "&#128218;",
+        "description": "Course orientation, your instructor, and how the Gallery and Experience It activities work.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Getting Started"
+          },
+          {
+            "slug": "meet-your-instructor",
+            "title": "Meet Your Instructor"
+          },
+          {
+            "slug": "assessments",
+            "title": "Assessments"
+          },
+          {
+            "slug": "how-this-course-works",
+            "title": "How This Course Works"
+          },
+          {
+            "slug": "website-orientation",
+            "title": "Website Orientation Activity"
+          }
+        ]
+      },
+      {
+        "slug": "unit-1-the-humanities",
+        "title": "Unit 1: The Humanities: An Introduction",
+        "icon": "&#127757;",
+        "description": "What the humanities are, why they matter, and how art expresses human values.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 1: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: The Humanities: An Introduction"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: The Humanities: An Introduction"
+          }
+        ]
+      },
+      {
+        "slug": "unit-2-what-is-a-work-of-art",
+        "title": "Unit 2: What Is a Work of Art?",
+        "icon": "&#128444;&#65039;",
+        "description": "Subject matter, content, form, and what makes something art.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 2: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: What Is a Work of Art?"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: What Is a Work of Art?"
+          }
+        ]
+      },
+      {
+        "slug": "unit-3-being-a-critic",
+        "title": "Unit 3: Being a Critic of the Arts",
+        "icon": "&#128269;",
+        "description": "Describe, interpret, and evaluate: the tools of the critic.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 3: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Being a Critic of the Arts"
+          },
+          {
+            "slug": "critics-practice",
+            "title": "Critic's Practice: The Last Supper"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Being a Critic of the Arts"
+          }
+        ]
+      },
+      {
+        "slug": "unit-4-painting",
+        "title": "Unit 4: Painting",
+        "icon": "&#127912;",
+        "description": "Line, color, texture, and composition in the art of the canvas.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 4: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Painting"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Painting"
+          }
+        ]
+      },
+      {
+        "slug": "unit-5-sculpture",
+        "title": "Unit 5: Sculpture",
+        "icon": "&#128511;",
+        "description": "Form in three dimensions, from carving to installation.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 5: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Sculpture"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Sculpture"
+          }
+        ]
+      },
+      {
+        "slug": "unit-6-architecture",
+        "title": "Unit 6: Architecture",
+        "icon": "&#127963;&#65039;",
+        "description": "How buildings shape space and express the values of a culture.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 6: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Architecture"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Architecture"
+          }
+        ]
+      },
+      {
+        "slug": "unit-7-literature",
+        "title": "Unit 7: Literature",
+        "icon": "&#128214;",
+        "description": "Story, poem, and drama as art made of words.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 7: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Literature"
+          },
+          {
+            "slug": "critics-practice",
+            "title": "Critic's Practice: A Noiseless Patient Spider"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Literature"
+          }
+        ]
+      },
+      {
+        "slug": "unit-8-theater",
+        "title": "Unit 8: Theater",
+        "icon": "&#127917;",
+        "description": "Live performance and what drama shows about being human.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 8: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Theater"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Theater"
+          }
+        ]
+      },
+      {
+        "slug": "unit-9-music",
+        "title": "Unit 9: Music",
+        "icon": "&#127925;",
+        "description": "Sound organized in time: rhythm, melody, harmony, and form.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 9: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Music"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Music"
+          }
+        ]
+      },
+      {
+        "slug": "unit-10-dance",
+        "title": "Unit 10: Dance",
+        "icon": "&#128131;",
+        "description": "The body in motion, from ballet to modern dance.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 10: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Dance"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Dance"
+          }
+        ]
+      },
+      {
+        "slug": "unit-11-photography",
+        "title": "Unit 11: Photography",
+        "icon": "&#128247;",
+        "description": "Light, framing, and the power of the captured moment.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 11: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Photography"
+          },
+          {
+            "slug": "critics-practice",
+            "title": "Critic's Practice: Paula"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Photography"
+          }
+        ]
+      },
+      {
+        "slug": "unit-12-cinema",
+        "title": "Unit 12: Cinema",
+        "icon": "&#127910;",
+        "description": "Moving images, editing, and the language of film.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 12: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Cinema"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Cinema"
+          }
+        ]
+      },
+      {
+        "slug": "unit-13-television-and-video-art",
+        "title": "Unit 13: Television and Video Art",
+        "icon": "&#128250;",
+        "description": "Broadcast, screen, and video as an art medium.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Unit 13: Overview"
+          },
+          {
+            "slug": "lesson",
+            "title": "Lesson: Television and Video Art"
+          },
+          {
+            "slug": "reflection-prompt",
+            "title": "Reflection Prompt"
+          },
+          {
+            "slug": "quiz",
+            "title": "Quiz: Television and Video Art"
+          }
+        ]
+      },
+      {
+        "slug": "final-paper",
+        "title": "Final Paper",
+        "icon": "&#128196;",
+        "description": "Your final project: a critical analysis of a work of art.",
+        "pages": [
+          {
+            "slug": "index",
+            "title": "Final Paper"
+          }
+        ]
+      }
+    ]
+  }
+}

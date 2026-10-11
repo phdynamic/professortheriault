@@ -1,0 +1,32 @@
+exports.FINAL_PAPER = `<p>Your final assignment is a critical analysis of one work of art from this course.</p>
+
+<h2>Instructions</h2>
+
+<p>Choose one work from any unit (a painting, a building, a poem, a film, a piece of music, a dance, a photograph, anything we have looked at or listened to) and write a critical analysis of it using the three steps from Unit 3: <strong>describe</strong> it, <strong>interpret</strong> it, and <strong>evaluate</strong> it.</p>
+
+<h3>Requirements</h3>
+<ul>
+<li>Minimum three pages, double-spaced, MLA format</li>
+<li>Name the work, its creator, and its date, and say where a reader can see or hear it</li>
+<li><strong>Describe</strong> what is actually there, using the vocabulary of the art form (line, color, composition, rhythm, montage, and so on)</li>
+<li><strong>Interpret</strong> what the work means or expresses, and support your reading with specific details from the work</li>
+<li><strong>Evaluate</strong> how well the work succeeds, and say what standard you are using to judge it</li>
+<li>Relate your analysis to at least one idea from the course units (for example subject matter and content, form, or the revelatory function of art)</li>
+</ul>
+
+<h3>Suggested Approaches</h3>
+<ul>
+<li><strong>Look closely</strong> at a work from the Gallery and show how a single detail carries the whole meaning</li>
+<li><strong>Compare</strong> two works in different art forms that treat the same subject, such as a war, a city, or a loss</li>
+<li><strong>Respond to a performance</strong> you can watch or listen to online, and explain what happens moment by moment</li>
+<li><strong>Test a claim</strong> from the course, for example that a work reveals the values of its culture, against a work you choose</li>
+</ul>
+
+<div class="callout callout--concept"><span class="callout__icon" aria-hidden="true">&#128161;</span><div class="callout__content">
+<p><strong>Choose a work that holds your attention.</strong> You will spend several pages with it. The best papers come from works the writer finds puzzling, moving, or even irritating, because there is something to work out.</p>
+</div></div>
+
+<div class="callout callout--connection"><span class="callout__icon" aria-hidden="true">&#10145;&#65039;</span><div class="callout__content">
+<p><strong>Need help getting started?</strong> Review your Experience It notes and reflections from each unit. The work you kept coming back to is usually the right one.</p>
+</div></div>
+`;

@@ -1,0 +1,67 @@
+const q = require("./q");
+
+module.exports = {
+  reflection: {
+    title: "Cinema and Editing",
+    subtitle: "How montage makes meaning that no single shot contains",
+    html: `<p>This unit introduces <strong>montage</strong> as an editing technique that creates meaning through the juxtaposition of images instead of through narrative continuity. The Odessa Steps sequence from Eisenstein's <em>Battleship Potemkin</em> (1925), in the Watch &amp; Listen section of the lesson, is one of the most famous examples of montage in film history. Watch the sequence carefully (it runs about seven minutes).</p>
+<div class="callout callout--concept"><span class="callout__icon" aria-hidden="true">&#128161;</span><div class="callout__content">
+<p><strong>The prompt</strong></p>
+<p>Describe how Eisenstein uses editing to create an emotional effect that no single shot could produce on its own. Consider: How long do individual shots last? How does the cutting rhythm change as the sequence progresses? What is the effect of cross-cutting between the soldiers, the fleeing crowd, the woman with the baby carriage, and the injured bystanders?</p>
+<p>Use the terminology from this unit (<strong>montage</strong>, <strong>cross-cutting</strong>, <strong>close-up</strong>, and <strong>long shot</strong>) in your response.</p>
+</div></div>
+<p>Pick two or three specific shots and say what each contributes alone and what it adds when placed beside its neighbors. If you imagine the same event filmed in one long take from a single position, what would be lost?</p>`,
+  },
+  quiz: [
+    q("Why is film's subject matter described as complex?",
+      "Because film combines the composition of painting, the narrative of literature, the performance of theater, and the rhythm of music.",
+      ["Because it is always about politics.", "Because it uses no sound.", "Because it is limited to one subject."],
+      "Correct. The camera adds its own dimensions: movement through space, compression or expansion of time, and the close-up.",
+      "Film draws on several art forms at once. Look for the answer that names how many it combines."),
+    q("Which shot fills the screen with a face or object?",
+      "A close-up.",
+      ["An establishing shot.", "A long shot.", "A crane shot."],
+      "Correct. A close-up places you inside a feeling, while a long shot places a person in a world.",
+      "An establishing shot sets the scene from far away, and a long shot shows distant figures. The shot that fills the screen is a close-up."),
+    q("What is the difference between a continuity cut and a jump cut?",
+      "A continuity cut is a smooth transition that preserves the sense of time flowing; a jump cut is abrupt and disorienting.",
+      ["A continuity cut uses sound; a jump cut does not.", "A continuity cut is longer.", "They are the same."],
+      "Correct. Both are tools of editing, the assembly of shots.",
+      "Continuity is about smoothness. A jump cut deliberately breaks it."),
+    q("Cross-cutting is",
+      "alternating between two simultaneous events.",
+      ["a very long single shot.", "a cut between a close-up and itself.", "a transition that fades to black."],
+      "Correct. Cross-cutting makes two events at once feel connected, as in the Odessa Steps when we cut between soldiers and fleeing crowds.",
+      "Cross-cutting alternates between two actions happening at the same time."),
+    q("Montage is",
+      "a sequence of images that creates meaning through juxtaposition instead of narrative continuity.",
+      ["a long shot of a landscape.", "a film's music.", "an actor's performance."],
+      "Correct. In montage, the meaning comes from the editing: the rhythm of the cuts and the accumulation of visual shock.",
+      "Montage creates meaning by placing images side by side. The meaning is in the juxtaposition."),
+    q("What does the concept of the auteur claim?",
+      "That the director is the true author of a film, the person whose vision unifies all the elements.",
+      ["That the screenwriter alone creates a film.", "That a film has no author.", "That the audience writes the film."],
+      "Correct. The idea came from French film criticism in the 1950s and remains influential.",
+      "Auteur is French for author. The claim concerns the director's unifying vision."),
+    q("In the Odessa Steps sequence, where does the meaning come from?",
+      "From the editing: the juxtaposition of images, the rhythm of the cuts, and the accumulation of visual shock.",
+      ["From the dialogue.", "From a single long take.", "From the opening credits."],
+      "Correct. No single shot tells the story. Eisenstein's montage creates chaos, terror, and injustice.",
+      "The sequence is famous because the editing, not any one shot, makes the effect."),
+    q("What visual style did Orson Welles use in the opening of Citizen Kane?",
+      "Deep focus, unusual camera angles, and long takes, with dissolves moving closer to Xanadu while one lit window stays in place.",
+      ["Only close-ups of actors.", "Silent film conventions.", "Animated drawings."],
+      "Correct. Deep focus keeps foreground and background sharp. Welles was 25 when he directed the film.",
+      "Welles's visual style used deep focus and long takes. The opening uses dissolves toward a mansion."),
+    q("In Bong Joon-ho's Parasite, why is architecture described as content and not just setting?",
+      "The vertical geography of the film, a modernist house on a hill and a semi-basement below, embodies its subject matter: economic inequality.",
+      ["Because the film is about building houses.", "Because the houses are cartoons.", "Because the film has no characters."],
+      "Correct. Bong designed the Park house for the film, so architecture functions as artistic form within another art form.",
+      "The lesson says the houses' positions up and down the hill are inseparable from the film's subject, inequality."),
+    q("What did Georges Méliès add to early cinema in A Trip to the Moon?",
+      "Special effects and storytelling made with painted sets and tricks such as stopping the camera, changing something in the scene, and starting again.",
+      ["Synchronized sound and color film.", "Documentary footage of an actual trip.", "The first close-ups of faces."],
+      "Correct. As a stage magician, Méliès saw that the camera could create illusions as well as record.",
+      "Méliès was a magician. His film uses staged sets and camera tricks that make things appear and vanish."),
+  ],
+};

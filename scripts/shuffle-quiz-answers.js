@@ -1,13 +1,19 @@
 // Reorders answer choices in every quiz page so the correct answer is spread evenly across
 // A–D (no letter correct more than twice in a row). Deterministic: seeded by file path, so a
-// re-run produces the same order. Two-choice (True/False) questions keep their order.
+// re-run on freshly built quizzes produces the same order. Two-choice (True/False) questions keep
+// their order.
+//
+// Usage: node scripts/shuffle-quiz-answers.js [course ...]   (default: huma1301)
+// phil1301 and phil2306 were shuffled once already; shuffling an already-shuffled quiz reorders it
+// again, so name those courses only after rebuilding their quizzes from source.
 
 const cheerio = require("cheerio");
 const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
-const QUIZZES = ["phil1301", "phil2306"].flatMap((course) =>
+const COURSES = process.argv.length > 2 ? process.argv.slice(2) : ["huma1301"];
+const QUIZZES = COURSES.flatMap((course) =>
   fs.readdirSync(path.join(ROOT, course))
     .filter((d) => d.startsWith("unit-") && fs.existsSync(path.join(ROOT, course, d, "quiz.njk")))
     .map((d) => path.join(ROOT, course, d, "quiz.njk")));
