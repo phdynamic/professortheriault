@@ -47,3 +47,8 @@
 - media: 36 new Commons images downloaded after developer approval; 40 YouTube clips verified embeddable; export errors fixed (Adams photo mislabeled Moonrise, hotlinked images localized, stray tags removed from alt/title)
 - check script passes for the whole course; clean build 161 pages, 0 broken links; PHIL 1301/2306 unchanged
 - unverified: instructor review of Claude-written feedback; Smarthistory deep links (bot-blocked); not merged to main
+
+## 2026-10-11 — HUMA 1301 live
+- final review fixes: theme button contrast, lesson word floor, credits, stray essay wording (663a5da)
+- squash-merged to main (9fe9168) and deployed; live checks: course pages, homepage card, PHIL 1301/2306, /comments/ 404 all as expected
+- live-tested: yes (curl)

@@ -1,10 +1,9 @@
 NEXT SESSION — updated 2026-10-11 (end of session)
 
 Left off:
-- HUMA 1301 Introduction to the Humanities is built on branch humanities-course (not pushed, not merged).
-- Final whole-branch review done by a fresh reviewer; its Important findings were fixed (invisible button text under the theme, word floor, credits, stray essay wording). Rulings and deferred minors are in the session's final message.
+- HUMA 1301 Introduction to the Humanities is LIVE (squash-merged to main as 9fe9168, verified on https://professortheriault.com/huma1301/ and the homepage card). The local branch humanities-course can be deleted; its history holds ~140 MB of raw images and the publisher's question bank, so never push it.
 
 Next:
-- Developer reviews the course (preview: npx @11ty/eleventy --serve, then /huma1301/) and TESTING-OWED.md items.
-- After approval: SQUASH-merge humanities-course into main (git merge --squash). The branch history contains ~140 MB of raw export images (Task 2 commit) AND the publisher's question bank scripts/huma-banks.json (commit 83c6376, removed in 9f4c1a1). Never push or merge the branch history; use git merge --squash, or squash the branch into one commit first. Keep .claude/settings.local.json unstaged. Then push, wait for Netlify, verify https://professortheriault.com/huma1301/ and the homepage card.
+- Developer reviews the course content (see TESTING-OWED.md): quiz feedback, reflections, Final Paper wording, Smarthistory links, third-party clips, credits.
 - Developer: remove the custom domain in GitHub repo Settings > Pages.
+- Deferred minors from the final review are listed in the session summary (gallery.js stale image error and aria-live; a few caption details).
