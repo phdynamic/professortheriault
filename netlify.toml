@@ -7,6 +7,15 @@
   NODE_VERSION = "22"
 
 # Serve the EthicsLens project site (hosted on GitHub Pages) under /ethicslens/.
+# Without a trailing slash its relative stylesheet and script links would break, but Netlify treats
+# /ethicslens and /ethicslens/ as the same address (a redirect to the slash form loops), so send
+# the slash-less address to the index file instead.
+[[redirects]]
+  from = "/ethicslens"
+  to = "/ethicslens/index.html"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/ethicslens/*"
   to = "https://phdynamic.github.io/ethicslens/:splat"
