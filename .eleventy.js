@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add(".claude/**");
   eleventyConfig.ignores.add("node_modules/**");
   eleventyConfig.ignores.add(".github/**");
+  eleventyConfig.ignores.add("comments.md");
 
   // Pages in the same course and module, in position order — drives prev/next and unit tables of contents.
   eleventyConfig.addFilter("modulePages", function (allPages, courseSlug, moduleSlug) {
