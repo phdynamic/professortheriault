@@ -24,6 +24,14 @@ module.exports = function (eleventyConfig) {
       .replace(/<\/table>/g, "</table></div>");
   });
 
+  // Tables scroll inside their own box on narrow screens instead of widening the page.
+  eleventyConfig.addTransform("wrapTables", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content
+      .replace(/<table\b/g, '<div class="table-wrap"><table')
+      .replace(/<\/table>/g, "</table></div>");
+  });
+
   return {
     dir: {
       input: ".",
