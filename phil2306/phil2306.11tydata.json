@@ -40,7 +40,7 @@
         "slug": "unit-1-aristotle",
         "title": "Unit 1: Aristotle",
         "icon": "&#127994;",
-        "description": "Virtue, character, and the good life in the Nicomachean Ethics.",
+        "description": "Explore Aristotle’s account of virtue, character, and the good life through the Nicomachean Ethics.",
         "pages": [
           {
             "slug": "index",
@@ -80,7 +80,7 @@
         "slug": "unit-2-aquinas",
         "title": "Unit 2: Thomas Aquinas",
         "icon": "&#128220;",
-        "description": "Natural law, the order of reason, and the cardinal virtues.",
+        "description": "Examine Aquinas’s theory of natural law and the cardinal virtues in the Summa Theologiae.",
         "pages": [
           {
             "slug": "index",
@@ -128,7 +128,7 @@
         "slug": "unit-3-kant",
         "title": "Unit 3: Immanuel Kant",
         "icon": "&#129517;",
-        "description": "Duty, the good will, and the categorical imperative.",
+        "description": "Investigate Kant’s ethics of duty, the good will, and the categorical imperative.",
         "pages": [
           {
             "slug": "index",
@@ -164,7 +164,7 @@
         "slug": "unit-4-mill",
         "title": "Unit 4: John Stuart Mill",
         "icon": "&#9878;&#65039;",
-        "description": "Utilitarianism and the greatest happiness principle.",
+        "description": "Understand Mill’s utilitarianism, the greatest happiness principle, and its account of justice.",
         "pages": [
           {
             "slug": "index",
@@ -200,7 +200,7 @@
         "slug": "unit-5-nietzsche",
         "title": "Unit 5: Friedrich Nietzsche",
         "icon": "&#128296;",
-        "description": "The genealogy of morality and the revaluation of values.",
+        "description": "Analyze Nietzsche’s genealogy of morality and his critique of our moral values.",
         "pages": [
           {
             "slug": "index",
@@ -236,7 +236,7 @@
         "slug": "unit-6-beauvoir",
         "title": "Unit 6: Simone de Beauvoir",
         "icon": "&#128330;&#65039;",
-        "description": "Freedom, ambiguity, and an ethics for situated beings.",
+        "description": "Explore de Beauvoir’s ethics of freedom, ambiguity, and responsibility to others.",
         "pages": [
           {
             "slug": "index",
@@ -267,8 +267,8 @@
       {
         "slug": "final-paper",
         "title": "Final Paper",
-        "icon": "&#128221;",
-        "description": "An essay on one philosopher from the course.",
+        "icon": "&#128196;",
+        "description": "Final paper assignment covering one philosopher from the course.",
         "pages": [
           {
             "slug": "index",
