@@ -6,11 +6,7 @@
 [build.environment]
   NODE_VERSION = "22"
 
-[[redirects]]
-  from = "/ethicslens"
-  to = "/ethicslens/"
-  status = 301
-
+# Serve the EthicsLens project site (hosted on GitHub Pages) under /ethicslens/.
 [[redirects]]
   from = "/ethicslens/*"
   to = "https://phdynamic.github.io/ethicslens/:splat"
