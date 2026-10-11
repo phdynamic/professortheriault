@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }} | {{ course.title }}</title>
   <meta name="description" content="{{ description or course.title }}">
-  <link rel="stylesheet" href="/phil1301/css/styles.css">
+  <link rel="stylesheet" href="/course-assets/css/styles.css">
 </head>
 <body>
 
@@ -31,8 +31,8 @@
           <ul class="sidebar__pages">
             {% for pg in mod.pages %}
             <li>
-              <a href="/phil1301/{{ mod.slug }}/{% if pg.slug != 'index' %}{{ pg.slug }}/{% endif %}"
-                 class="sidebar__link{% if page.url == '/phil1301/' + mod.slug + '/' and pg.slug == 'index' %} sidebar__link--current{% elif page.url == '/phil1301/' + mod.slug + '/' + pg.slug + '/' %} sidebar__link--current{% endif %}">
+              <a href="/{{ course.slug }}/{{ mod.slug }}/{% if pg.slug != 'index' %}{{ pg.slug }}/{% endif %}"
+                 class="sidebar__link{% if page.url == '/' + course.slug + '/' + mod.slug + '/' and pg.slug == 'index' %} sidebar__link--current{% elif page.url == '/' + course.slug + '/' + mod.slug + '/' + pg.slug + '/' %} sidebar__link--current{% endif %}">
                 {{ pg.title }}
               </a>
             </li>
@@ -49,12 +49,12 @@
       <nav class="breadcrumbs" aria-label="Breadcrumb">
         <a href="/">Home</a>
         <span class="breadcrumbs__sep">&rsaquo;</span>
-        <a href="/phil1301/">PHIL 1301</a>
+        <a href="/{{ course.slug }}/">{{ course.shortTitle }}</a>
         {% if module %}
         <span class="breadcrumbs__sep">&rsaquo;</span>
         {% for mod in course.modules %}
           {% if mod.slug == module %}
-          <a href="/phil1301/{{ mod.slug }}/">{{ mod.title }}</a>
+          <a href="/{{ course.slug }}/{{ mod.slug }}/">{{ mod.title }}</a>
           {% endif %}
         {% endfor %}
         {% endif %}
@@ -72,8 +72,8 @@
     <p>&copy; 2026 Professor Theriault. All rights reserved.</p>
   </footer>
 
-  <script src="/phil1301/js/nav.js"></script>
-  <script src="/phil1301/js/accordion.js"></script>
-  <script src="/phil1301/js/quiz.js"></script>
+  <script src="/course-assets/js/nav.js"></script>
+  <script src="/course-assets/js/accordion.js"></script>
+  <script src="/course-assets/js/quiz.js"></script>
 </body>
 </html>

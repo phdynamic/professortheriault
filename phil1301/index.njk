@@ -1,46 +1,6 @@
 ---
-layout: layouts/base.njk
+layout: layouts/course-home.njk
 title: "Introduction to Philosophy"
+subtitle: "PHIL 1301 — Explore the ideas that shaped human thought"
 description: "PHIL 1301: Introduction to Philosophy — Course home page"
 ---
-
-<div class="course-hero">
-  <h1>Introduction to Philosophy</h1>
-  <p class="subtitle">PHIL 1301 — Explore the ideas that shaped human thought</p>
-</div>
-
-{% for mod in course.modules %}
-  {% if loop.index0 == 0 %}
-  <div class="module-grid module-grid--single">
-    <a href="/phil1301/{{ mod.slug }}/" class="module-card">
-      <span class="module-card__icon">{{ mod.icon | safe }}</span>
-      <span class="module-card__title">{{ mod.title }}</span>
-      <span class="module-card__desc">{{ mod.description }}</span>
-    </a>
-  </div>
-  {% elif loop.index0 == 1 %}
-  <div class="module-grid module-grid--units">
-  {% endif %}
-
-  {% if loop.index0 >= 1 and loop.index0 <= 6 %}
-    <a href="/phil1301/{{ mod.slug }}/" class="module-card">
-      <span class="module-card__icon">{{ mod.icon | safe }}</span>
-      <span class="module-card__title">{{ mod.title }}</span>
-      <span class="module-card__desc">{{ mod.description }}</span>
-    </a>
-  {% endif %}
-
-  {% if loop.index0 == 6 %}
-  </div>
-  {% endif %}
-
-  {% if loop.index0 == 7 %}
-  <div class="module-grid module-grid--single">
-    <a href="/phil1301/{{ mod.slug }}/" class="module-card">
-      <span class="module-card__icon">{{ mod.icon | safe }}</span>
-      <span class="module-card__title">{{ mod.title }}</span>
-      <span class="module-card__desc">{{ mod.description }}</span>
-    </a>
-  </div>
-  {% endif %}
-{% endfor %}

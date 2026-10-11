@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="course-hero">
+  <h1>{{ title }}</h1>
+  <p class="subtitle">{{ subtitle }}</p>
+</div>
+
+{% macro moduleCard(mod) %}
+    <a href="/{{ course.slug }}/{{ mod.slug }}/" class="module-card">
+      <span class="module-card__icon">{{ mod.icon | safe }}</span>
+      <span class="module-card__title">{{ mod.title }}</span>
+      <span class="module-card__desc">{{ mod.description }}</span>
+    </a>
+{% endmacro %}
+
+{# First module (Start Here) and last module (Final Paper) get their own rows; the units fill a grid between them. #}
+{% for mod in course.modules %}
+  {% if loop.first or loop.last %}
+  <div class="module-grid module-grid--single">
+    {{ moduleCard(mod) }}
+  </div>
+  {% else %}
+    {% if loop.index0 == 1 %}<div class="module-grid module-grid--units">{% endif %}
+    {{ moduleCard(mod) }}
+    {% if loop.revindex0 == 1 %}</div>{% endif %}
+  {% endif %}
+{% endfor %}

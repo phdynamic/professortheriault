@@ -8,8 +8,7 @@ layout: layouts/base.njk
   {{ content | safe }}
 </div>
 
-{% set collectionName = tags[0] %}
-{% set pages = collections[collectionName] %}
+{% set pages = collections.all | modulePages(course.slug, module) %}
 
 {% if pages %}
   {% set currentIndex = -1 %}
